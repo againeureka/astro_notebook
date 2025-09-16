@@ -1,0 +1,32 @@
+[
+  {
+    "id": "M31",
+    "catalog": "Messier",
+    "name_en": "Andromeda Galaxy",
+    "name_kr": "안드로메다 은하",
+    "ra": "00:42:44.3",
+    "dec": "+41:16:09",
+    "magnitude": 3.44,
+    "type": "Galaxy",
+    "constellation": "Andromeda"
+  },
+  {
+    "id": "HR 2491",
+    "catalog": "BrightStar",
+    "name_en": "Sirius",
+    "name_kr": "시리우스",
+    "ra": "06:45:08.917",
+    "dec": "-16:42:58.02",
+    "magnitude": -1.46,
+    "spectralType": "A1V"
+  },
+  {
+    "id": "planet:venus",
+    "catalog": "SolarSystem",
+    "name_en": "Venus",
+    "name_kr": "금성",
+    "ra": null,
+    "dec": null,
+    "type": "Planet"
+  }
+]
