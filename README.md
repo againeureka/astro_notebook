@@ -28,7 +28,7 @@ $ bash run.sh
 ```
 
 
-## Core Features of Astro Notebook 2025
+## Core Features of Astro Notebook
 
 ---
 
