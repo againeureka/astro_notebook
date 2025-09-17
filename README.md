@@ -9,10 +9,11 @@
 <img src="doc/01.png" alt="demo page" width="500">
 <img src="doc/02.png" alt="demo page" width="500">
 
-## Raw catalogue source
+## Raw source data for search
 
 - SimpleMessier : https://github.com/WaylonGao/simpleMessier
 - BSC5P-JSON : https://github.com/frostoven/BSC5P-JSON
+
 
 ## How to run
 
