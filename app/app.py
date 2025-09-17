@@ -7,14 +7,15 @@ import pandas as pd
 import plotly.express as px
 from astropy.coordinates import SkyCoord
 import astropy.units as u
+from lang import translations
 
 # --- Project and Data Configuration ---
-PROJECT_NAME = "Astro Voyager"
+PROJECT_NAME = "Astro Notebook 2025"
 DB_NAME = "observations.db"
 UPLOAD_FOLDER = "uploads"
 CELESTIAL_DATA_FILE = "data/celestial_data.json"
 
-# 세션 상태 초기화
+# Initialize session state variables
 if 'editing' not in st.session_state:
     st.session_state.editing = None
 if 'found_object' not in st.session_state:
@@ -23,6 +24,11 @@ if 'current_page' not in st.session_state:
     st.session_state.current_page = 0
 if 'selected_date' not in st.session_state:
     st.session_state.selected_date = None
+if 'language' not in st.session_state:
+    st.session_state.language = 'en'
+
+# Get the translation dictionary for the selected language
+lang = translations[st.session_state.language]
 
 # Check and create the uploads folder
 if not os.path.exists(UPLOAD_FOLDER):
@@ -60,7 +66,7 @@ def init_db():
     conn.close()
 
 def delete_record(record_id):
-    """지정된 ID의 관측 기록을 데이터베이스에서 삭제합니다."""
+    """Deletes an observation record with the specified ID from the database."""
     conn = sqlite3.connect(DB_NAME)
     c = conn.cursor()
     c.execute("SELECT image_path FROM observations WHERE id=?", (record_id,))
@@ -73,12 +79,12 @@ def delete_record(record_id):
     if image_path and os.path.exists(image_path):
         os.remove(image_path)
     
-    st.success("✅ 기록이 성공적으로 삭제되었습니다.")
+    st.success(lang["success_delete"])
     st.session_state.editing = None
     st.rerun()
 
 def update_record(record_id, new_notes, new_image_file):
-    """지정된 ID의 관측 기록을 업데이트합니다."""
+    """Updates an observation record with the specified ID."""
     conn = sqlite3.connect(DB_NAME)
     c = conn.cursor()
 
@@ -98,76 +104,117 @@ def update_record(record_id, new_notes, new_image_file):
     )
     conn.commit()
     conn.close()
-    st.success("✅ 기록이 성공적으로 업데이트되었습니다.")
+    st.success(lang["success_update"])
     st.session_state.editing = None
     st.rerun()
 
 def set_edit_mode(record_data):
-    """편집 모드로 전환하고, 편집할 기록 데이터를 session_state에 저장합니다."""
+    """Switches to edit mode and stores the record data in session state."""
     st.session_state.editing = record_data
 
 def set_selected_date():
-    """달력 위젯의 날짜를 세션 상태에 저장합니다."""
+    """Saves the date from the calendar widget to the session state."""
     st.session_state.selected_date = st.session_state.date_picker
     st.session_state.current_page = 0
     st.rerun()
 
 def set_today_date():
-    """선택된 날짜를 오늘로 설정하고 새로고침합니다."""
+    """Sets the selected date to today's date and re-runs."""
     st.session_state.selected_date = datetime.date.today()
     st.session_state.current_page = 0
     st.rerun()
 
 # --- Streamlit UI ---
 st.set_page_config(page_title=PROJECT_NAME, layout="wide")
-st.title(f"🌌 {PROJECT_NAME}")
-st.markdown("나만의 우주 항해 일지를 기록하고 탐험하세요.")
+st.title(f"🌌 {lang['project_name']}")
+st.markdown(lang['app_description'])
 
 init_db()
 
-# --- 탭 구성 ---
-tab1, tab2 = st.tabs(["관측 일지", "데이터 관리 및 시각화"])
+# --- Language selector in sidebar ---
+with st.sidebar:
+    st.selectbox(
+        label=lang["language_selector"],
+        options=['en', 'ko'],
+        index=['en', 'ko'].index(st.session_state.language),
+        key='language_selector',
+        on_change=lambda: st.session_state.update(language=st.session_state.language_selector)
+    )
+    st.markdown("---")
+
+# --- Tab Configuration ---
+tab1, tab2 = st.tabs([lang['tab_log'], lang['tab_data']])
 
 # ======================================================================================================
-#                                          관측 일지 탭
+#                                          Observation Log Tab
 # ======================================================================================================
 with tab1:
-    # --- 새 관측 기록 추가 섹션 (사이드바) ---
-    st.sidebar.header("새로운 관측 기록 추가")
-    object_search_input = st.sidebar.text_input("천체 이름 또는 ID를 입력하세요", placeholder="안드로메다 은하, M31, Sirius")
+    # --- Add New Observation Section (Sidebar) ---
+    st.sidebar.header(lang['sidebar_header'])
+
+    # Display current date and time
+    now = datetime.datetime.now()
+    st.sidebar.markdown(f"**{lang['current_time']}:** {now.strftime('%Y-%m-%d %H:%M:%S')}")
+
+    object_search_input = st.sidebar.text_input(lang['search_label'], placeholder=lang['search_placeholder'])
     found_object = None
-    
+
     # --- UPDATED SEARCH LOGIC ---
     if object_search_input:
         search_query = object_search_input.lower().replace(" ", "")
         
-        # 1. Exact match search
+        # 1. Exact match search across all relevant fields
         for obj in CELESTIAL_DATA:
-            if obj.get('id', '').lower().replace(" ", "") == search_query or \
-               obj.get('name_en', '').lower().replace(" ", "") == search_query or \
-               obj.get('name_kr', '').lower().replace(" ", "") == search_query:
+            obj_id = obj.get('id', '').lower().replace(" ", "")
+            obj_name_en = obj.get('name_en', '').lower().replace(" ", "")
+            try:
+                obj_name_kr = obj.get('name_kr', '').lower().replace(" ", "")
+            except:
+                obj_name_kr = ''
+                
+            # Check aliases
+            aliases_en = [a.lower().replace(" ", "") for a in obj.get('aliases_en', []) if a]
+            aliases_kr = [a.lower().replace(" ", "") for a in obj.get('aliases_kr', []) if a]
+            
+            if obj_id == search_query or \
+               obj_name_en == search_query or \
+               obj_name_kr == search_query or \
+               search_query in aliases_en or \
+               search_query in aliases_kr:
                 found_object = obj
                 break
         
         # 2. If no exact match, perform a more flexible "starts with" search
         if not found_object:
             for obj in CELESTIAL_DATA:
-                if obj.get('id', '').lower().replace(" ", "").startswith(search_query) or \
-                   obj.get('name_en', '').lower().replace(" ", "").startswith(search_query) or \
-                   obj.get('name_kr', '').lower().replace(" ", "").startswith(search_query):
+                obj_id = obj.get('id', '').lower().replace(" ", "")
+                obj_name_en = obj.get('name_en', '').lower().replace(" ", "")
+                try:
+                    obj_name_kr = obj.get('name_kr', '').lower().replace(" ", "")
+                except:
+                    obj_name_kr = ''
+                    
+                aliases_en = [a.lower().replace(" ", "") for a in obj.get('aliases_en', []) if a]
+                aliases_kr = [a.lower().replace(" ", "") for a in obj.get('aliases_kr', []) if a]
+
+                if obj_id.startswith(search_query) or \
+                   obj_name_en.startswith(search_query) or \
+                   obj_name_kr.startswith(search_query) or \
+                   any(alias.startswith(search_query) for alias in aliases_en) or \
+                   any(alias.startswith(search_query) for alias in aliases_kr):
                     found_object = obj
                     break
 
     st.session_state.found_object = found_object
 
     with st.sidebar.form("new_observation_form"):
-        celestial_id = st.text_input("천체 ID", value=st.session_state.found_object['id'] if st.session_state.found_object else "", disabled=True)
-        celestial_name_kr = st.text_input("한글 이름", value=st.session_state.found_object['name_kr'] if st.session_state.found_object else "", disabled=True)
-        ra = st.text_input("적경 (RA)", value=st.session_state.found_object['ra'] if st.session_state.found_object and 'ra' in st.session_state.found_object else "", disabled=True)
-        dec = st.text_input("적위 (Dec)", value=st.session_state.found_object['dec'] if st.session_state.found_object and 'dec' in st.session_state.found_object else "", disabled=True)
-        notes = st.text_area("관측 느낌 및 메모", placeholder="오늘 밤 하늘이 맑아 안드로메다 은하를 쌍안경으로 관측했어요.")
-        uploaded_file = st.file_uploader("사진 또는 스케치 업로드", type=["png", "jpg", "jpeg", "svg"])
-        submitted = st.form_submit_button("기록 저장")
+        celestial_id = st.text_input(lang['celestial_id'], value=st.session_state.found_object['id'] if st.session_state.found_object else "", disabled=True)
+        celestial_name_kr = st.text_input(lang['celestial_name_kr'], value=st.session_state.found_object['name_kr'] if st.session_state.found_object else "", disabled=True)
+        ra = st.text_input(lang['ra_label'], value=st.session_state.found_object['ra'] if st.session_state.found_object and 'ra' in st.session_state.found_object else "", disabled=True)
+        dec = st.text_input(lang['dec_label'], value=st.session_state.found_object['dec'] if st.session_state.found_object and 'dec' in st.session_state.found_object else "", disabled=True)
+        notes = st.text_area(lang['notes_label'], placeholder=lang['notes_placeholder'])
+        uploaded_file = st.file_uploader(lang['upload_file'], type=["png", "jpg", "jpeg", "svg"])
+        submitted = st.form_submit_button(lang['save_record'])
 
         if submitted:
             if st.session_state.found_object:
@@ -191,20 +238,20 @@ with tab1:
                 )
                 conn.commit()
                 conn.close()
-                st.sidebar.success("✅ 관측 기록이 성공적으로 저장되었습니다!")
+                st.sidebar.success(lang['success_save'])
                 st.session_state.found_object = None
                 st.rerun()
             else:
-                st.sidebar.error("❌ 유효한 천체 이름을 먼저 검색하세요.")
+                st.sidebar.error(lang['error_search'])
 
-    # --- 관측 일지 목록 섹션 ---
-    st.header("나의 관측 일지")
+    # --- Observation Log List Section ---
+    st.header(lang['log_header'])
     col1, col2 = st.columns([0.7, 0.3])
     with col1:
-        st.date_input("날짜 선택", key="date_picker", on_change=set_selected_date)
+        st.date_input(lang['select_date'], key="date_picker", on_change=set_selected_date)
     with col2:
-        st.markdown(" ") # 여백
-        st.button("오늘", on_click=set_today_date)
+        st.markdown(" ") # Spacer
+        st.button(lang['today'], on_click=set_today_date)
 
     conn = sqlite3.connect(DB_NAME)
     c = conn.cursor()
@@ -230,14 +277,14 @@ with tab1:
         col1, col2, col3 = st.columns([1, 1, 1])
         with col1:
             if st.session_state.current_page > 0:
-                if st.button("이전 페이지"):
+                if st.button(lang['previous']):
                     st.session_state.current_page -= 1
                     st.rerun()
         with col2:
-            st.write(f"페이지 {st.session_state.current_page + 1}/{total_pages}")
+            st.write(f"{lang['page']} {st.session_state.current_page + 1}/{total_pages}")
         with col3:
             if st.session_state.current_page < total_pages - 1:
-                if st.button("다음 페이지"):
+                if st.button(lang['next']):
                     st.session_state.current_page += 1
                     st.rerun()
         st.markdown("---")
@@ -245,7 +292,7 @@ with tab1:
         paginated_observations = all_observations
 
     if not paginated_observations:
-        st.info("해당 날짜에 관측 기록이 없습니다. 새로운 기록을 추가해보세요.")
+        st.info(lang['no_records'])
     else:
         for obs in paginated_observations:
             (
@@ -256,41 +303,41 @@ with tab1:
 
             if st.session_state.editing and st.session_state.editing['id'] == obs_id:
                 with st.expander(f"**{celestial_name_kr}** - {observation_date}", expanded=True):
-                    st.markdown("### 기록 편집 중")
-                    st.markdown(f"**천체 ID:** {celestial_id}, **적경(RA):** `{ra}`, **적위(Dec):** `{dec}`")
-                    st.markdown(f"**목록:** {catalog}, **등급:** {magnitude}, **유형:** {celestial_type}, **별자리:** {constellation}")
+                    st.markdown(f"### {lang['editing_record']}")
+                    st.markdown(f"**{lang['celestial_id']}:** {celestial_id}, **{lang['ra_label']}:** `{ra}`, **{lang['dec_label']}:** `{dec}`")
+                    st.markdown(f"**Catalog:** {catalog}, **Magnitude:** {magnitude}, **Type:** {celestial_type}, **Constellation:** {constellation}")
 
-                    new_notes = st.text_area("새로운 메모를 입력하세요", value=notes)
+                    new_notes = st.text_area(lang['new_notes'], value=notes)
                     if image_path:
-                        st.image(image_path, caption="현재 사진", width=200)
-                    new_image_file = st.file_uploader("새로운 사진 업로드", type=["png", "jpg", "jpeg", "svg"], key=f"edit_file_{obs_id}")
+                        st.image(image_path, caption=lang['image_caption'], width=200)
+                    new_image_file = st.file_uploader(lang['new_image'], type=["png", "jpg", "jpeg", "svg"], key=f"edit_file_{obs_id}")
                     
                     col1, col2 = st.columns(2)
                     with col1:
-                        if st.button("수정 완료", key=f"edit_complete_{obs_id}"):
+                        if st.button(lang['save_changes'], key=f"edit_complete_{obs_id}"):
                             update_record(obs_id, new_notes, new_image_file)
                     with col2:
-                        if st.button("취소", key=f"edit_cancel_{obs_id}"):
+                        if st.button(lang['cancel'], key=f"edit_cancel_{obs_id}"):
                             st.session_state.editing = None
                             st.rerun()
             else:
                 with st.expander(f"**{celestial_name_kr}** - {observation_date}"):
-                    st.write(f"**ID:** {celestial_id}, **적경(RA):** `{ra}`, **적위(Dec):** `{dec}`")
-                    st.write(f"**목록:** {catalog}, **등급:** {magnitude}")
-                    st.write(f"**유형:** {celestial_type}, **별자리:** {constellation}")
-                    st.write(f"**느낌 및 메모:** {notes}")
+                    st.write(f"**{lang['celestial_id']}:** {celestial_id}, **{lang['ra_label']}:** `{ra}`, **{lang['dec_label']}:** `{dec}`")
+                    st.write(f"**Catalog:** {catalog}, **Magnitude:** {magnitude}")
+                    st.write(f"**Type:** {celestial_type}, **Constellation:** {constellation}")
+                    st.write(f"**{lang['notes_label']}:** {notes}")
                     if image_path:
                         try:
-                            st.image(image_path, caption=f"{celestial_name_kr} 이미지")
+                            st.image(image_path, caption=f"{celestial_name_kr} Image")
                         except FileNotFoundError:
-                            st.warning("경로에 이미지가 존재하지 않습니다.")
+                            st.warning(lang['file_not_found'])
                     
                     col1, col2 = st.columns(2)
                     with col1:
-                        if st.button("삭제", key=f"delete_{obs_id}"):
+                        if st.button(lang['delete'], key=f"delete_{obs_id}"):
                             delete_record(obs_id)
                     with col2:
-                        if st.button("편집", key=f"edit_{obs_id}"):
+                        if st.button(lang['edit'], key=f"edit_{obs_id}"):
                             record_data = {
                                 "id": obs_id,
                                 "celestial_name_kr": celestial_name_kr,
@@ -301,10 +348,10 @@ with tab1:
                             st.rerun()
 
 # ======================================================================================================
-#                                    데이터 관리 및 시각화 탭
+#                                    Data Management & Visualization Tab
 # ======================================================================================================
 with tab2:
-    st.header("데이터 내보내기")
+    st.header(lang['export_data_header'])
     conn = sqlite3.connect(DB_NAME)
     c = conn.cursor()
     c.execute("SELECT * FROM observations ORDER BY observation_date DESC")
@@ -316,7 +363,7 @@ with tab2:
 
     json_data = df.to_json(orient='records', force_ascii=False)
     st.download_button(
-        label="JSON 파일로 내보내기",
+        label=lang['export_json'],
         data=json_data,
         file_name="astro_voyager_observations.json",
         mime="application/json"
@@ -324,7 +371,7 @@ with tab2:
 
     csv_data = df.to_csv(index=False).encode('utf-8')
     st.download_button(
-        label="CSV 파일로 내보내기",
+        label=lang['export_csv'],
         data=csv_data,
         file_name="astro_voyager_observations.csv",
         mime="text/csv"
@@ -332,7 +379,7 @@ with tab2:
 
     html_data = df.to_html().encode('utf-8')
     st.download_button(
-        label="HTML 파일로 내보내기",
+        label=lang['export_html'],
         data=html_data,
         file_name="astro_voyager_observations.html",
         mime="text/html"
@@ -341,7 +388,7 @@ with tab2:
     with open(DB_NAME, "rb") as f:
         db_file_bytes = f.read()
     st.download_button(
-        label="데이터베이스 파일(.db) 내보내기",
+        label=lang['export_db'],
         data=db_file_bytes,
         file_name=DB_NAME,
         mime="application/octet-stream"
@@ -349,7 +396,7 @@ with tab2:
     
     st.markdown("---")
     
-    st.header("나의 관측 우주 지도")
+    st.header(lang['map_header'])
     
     def parse_ra_dec(ra_str, dec_str):
         try:
@@ -398,7 +445,7 @@ with tab2:
                             hover_data={'ra': True, 'dec': True, 'notes': True, 'count': True})
         
         fig.update_traces(marker=dict(line=dict(width=2, color='DarkSlateGrey')))
-        fig.update_layout(title="관측 횟수별 천체 위치", scene_camera=dict(eye=dict(x=1.2, y=1.2, z=0.6)))
+        fig.update_layout(title=lang['map_title'], scene_camera=dict(eye=dict(x=1.2, y=1.2, z=0.6)))
         st.plotly_chart(fig, use_container_width=True)
     else:
-        st.info("지도에 표시할 관측 기록이 없습니다.")
+        st.info(lang['no_map_data'])
