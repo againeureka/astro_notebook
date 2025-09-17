@@ -50,6 +50,7 @@ def init_db():
         CREATE TABLE IF NOT EXISTS observations (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             celestial_id TEXT,
+            celestial_name_en TEXT,
             celestial_name_kr TEXT,
             catalog TEXT,
             ra TEXT,
@@ -230,11 +231,17 @@ with tab1:
                 conn = sqlite3.connect(DB_NAME)
                 c = conn.cursor()
                 c.execute(
-                    "INSERT INTO observations (celestial_id, celestial_name_kr, catalog, ra, dec, magnitude, type, constellation, notes, image_path, observation_date) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                    "INSERT INTO observations (celestial_id, celestial_name_en, celestial_name_kr, catalog, ra, dec, magnitude, type, constellation, notes, image_path, observation_date) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     (
-                        st.session_state.found_object.get('id'), st.session_state.found_object.get('name_kr'), st.session_state.found_object.get('catalog'),
-                        st.session_state.found_object.get('ra'), st.session_state.found_object.get('dec'), st.session_state.found_object.get('magnitude'),
-                        st.session_state.found_object.get('type'), st.session_state.found_object.get('constellation'),
+                        st.session_state.found_object.get('id'), 
+                        st.session_state.found_object.get('name_en'), 
+                        st.session_state.found_object.get('name_kr'), 
+                        st.session_state.found_object.get('catalog'),
+                        st.session_state.found_object.get('ra'), 
+                        st.session_state.found_object.get('dec'), 
+                        st.session_state.found_object.get('magnitude'),
+                        st.session_state.found_object.get('type'), 
+                        st.session_state.found_object.get('constellation'),
                         notes, image_path, datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                     )
                 )
@@ -298,13 +305,18 @@ with tab1:
     else:
         for obs in paginated_observations:
             (
-                obs_id, celestial_id, celestial_name_kr, catalog,
+                obs_id, celestial_id, celestial_name_en, celestial_name_kr, catalog,
                 ra, dec, magnitude, celestial_type, constellation,
                 notes, image_path, observation_date
             ) = obs
 
+            if st.session_state.language == 'en':
+                celestial_name = celestial_name_en
+            else:
+                celestial_name = celestial_name_kr
+                
             if st.session_state.editing and st.session_state.editing['id'] == obs_id:
-                with st.expander(f"**{celestial_name_kr}** - {observation_date}", expanded=True):
+                with st.expander(f"**{celestial_name}** - {observation_date}", expanded=True):
                     st.markdown(f"### {lang['editing_record']}")
                     st.markdown(f"**{lang['celestial_id']}:** {celestial_id}, **{lang['ra_label']}:** `{ra}`, **{lang['dec_label']}:** `{dec}`")
                     st.markdown(f"**Catalog:** {catalog}, **Magnitude:** {magnitude}, **Type:** {celestial_type}, **Constellation:** {constellation}")
@@ -323,14 +335,14 @@ with tab1:
                             st.session_state.editing = None
                             st.rerun()
             else:
-                with st.expander(f"**{celestial_name_kr}** - {observation_date}"):
+                with st.expander(f"**{celestial_name}** - {observation_date}"):
                     st.write(f"**{lang['celestial_id']}:** {celestial_id}, **{lang['ra_label']}:** `{ra}`, **{lang['dec_label']}:** `{dec}`")
                     st.write(f"**Catalog:** {catalog}, **Magnitude:** {magnitude}")
                     st.write(f"**Type:** {celestial_type}, **Constellation:** {constellation}")
                     st.write(f"**{lang['notes_label']}:** {notes}")
                     if image_path:
                         try:
-                            st.image(image_path, caption=f"{celestial_name_kr} Image")
+                            st.image(image_path, caption=f"{celestial_name} Image")
                         except FileNotFoundError:
                             st.warning(lang['file_not_found'])
                     
@@ -342,6 +354,7 @@ with tab1:
                         if st.button(lang['edit'], key=f"edit_{obs_id}"):
                             record_data = {
                                 "id": obs_id,
+                                "celestial_name_en": celestial_name_en,
                                 "celestial_name_kr": celestial_name_kr,
                                 "notes": notes,
                                 "image_path": image_path
@@ -367,7 +380,7 @@ with tab2:
     st.download_button(
         label=lang['export_json'],
         data=json_data,
-        file_name="astro_voyager_observations.json",
+        file_name="astro_notebook_observations.json",
         mime="application/json"
     )
 
@@ -375,7 +388,7 @@ with tab2:
     st.download_button(
         label=lang['export_csv'],
         data=csv_data,
-        file_name="astro_voyager_observations.csv",
+        file_name="astro_notebook_observations.csv",
         mime="text/csv"
     )
 
@@ -383,7 +396,7 @@ with tab2:
     st.download_button(
         label=lang['export_html'],
         data=html_data,
-        file_name="astro_voyager_observations.html",
+        file_name="astro_notebook_observations.html",
         mime="text/html"
     )
 
@@ -411,17 +424,18 @@ with tab2:
 
     conn = sqlite3.connect(DB_NAME)
     c = conn.cursor()
-    c.execute("SELECT celestial_name_kr, notes, celestial_id, ra, dec FROM observations")
+    c.execute("SELECT celestial_name_en, celestial_name_kr, notes, celestial_id, ra, dec FROM observations")
     all_observations = c.fetchall()
     conn.close()
 
     viz_data = []
     for obs in all_observations:
-        name_kr, notes, id, ra, dec = obs
+        name_en, name_kr, notes, id, ra, dec = obs
         parsed_ra, parsed_dec = parse_ra_dec(ra, dec)
         if parsed_ra is not None and parsed_dec is not None:
             viz_data.append({
-                "name": name_kr, 
+                "name": name_en,
+                "name_kr": name_kr, 
                 "ra": parsed_ra, 
                 "dec": parsed_dec, 
                 "notes": notes, 

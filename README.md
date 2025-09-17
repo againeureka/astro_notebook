@@ -8,6 +8,9 @@
 
 <img src="doc/01.png" alt="demo page" width="500">
 <img src="doc/02.png" alt="demo page" width="500">
+<img src="doc/03.png" alt="demo page" width="500">
+<img src="doc/04.png" alt="demo page" width="500">
+<img src="doc/05.png" alt="demo page" width="500">
 
 ## Raw source data for search
 
