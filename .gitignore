@@ -1,6 +1,7 @@
 **/.ipynb_checkpoints
 **/*.db
 **/uploads
+**/venv
 
 
 

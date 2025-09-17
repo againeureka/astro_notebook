@@ -1,0 +1,542 @@
+[
+    {
+        "name": "M1, Crab Nebula.",
+        "coordinates": "RA 05h 34.5m, LD. +22º 01’",
+        "magnitude": 8.4
+    },
+    {
+        "name": "M2",
+        "coordinates": "RA 21h 33.5m, LD. –00º 49’",
+        "magnitude": 6.5
+    },
+    {
+        "name": "M3",
+        "coordinates": "RA 13h 42.2m, LD. +28º 23’",
+        "magnitude": 6.2
+    },
+    {
+        "name": "M4",
+        "coordinates": "RA 16h 23.6m, LD. –26º 32’",
+        "magnitude": 5.6
+    },
+    {
+        "name": "M5",
+        "coordinates": "RA 15h 18.6m, LD. +02º 05’",
+        "magnitude": 5.3
+    },
+    {
+        "name": "M6",
+        "coordinates": "RA 17h 40.1m, LD. –32º 13’",
+        "magnitude": 5.3
+    },
+    {
+        "name": "M7",
+        "coordinates": "RA 17h 53.9m, LD. –34º 49’",
+        "magnitude": 4.1
+    },
+    {
+        "name": "M8",
+        "coordinates": "RA 18h 03.8m, LD. –24º 23’",
+        "magnitude": 6.0
+    },
+    {
+        "name": "M9",
+        "coordinates": "RA 17h 19.2m, LD. –18º 31’",
+        "magnitude": 7.7
+    },
+    {
+        "name": "M10",
+        "coordinates": "RA 16h 57.1m, LD. –04º 06’",
+        "magnitude": 6.6
+    },
+    {
+        "name": "M11",
+        "coordinates": "RA 18h 51.1m, LD. –06º 16’",
+        "magnitude": 6.3
+    },
+    {
+        "name": "M12",
+        "coordinates": "RA 16h 47.2m, LD. –01º 57’",
+        "magnitude": 6.7
+    },
+    {
+        "name": "M13",
+        "coordinates": "RA 16h 41.7m, LD. +36º 28’",
+        "magnitude": 5.8
+    },
+    {
+        "name": "M14",
+        "coordinates": "RA 17h 37.6m, LD. –03º 15’",
+        "magnitude": 7.6
+    },
+    {
+        "name": "M15",
+        "coordinates": "RA 21h 30.0m; LD. +12º 10’",
+        "magnitude": 6.2
+    },
+    {
+        "name": "M16",
+        "coordinates": "RA 18h 18.8m, LD. –13º 47’",
+        "magnitude": 6.4
+    },
+    {
+        "name": "M17, The Omega Nebula",
+        "coordinates": "RA 18h 20.8m, LD. –16º 11’",
+        "magnitude": 7.0
+    },
+    {
+        "name": "M18",
+        "coordinates": "RA 18h 19.9m, LD. –17º 08’",
+        "magnitude": 7.5
+    },
+    {
+        "name": "M19",
+        "coordinates": "RA 17h 02.6m, LD. –26º 16’",
+        "magnitude": 6.8
+    },
+    {
+        "name": "M20, The Triffid Nebula",
+        "coordinates": "RA 18h 02.6m, LD. –23º 02’",
+        "magnitude": 9.0
+    },
+    {
+        "name": "M21",
+        "coordinates": "RA 18h 04.6m, LD. –22º 30’",
+        "magnitude": 6.5
+    },
+    {
+        "name": "M22 Great Sagittarius Globular Cluster",
+        "coordinates": "RA 18h 36.4m, LD. –23º 54’",
+        "magnitude": 5.1
+    },
+    {
+        "name": "M23",
+        "coordinates": "RA 17h 56.8m, LD. –19º 01’",
+        "magnitude": 6.9
+    },
+    {
+        "name": "M24",
+        "coordinates": "RA 18h 16.9m, LD. –18º 29’",
+        "magnitude": 4.6
+    },
+    {
+        "name": "M25",
+        "coordinates": "RA 18h 31.6m, LD. –19º 15’",
+        "magnitude": 6.5
+    },
+    {
+        "name": "M26",
+        "coordinates": "RA 18h 45.2m, LD. –09º 24’",
+        "magnitude": 8.0
+    },
+    {
+        "name": "M27",
+        "coordinates": "RA 19h 59.6m, LD. +22º 43’",
+        "magnitude": 7.4
+    },
+    {
+        "name": "M28",
+        "coordinates": "RA 18h 24.5m, LD. –24º 52’",
+        "magnitude": 6.8
+    },
+    {
+        "name": "M29",
+        "coordinates": "RA 20h 23.9m, LD. +38º 32’",
+        "magnitude": 7.1
+    },
+    {
+        "name": "M30",
+        "coordinates": "RA 21h 40.4m, LD. –23º 11’",
+        "magnitude": 7.2
+    },
+    {
+        "name": "M31, Andromeda galaxy",
+        "coordinates": "RA 00h 42.7m, LD. +41º 16’",
+        "magnitude": 3.4
+    },
+    {
+        "name": "M32",
+        "coordinates": "RA 00h 42.7m, LD. +40º 52’",
+        "magnitude": 8.1
+    },
+    {
+        "name": "M33 Triangulum Galaxy",
+        "coordinates": "RA 01h 33.9m, LD. +30º 39’",
+        "magnitude": 5.7
+    },
+    {
+        "name": "M34",
+        "coordinates": "RA 02h 42.0m, LD. +42º 47’",
+        "magnitude": 5.5
+    },
+    {
+        "name": "M35",
+        "coordinates": "RA 06h 08.9m, LD. +24º 20’",
+        "magnitude": 5.3
+    },
+    {
+        "name": "M36 Pinwheel Cluster",
+        "coordinates": "RA 05h 36.1m, LD. +34º 08’",
+        "magnitude": 6.3
+    },
+    {
+        "name": "M38",
+        "coordinates": "RA 05h 28.4m, LD. +35º 50’",
+        "magnitude": 7.4
+    },
+    {
+        "name": "M39",
+        "coordinates": "RA 21h 32.2m, LD. +48º 26’",
+        "magnitude": 4.6
+    },
+    {
+        "name": "M40",
+        "coordinates": "RA 12h 22.4m, LD. +58º 05’",
+        "magnitude": 8.4
+    },
+    {
+        "name": "M41",
+        "coordinates": "RA 03h 47.0m, LD. +24º 07’",
+        "magnitude": 1.6
+    },
+    {
+        "name": "M42 Orion Nebula",
+        "coordinates": "RA 03h 47.0m, LD. +24º 07’",
+        "magnitude": 1.6
+    },
+    {
+        "name": "M43 De Mairan's nebula",
+        "coordinates": "RA 03h 47.0m, LD. +24º 07’",
+        "magnitude": 1.6
+    },
+    {
+        "name": "M44 The Beehive Cluster",
+        "coordinates": "RA 03h 47.0m, LD. +24º 07’",
+        "magnitude": 1.6
+    },
+    {
+        "name": "M45 The Pleiades",
+        "coordinates": "RA 03h 47.0m, LD. +24º 07’",
+        "magnitude": 1.6
+    },
+    {
+        "name": "M46",
+        "coordinates": "RA 07h 41.8m, LD. –14º 49’",
+        "magnitude": 6.0
+    },
+    {
+        "name": "M47",
+        "coordinates": "RA 07h 36.6m, LD. –14º 30’",
+        "magnitude": 5.2
+    },
+    {
+        "name": "M48",
+        "coordinates": "RA 08h 13.8m, LD. –05º 48’",
+        "magnitude": 5.5
+    },
+    {
+        "name": "M49",
+        "coordinates": "RA 12h 29.8m, LD. +08º 00’",
+        "magnitude": 8.4
+    },
+    {
+        "name": "M50",
+        "coordinates": "RA 07h 03.2m, LD. –08º 20’",
+        "magnitude": 6.3
+    },
+    {
+        "name": "M51 The Whirlpool Galaxy",
+        "coordinates": "RA 13h 29.9m, LD. +47º 12’",
+        "magnitude": 8.4
+    },
+    {
+        "name": "M52",
+        "coordinates": "RA 13h 12.9m, LD. +18º 10’",
+        "magnitude": 7.6
+    },
+    {
+        "name": "M53 Globular Cluster",
+        "coordinates": "RA 13h 12.9m, LD. +18º 10’",
+        "magnitude": 7.6
+    },
+    {
+        "name": "M54",
+        "coordinates": "RA 18h 55.1m, LD. –30º 29’",
+        "magnitude": 7.6
+    },
+    {
+        "name": "M55",
+        "coordinates": "RA 19h 40.0m, LD. –30º 58’",
+        "magnitude": 6.3
+    },
+    {
+        "name": "M56",
+        "coordinates": "RA 19h 16.6m, LD. +30º 11’",
+        "magnitude": 8.3
+    },
+    {
+        "name": "M57",
+        "coordinates": "RA 18h 53.6m, LD. +33º 02’",
+        "magnitude": 8.8
+    },
+    {
+        "name": "M58",
+        "coordinates": "RA 12h 37.7m, LD. +11º 49’",
+        "magnitude": 9.7
+    },
+    {
+        "name": "M59",
+        "coordinates": "RA 12h 42.0m, LD. +11º 39’",
+        "magnitude": 9.6
+    },
+    {
+        "name": "M60",
+        "coordinates": "RA 12h 43.7m, LD. +11º 33’",
+        "magnitude": 8.8
+    },
+    {
+        "name": "M61",
+        "coordinates": "RA 12h 21.9m, LD. +04º 28’",
+        "magnitude": 9.7
+    },
+    {
+        "name": "M62",
+        "coordinates": "RA 17h 01.2m, LD. –30º 07’",
+        "magnitude": 6.5
+    },
+    {
+        "name": "M63",
+        "coordinates": "RA 13h 15.8m, LD. +42º 02’",
+        "magnitude": 8.6
+    },
+    {
+        "name": "M64",
+        "coordinates": "RA 12h 56.7m, LD. +21º 41’",
+        "magnitude": 8.5
+    },
+    {
+        "name": "M65",
+        "coordinates": "RA 11h 18.9m, LD. +13º 05’",
+        "magnitude": 9.3
+    },
+    {
+        "name": "M66",
+        "coordinates": "RA 11h 20.2m, LD. +12º 59’",
+        "magnitude": 8.9
+    },
+    {
+        "name": "M67 Open Cluster",
+        "coordinates": "RA 08h 50.4m, LD. +11º 49’",
+        "magnitude": 6.1
+    },
+    {
+        "name": "M68",
+        "coordinates": "RA 12h 39.5m, LD. –26º 45’",
+        "magnitude": 7.8
+    },
+    {
+        "name": "M69",
+        "coordinates": "RA 18h 31.4m, LD. –32º 21’",
+        "magnitude": 7.6
+    },
+    {
+        "name": "M70",
+        "coordinates": "RA 18h 43.2m, LD. –32º 18’",
+        "magnitude": 7.9
+    },
+    {
+        "name": "M71 Globular Cluster in Sagitta",
+        "coordinates": "RA 19h 53.8m, LD. +18º 47’",
+        "magnitude": 8.2
+    },
+    {
+        "name": "M72",
+        "coordinates": "RA 20h 53.5m, LD. –12º 32’",
+        "magnitude": 9.3
+    },
+    {
+        "name": "M73",
+        "coordinates": "RA 20:58.9, LD. –12:38",
+        "magnitude": 9.0
+    },
+    {
+        "name": "M74",
+        "coordinates": "RA 01h 36.7m, LD. +15º 47’",
+        "magnitude": 9.4
+    },
+    {
+        "name": "M75",
+        "coordinates": "RA 20h 06.1m, LD. –21º 55’",
+        "magnitude": 8.5
+    },
+    {
+        "name": "M76 Little Dumbbell",
+        "coordinates": "RA 01h 42.4m, LD. +51º 34’",
+        "magnitude": 10.1
+    },
+    {
+        "name": "M77",
+        "coordinates": "RA 02h 42.7m, LD. –00º 01’",
+        "magnitude": 8.9
+    },
+    {
+        "name": "M78",
+        "coordinates": "RA 05h 46.7m, LD. +00º 03’",
+        "magnitude": 8.3
+    },
+    {
+        "name": "M79",
+        "coordinates": "RA 09h 55.6m, LD. +69º 04’",
+        "magnitude": 6.9
+    },
+    {
+        "name": "M80",
+        "coordinates": "RA 09h 55.6m, LD. +69º 04’",
+        "magnitude": 6.9
+    },
+    {
+        "name": "M81",
+        "coordinates": "RA 09h 55.6m, LD. +69º 04’",
+        "magnitude": 6.9
+    },
+    {
+        "name": "M82, Cigar Galaxy",
+        "coordinates": "RA 09h 55.8m, LD. +69º 41’",
+        "magnitude": 8.4
+    },
+    {
+        "name": "M83, Southern Pinwheel Galaxy",
+        "coordinates": "RA 13h 37.0m, LD. –29º 52’",
+        "magnitude": 7.6
+    },
+    {
+        "name": "M84",
+        "coordinates": "RA 12h 25.1m, LD. –12º 53’",
+        "magnitude": 9.1
+    },
+    {
+        "name": "M85",
+        "coordinates": "RA 12h 25.4m, LD. +18º 11’",
+        "magnitude": 9.1
+    },
+    {
+        "name": "M87",
+        "coordinates": "RA 12h 30.8m, LD. +12º 24’",
+        "magnitude": 8.6
+    },
+    {
+        "name": "M88",
+        "coordinates": "RA 12h 32.0m, LD. +14º 25’",
+        "magnitude": 9.6
+    },
+    {
+        "name": "M89",
+        "coordinates": "RA 12h 35.7m, LD. +12º 33’",
+        "magnitude": 9.8
+    },
+    {
+        "name": "M90",
+        "coordinates": "RA 12h 36.8m, LD. +13º 10’",
+        "magnitude": 9.5
+    },
+    {
+        "name": "M91",
+        "coordinates": "RA 12h 35.4m, LD. +14º 30’",
+        "magnitude": 10.2
+    },
+    {
+        "name": "M92",
+        "coordinates": "RA 17h 17.1m, LD. +43º 08’",
+        "magnitude": 6.4
+    },
+    {
+        "name": "M93",
+        "coordinates": "RA 07:44.6, LD. –23:52",
+        "magnitude": 6.0
+    },
+    {
+        "name": "M94",
+        "coordinates": "RA 12h 50.9m, LD. +41º 07’",
+        "magnitude": 8.2
+    },
+    {
+        "name": "M95",
+        "coordinates": "RA 10h 44.0m, LD. +11º 42’",
+        "magnitude": 9.7
+    },
+    {
+        "name": "M96",
+        "coordinates": "RA 10h 46.8m, LD. +11º 49’",
+        "magnitude": 9.2
+    },
+    {
+        "name": "M97, Owl Nebula",
+        "coordinates": "RA 11h 14.8m, LD. +55º 01’",
+        "magnitude": 9.9
+    },
+    {
+        "name": "M98",
+        "coordinates": "RA 12h 13.8m, LD. +14º 54’",
+        "magnitude": 10.1
+    },
+    {
+        "name": "M99",
+        "coordinates": "RA 12h 18.8m, LD. +14º 25’ ",
+        "magnitude": 9.9
+    },
+    {
+        "name": "M100",
+        "coordinates": "RA 12h 22.9m, LD. +15º 49’",
+        "magnitude": 9.3
+    },
+    {
+        "name": "M101, The Pinwheel Galaxy",
+        "coordinates": "RA 14h 03.2m, LD. +54º 21’",
+        "magnitude": 7.9
+    },
+    {
+        "name": "M102",
+        "coordinates": "RA 15h 06.5m, LD. +55º 46’",
+        "magnitude": 9.9
+    },
+    {
+        "name": "M103, Open Cluster in Cassiopeia",
+        "coordinates": "RA 01h 33.2m, LD. +60º 42’",
+        "magnitude": 7.4
+    },
+    {
+        "name": "M104, The Sombrero Galaxy",
+        "coordinates": "RA 12h 40.0m, LD. –11º 37’",
+        "magnitude": 8.0
+    },
+    {
+        "name": "M105",
+        "coordinates": "RA 10h 47.8m, LD. +12º 35’",
+        "magnitude": 9.3
+    },
+    {
+        "name": "M106",
+        "coordinates": "RA 12h 19.0m, LD. +47º 18’",
+        "magnitude": 8.4
+    },
+    {
+        "name": "M107",
+        "coordinates": "RA 16h 32.5m, LD. –13º 03’",
+        "magnitude": 7.9
+    },
+    {
+        "name": "M108",
+        "coordinates": "RA 11h 11.5m, LD. +55º 40’",
+        "magnitude": 10.0
+    },
+    {
+        "name": "M109, Barred Spiral Galaxy",
+        "coordinates": "RA 11h 57.6m, LD. +53º 23’",
+        "magnitude": 9.8
+    },
+    {
+        "name": "M110",
+        "coordinates": "RA 00h 40.4m, LD. +41º 41’",
+        "magnitude": 8.5
+    }
+]
