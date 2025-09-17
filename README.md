@@ -2,7 +2,7 @@
 
 - An easy and reliable stargazing notebook(logbook) for all of us
 - by JPark(againeureka), Sep. 2025 (with Gemini 2.5 Flash and ChatGPT 5o)
-- git@github.com:againeureka/astro_notebook.git
+- https://github.com/againeureka/astro_notebook.git
 
 ## Demo pages
 
