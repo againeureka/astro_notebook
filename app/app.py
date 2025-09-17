@@ -376,6 +376,54 @@ with tab2:
     column_names = [description[0] for description in c.description]
     df = pd.DataFrame(db_rows, columns=column_names)
 
+    # --- HTML Export Fixes ---
+    def create_image_link(image_path):
+        """Creates an HTML link with a small thumbnail for the image."""
+        if image_path and os.path.exists(image_path):
+            image_name = os.path.basename(image_path)
+            # Use data URI to embed the image directly into the HTML
+            import base64
+            with open(image_path, "rb") as f:
+                encoded_string = base64.b64encode(f.read()).decode()
+            
+            # The HTML for the link and image thumbnail
+            return f'<a href="data:image/png;base64,{encoded_string}" target="_blank">' \
+                   f'<img src="data:image/png;base64,{encoded_string}" style="width:50px;height:auto;">' \
+                   f'</a>'
+        return ""
+
+    # Apply the HTML function to the image_path column
+    html_df = df.copy()
+    html_df['image_path'] = html_df['image_path'].apply(create_image_link)
+
+    # Create the full HTML content with proper encoding header
+    html_content = f'''
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{lang['project_name']} - {lang['tab_data']}</title>
+        <style>
+            table {{ width: 100%; border-collapse: collapse; }}
+            th, td {{ border: 1px solid #ddd; padding: 8px; text-align: left; }}
+            th {{ background-color: #f2f2f2; }}
+        </style>
+    </head>
+    <body>
+        <h2>{lang['log_header']}</h2>
+        {html_df.to_html(index=False, escape=False)}
+    </body>
+    </html>
+    '''
+    
+    st.download_button(
+        label=lang['export_html'],
+        data=html_content.encode('utf-8'),
+        file_name="astro_notebook_observations.html",
+        mime="text/html"
+    )
+
+    # Other download buttons remain unchanged
     json_data = df.to_json(orient='records', force_ascii=False)
     st.download_button(
         label=lang['export_json'],
@@ -392,14 +440,6 @@ with tab2:
         mime="text/csv"
     )
 
-    html_data = df.to_html().encode('utf-8')
-    st.download_button(
-        label=lang['export_html'],
-        data=html_data,
-        file_name="astro_notebook_observations.html",
-        mime="text/html"
-    )
-
     with open(DB_NAME, "rb") as f:
         db_file_bytes = f.read()
     st.download_button(
@@ -408,6 +448,7 @@ with tab2:
         file_name=DB_NAME,
         mime="application/octet-stream"
     )
+    
     
     st.markdown("---")
     
