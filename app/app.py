@@ -209,9 +209,11 @@ with tab1:
 
     with st.sidebar.form("new_observation_form"):
         celestial_id = st.text_input(lang['celestial_id'], value=st.session_state.found_object['id'] if st.session_state.found_object else "", disabled=True)
+        celestial_name_en = st.text_input(lang['celestial_name_en'], value=st.session_state.found_object['name_en'] if st.session_state.found_object else "", disabled=True)
         celestial_name_kr = st.text_input(lang['celestial_name_kr'], value=st.session_state.found_object['name_kr'] if st.session_state.found_object else "", disabled=True)
         ra = st.text_input(lang['ra_label'], value=st.session_state.found_object['ra'] if st.session_state.found_object and 'ra' in st.session_state.found_object else "", disabled=True)
         dec = st.text_input(lang['dec_label'], value=st.session_state.found_object['dec'] if st.session_state.found_object and 'dec' in st.session_state.found_object else "", disabled=True)
+        magnitude = st.text_input(lang['magnitude'], value=st.session_state.found_object['magnitude'] if st.session_state.found_object and 'magnitude' in st.session_state.found_object else "", disabled=True)
         notes = st.text_area(lang['notes_label'], placeholder=lang['notes_placeholder'])
         uploaded_file = st.file_uploader(lang['upload_file'], type=["png", "jpg", "jpeg", "svg"])
         submitted = st.form_submit_button(lang['save_record'])

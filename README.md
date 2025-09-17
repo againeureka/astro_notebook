@@ -7,7 +7,7 @@
 ## Demo pages
 
 <img src="doc/01.png" alt="demo page" width="500">
-
+<img src="doc/02.png" alt="demo page" width="500">
 
 ## Raw catalogue source
 

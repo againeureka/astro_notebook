@@ -33,6 +33,22 @@ KO_MAP = {
     "Altair": "알타이르",
     "Deneb": "데네브",
     "Polaris": "폴라리스",
+    "Rigel Kentaurus": "리겔 케타우루스",
+    "Aldebaran": "알데바란",
+    "Antares": "안타레스",
+    "Pollux": "폴룩스",
+    "Fomalhaut": "포말하우트",
+    "Mimosa": "미모사",
+    "Regulus": "레굴루스",
+    "Bellatrix": "벨라트릭스",
+    "Elnath": "엘나스",
+    "Alnilam": "알닐람",
+    "Alnair": "알나이르",
+    "Alioth": "알리오스",
+    "Mirfak": "미르팍",
+    "Alkaid": "알카이드",
+    "Peacock": "피콕, 공작",
+    "Mirzam": "미르잠",
 }
 
 # ---------------- 태양계 행성(항상 포함; RA/Dec는 시각 의존이므로 null) ----------------
@@ -86,8 +102,43 @@ def first(*vals):
     return None
 
 # ---------------- 간단 영→한 발음 변환 ----------------
-# 아주 간단한 규칙 기반 변환입니다(완벽 X). KO_MAP이 우선.
+# --- hangulize 기반 영→한 변환 ---
 def eng_to_hangul(name: str) -> str:
+    """
+    영어 이름을 한국어 표기로 변환.
+    - hangulize가 설치되어 있지 않거나 변환 실패 시 원문을 반환(안전).
+    - 입력이 빈 값/None이면 빈 문자열 반환.
+    """
+    if not name:
+        return ""
+    try:
+        from hangulize import hangulize
+        from hangulize.langs.eng import English
+    except Exception:
+        # 라이브러리 미설치 등: 원문 반환
+        return str(name)
+
+    # 전처리: 공백/하이픈 정리 (필요 시 규칙 확장)
+    txt = str(name).strip()
+    if not txt:
+        return ""
+
+    # hangulize는 영문 고유명에 강함. 복합명칭은 토큰 단위로 처리 후 합침.
+    # (예: "Sirius A" -> ["Sirius", "A"] 각각 변환 후 합쳐서 반환)
+    tokens = [t for t in re.split(r"\s*[-\s]\s*", txt) if t]
+    out = []
+    for t in tokens:
+        try:
+            ko = hangulize(t, English)
+            out.append(ko)
+        except Exception:
+            # 토큰 단위 실패 시 해당 토큰은 원문 유지
+            out.append(t)
+    return "".join(out)
+
+
+# 아주 간단한 규칙 기반 변환입니다(완벽 X). KO_MAP이 우선.
+def eng_to_hangul_simple(name: str) -> str:
     if not name:
         return ""
     # 특수기호 제거/토큰화
@@ -169,8 +220,7 @@ def parse_messier_row(row: Dict[str, Any]) -> Dict[str, Any]:
             name_en = mid
 
     # name_kr: 필드 우선 -> KO_MAP -> 발음 변환
-    # name_kr = name_kr_field or KO_MAP.get(name_en) or eng_to_hangul(name_en)
-    name_kr = name_kr_field or KO_MAP.get(name_en)
+    name_kr = name_kr_field or KO_MAP.get(name_en) or eng_to_hangul(name_en)
 
     ra_str, dec_str = None, None
     if coords:
@@ -218,8 +268,7 @@ def normalize_messier_simple(list_data: Iterable[Dict[str, Any]]) -> List[Dict[s
                 "id": mid,
                 "catalog": "Messier",
                 "name_en": name_en,
-                #"name_kr": norm_str(row.get("name_kr")) or KO_MAP.get(name_en) or eng_to_hangul(name_en),
-                "name_kr": norm_str(row.get("name_kr")) or KO_MAP.get(name_en),
+                "name_kr": norm_str(row.get("name_kr")) or KO_MAP.get(name_en) or eng_to_hangul(name_en),
                 "ra": None,
                 "dec": None,
                 "magnitude": float_or_none(row.get("magnitude")),

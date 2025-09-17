@@ -11,8 +11,8 @@
     ],
     "aliases_kr": [
       "시리우스",
-      "드오그스트아르",
-      "스이르이우스아"
+      "Dog Star",
+      "Sirius A"
     ],
     "bayerFlamsteed": "9Alp CMa",
     "ra": "06:45:08.90",
@@ -61,14 +61,14 @@
     "id": "Alp1Cen",
     "catalog": "BrightStar",
     "name_en": "Rigel Kentaurus",
-    "name_kr": "르이지르크에느트아우르우스",
+    "name_kr": "리겔 케타우루스",
     "aliases_en": [
       "Rigel Kentaurus",
       "Rigil Kentaurus"
     ],
     "aliases_kr": [
-      "르이지르크에느트아우르우스",
-      "르이지르크에느트아우르우스"
+      "리겔 케타우루스",
+      "Rigil Kentaurus"
     ],
     "bayerFlamsteed": "Alp1Cen",
     "ra": "14:39:35.90",
@@ -142,7 +142,7 @@
     ],
     "aliases_kr": [
       "프로키온",
-      "프르오크이오느아"
+      "Procyon A"
     ],
     "bayerFlamsteed": "10Alp CMi",
     "ra": "07:39:18.10",
@@ -191,14 +191,14 @@
     "id": "Bet Cen",
     "catalog": "BrightStar",
     "name_en": "Agena",
-    "name_kr": "아지느아",
+    "name_kr": "Agena",
     "aliases_en": [
       "Agena",
       "Hadar"
     ],
     "aliases_kr": [
-      "아지느아",
-      "흐아드아르"
+      "Agena",
+      "Hadar"
     ],
     "bayerFlamsteed": "Bet Cen",
     "ra": "14:03:49.40",
@@ -229,12 +229,12 @@
     "id": "87Alp Tau",
     "catalog": "BrightStar",
     "name_en": "Aldebaran",
-    "name_kr": "아르드에브아르아느",
+    "name_kr": "알데바란",
     "aliases_en": [
       "Aldebaran"
     ],
     "aliases_kr": [
-      "아르드에브아르아느"
+      "알데바란"
     ],
     "bayerFlamsteed": "87Alp Tau",
     "ra": "04:35:55.20",
@@ -247,12 +247,12 @@
     "id": "21Alp Sco",
     "catalog": "BrightStar",
     "name_en": "Antares",
-    "name_kr": "아느트아르에스",
+    "name_kr": "안타레스",
     "aliases_en": [
       "Antares"
     ],
     "aliases_kr": [
-      "아느트아르에스"
+      "안타레스"
     ],
     "bayerFlamsteed": "21Alp Sco",
     "ra": "16:29:24.40",
@@ -265,12 +265,12 @@
     "id": "67Alp Vir",
     "catalog": "BrightStar",
     "name_en": "Spica",
-    "name_kr": "스프이크아",
+    "name_kr": "Spica",
     "aliases_en": [
       "Spica"
     ],
     "aliases_kr": [
-      "스프이크아"
+      "Spica"
     ],
     "bayerFlamsteed": "67Alp Vir",
     "ra": "13:25:11.60",
@@ -283,12 +283,12 @@
     "id": "78Bet Gem",
     "catalog": "BrightStar",
     "name_en": "Pollux",
-    "name_kr": "프오르르우크스",
+    "name_kr": "폴룩스",
     "aliases_en": [
       "Pollux"
     ],
     "aliases_kr": [
-      "프오르르우크스"
+      "폴룩스"
     ],
     "bayerFlamsteed": "78Bet Gem",
     "ra": "07:45:18.90",
@@ -301,12 +301,12 @@
     "id": "24Alp PsA",
     "catalog": "BrightStar",
     "name_en": "Fomalhaut",
-    "name_kr": "프오므아르흐아우트",
+    "name_kr": "포말하우트",
     "aliases_en": [
       "Fomalhaut"
     ],
     "aliases_kr": [
-      "프오므아르흐아우트"
+      "포말하우트"
     ],
     "bayerFlamsteed": "24Alp PsA",
     "ra": "22:57:39.10",
@@ -337,12 +337,12 @@
     "id": "Bet Cru",
     "catalog": "BrightStar",
     "name_en": "Mimosa",
-    "name_kr": "므이므오스아",
+    "name_kr": "미모사",
     "aliases_en": [
       "Mimosa"
     ],
     "aliases_kr": [
-      "므이므오스아"
+      "미모사"
     ],
     "bayerFlamsteed": "Bet Cru",
     "ra": "12:47:43.20",
@@ -355,12 +355,12 @@
     "id": "Alp2Cen",
     "catalog": "BrightStar",
     "name_en": "Toliman",
-    "name_kr": "트오르이므아느",
+    "name_kr": "Toliman",
     "aliases_en": [
       "Toliman"
     ],
     "aliases_kr": [
-      "트오르이므아느"
+      "Toliman"
     ],
     "bayerFlamsteed": "Alp2Cen",
     "ra": "14:39:36.10",
@@ -373,12 +373,12 @@
     "id": "32Alp Leo",
     "catalog": "BrightStar",
     "name_en": "Regulus",
-    "name_kr": "르에그우르우스",
+    "name_kr": "레굴루스",
     "aliases_en": [
       "Regulus"
     ],
     "aliases_kr": [
-      "르에그우르우스"
+      "레굴루스"
     ],
     "bayerFlamsteed": "32Alp Leo",
     "ra": "10:08:22.30",
@@ -391,12 +391,12 @@
     "id": "21Eps CMa",
     "catalog": "BrightStar",
     "name_en": "Adhara",
-    "name_kr": "아드흐아르아",
+    "name_kr": "Adhara",
     "aliases_en": [
       "Adhara"
     ],
     "aliases_kr": [
-      "아드흐아르아"
+      "Adhara"
     ],
     "bayerFlamsteed": "21Eps CMa",
     "ra": "06:58:37.50",
@@ -409,12 +409,12 @@
     "id": "Gam Cru",
     "catalog": "BrightStar",
     "name_en": "Gacrux",
-    "name_kr": "그아크르우크스",
+    "name_kr": "Gacrux",
     "aliases_en": [
       "Gacrux"
     ],
     "aliases_kr": [
-      "그아크르우크스"
+      "Gacrux"
     ],
     "bayerFlamsteed": "Gam Cru",
     "ra": "12:31:09.90",
@@ -427,12 +427,12 @@
     "id": "35Lam Sco",
     "catalog": "BrightStar",
     "name_en": "Shaula",
-    "name_kr": "시아우르아",
+    "name_kr": "Shaula",
     "aliases_en": [
       "Shaula"
     ],
     "aliases_kr": [
-      "시아우르아"
+      "Shaula"
     ],
     "bayerFlamsteed": "35Lam Sco",
     "ra": "17:33:36.50",
@@ -445,12 +445,12 @@
     "id": "24Gam Ori",
     "catalog": "BrightStar",
     "name_en": "Bellatrix",
-    "name_kr": "브에르르아트르이크스",
+    "name_kr": "벨라트릭스",
     "aliases_en": [
       "Bellatrix"
     ],
     "aliases_kr": [
-      "브에르르아트르이크스"
+      "벨라트릭스"
     ],
     "bayerFlamsteed": "24Gam Ori",
     "ra": "05:25:07.90",
@@ -463,12 +463,12 @@
     "id": "112Bet Tau",
     "catalog": "BrightStar",
     "name_en": "Elnath",
-    "name_kr": "에르느아스",
+    "name_kr": "엘나스",
     "aliases_en": [
       "Elnath"
     ],
     "aliases_kr": [
-      "에르느아스"
+      "엘나스"
     ],
     "bayerFlamsteed": "112Bet Tau",
     "ra": "05:26:17.50",
@@ -481,12 +481,12 @@
     "id": "Bet Car",
     "catalog": "BrightStar",
     "name_en": "Miaplacidus",
-    "name_kr": "므이아프르아시드우스",
+    "name_kr": "Miaplacidus",
     "aliases_en": [
       "Miaplacidus"
     ],
     "aliases_kr": [
-      "므이아프르아시드우스"
+      "Miaplacidus"
     ],
     "bayerFlamsteed": "Bet Car",
     "ra": "09:13:12.00",
@@ -499,12 +499,12 @@
     "id": "46Eps Ori",
     "catalog": "BrightStar",
     "name_en": "Alnilam",
-    "name_kr": "아르느이르아므",
+    "name_kr": "알닐람",
     "aliases_en": [
       "Alnilam"
     ],
     "aliases_kr": [
-      "아르느이르아므"
+      "알닐람"
     ],
     "bayerFlamsteed": "46Eps Ori",
     "ra": "05:36:12.80",
@@ -517,12 +517,12 @@
     "id": "Alp Gru",
     "catalog": "BrightStar",
     "name_en": "Alnair",
-    "name_kr": "아르느아이르",
+    "name_kr": "알나이르",
     "aliases_en": [
       "Alnair"
     ],
     "aliases_kr": [
-      "아르느아이르"
+      "알나이르"
     ],
     "bayerFlamsteed": "Alp Gru",
     "ra": "22:08:14.00",
@@ -535,12 +535,12 @@
     "id": "77Eps UMa",
     "catalog": "BrightStar",
     "name_en": "Alioth",
-    "name_kr": "아르이오스",
+    "name_kr": "알리오스",
     "aliases_en": [
       "Alioth"
     ],
     "aliases_kr": [
-      "아르이오스"
+      "알리오스"
     ],
     "bayerFlamsteed": "77Eps UMa",
     "ra": "12:54:01.70",
@@ -553,12 +553,12 @@
     "id": "Gam2Vel",
     "catalog": "BrightStar",
     "name_en": "Regor",
-    "name_kr": "르에그오르",
+    "name_kr": "Regor",
     "aliases_en": [
       "Regor"
     ],
     "aliases_kr": [
-      "르에그오르"
+      "Regor"
     ],
     "bayerFlamsteed": "Gam2Vel",
     "ra": "08:09:32.00",
@@ -571,12 +571,12 @@
     "id": "50Alp UMa",
     "catalog": "BrightStar",
     "name_en": "Dubhe",
-    "name_kr": "드우브흐에",
+    "name_kr": "Dubhe",
     "aliases_en": [
       "Dubhe"
     ],
     "aliases_kr": [
-      "드우브흐에"
+      "Dubhe"
     ],
     "bayerFlamsteed": "50Alp UMa",
     "ra": "11:03:43.70",
@@ -589,12 +589,12 @@
     "id": "33Alp Per",
     "catalog": "BrightStar",
     "name_en": "Mirfak",
-    "name_kr": "므이르프아크",
+    "name_kr": "미르팍",
     "aliases_en": [
       "Mirfak"
     ],
     "aliases_kr": [
-      "므이르프아크"
+      "미르팍"
     ],
     "bayerFlamsteed": "33Alp Per",
     "ra": "03:24:19.40",
@@ -607,12 +607,12 @@
     "id": "25Del CMa",
     "catalog": "BrightStar",
     "name_en": "Wezen",
-    "name_kr": "우에즈에느",
+    "name_kr": "Wezen",
     "aliases_en": [
       "Wezen"
     ],
     "aliases_kr": [
-      "우에즈에느"
+      "Wezen"
     ],
     "bayerFlamsteed": "25Del CMa",
     "ra": "07:08:23.50",
@@ -625,12 +625,12 @@
     "id": "20Eps Sgr",
     "catalog": "BrightStar",
     "name_en": "Kaus Australis",
-    "name_kr": "크아우스아우스트르아르이스",
+    "name_kr": "Kaus Australis",
     "aliases_en": [
       "Kaus Australis"
     ],
     "aliases_kr": [
-      "크아우스아우스트르아르이스"
+      "Kaus Australis"
     ],
     "bayerFlamsteed": "20Eps Sgr",
     "ra": "18:24:10.30",
@@ -643,14 +643,14 @@
     "id": "85Eta UMa",
     "catalog": "BrightStar",
     "name_en": "Alkaid",
-    "name_kr": "아르크아이드",
+    "name_kr": "알카이드",
     "aliases_en": [
       "Alkaid",
       "Alcaid"
     ],
     "aliases_kr": [
-      "아르크아이드",
-      "아르크아이드"
+      "알카이드",
+      "Alcaid"
     ],
     "bayerFlamsteed": "85Eta UMa",
     "ra": "13:47:32.40",
@@ -663,12 +663,12 @@
     "id": "The Sco",
     "catalog": "BrightStar",
     "name_en": "Sargas",
-    "name_kr": "스아르그아스",
+    "name_kr": "Sargas",
     "aliases_en": [
       "Sargas"
     ],
     "aliases_kr": [
-      "스아르그아스"
+      "Sargas"
     ],
     "bayerFlamsteed": "The Sco",
     "ra": "17:37:19.20",
@@ -681,12 +681,12 @@
     "id": "34Bet Aur",
     "catalog": "BrightStar",
     "name_en": "Menkalinan",
-    "name_kr": "므에느크아르이느아느",
+    "name_kr": "Menkalinan",
     "aliases_en": [
       "Menkalinan"
     ],
     "aliases_kr": [
-      "므에느크아르이느아느"
+      "Menkalinan"
     ],
     "bayerFlamsteed": "34Bet Aur",
     "ra": "05:59:31.70",
@@ -699,12 +699,12 @@
     "id": "Alp TrA",
     "catalog": "BrightStar",
     "name_en": "Atria",
-    "name_kr": "아트르이아",
+    "name_kr": "Atria",
     "aliases_en": [
       "Atria"
     ],
     "aliases_kr": [
-      "아트르이아"
+      "Atria"
     ],
     "bayerFlamsteed": "Alp TrA",
     "ra": "16:48:39.90",
@@ -717,12 +717,12 @@
     "id": "24Gam Gem",
     "catalog": "BrightStar",
     "name_en": "Alhena",
-    "name_kr": "아르흐에느아",
+    "name_kr": "Alhena",
     "aliases_en": [
       "Alhena"
     ],
     "aliases_kr": [
-      "아르흐에느아"
+      "Alhena"
     ],
     "bayerFlamsteed": "24Gam Gem",
     "ra": "06:37:42.70",
@@ -735,12 +735,12 @@
     "id": "Alp Pav",
     "catalog": "BrightStar",
     "name_en": "Peacock",
-    "name_kr": "프에아크오크",
+    "name_kr": "피콕, 공작",
     "aliases_en": [
       "Peacock"
     ],
     "aliases_kr": [
-      "프에아크오크"
+      "피콕, 공작"
     ],
     "bayerFlamsteed": "Alp Pav",
     "ra": "20:25:38.90",
@@ -753,12 +753,12 @@
     "id": "Del Vel",
     "catalog": "BrightStar",
     "name_en": "Alsephina",
-    "name_kr": "아르스에프이느아",
+    "name_kr": "Alsephina",
     "aliases_en": [
       "Alsephina"
     ],
     "aliases_kr": [
-      "아르스에프이느아"
+      "Alsephina"
     ],
     "bayerFlamsteed": "Del Vel",
     "ra": "08:44:42.20",
@@ -771,12 +771,12 @@
     "id": "30Alp Hya",
     "catalog": "BrightStar",
     "name_en": "Alphard",
-    "name_kr": "아르프아르드",
+    "name_kr": "Alphard",
     "aliases_en": [
       "Alphard"
     ],
     "aliases_kr": [
-      "아르프아르드"
+      "Alphard"
     ],
     "bayerFlamsteed": "30Alp Hya",
     "ra": "09:27:35.20",
@@ -789,12 +789,12 @@
     "id": "2Bet CMa",
     "catalog": "BrightStar",
     "name_en": "Mirzam",
-    "name_kr": "므이르즈아므",
+    "name_kr": "미르잠",
     "aliases_en": [
       "Mirzam"
     ],
     "aliases_kr": [
-      "므이르즈아므"
+      "미르잠"
     ],
     "bayerFlamsteed": "2Bet CMa",
     "ra": "06:22:42.00",
@@ -807,12 +807,12 @@
     "id": "13Alp Ari",
     "catalog": "BrightStar",
     "name_en": "Hamal",
-    "name_kr": "흐아므아르",
+    "name_kr": "Hamal",
     "aliases_en": [
       "Hamal"
     ],
     "aliases_kr": [
-      "흐아므아르"
+      "Hamal"
     ],
     "bayerFlamsteed": "13Alp Ari",
     "ra": "02:07:10.40",
@@ -825,12 +825,12 @@
     "id": "34Sig Sgr",
     "catalog": "BrightStar",
     "name_en": "Nunki",
-    "name_kr": "느우느크이",
+    "name_kr": "Nunki",
     "aliases_en": [
       "Nunki"
     ],
     "aliases_kr": [
-      "느우느크이"
+      "Nunki"
     ],
     "bayerFlamsteed": "34Sig Sgr",
     "ra": "18:55:15.90",
@@ -851,8 +851,8 @@
     ],
     "aliases_kr": [
       "폴라리스",
-      "르오드에스트아르",
-      "느오르스스트아르"
+      "Lodestar",
+      "North Star"
     ],
     "bayerFlamsteed": "1Alp UMi",
     "ra": "02:31:48.70",
@@ -865,12 +865,12 @@
     "id": "16Bet Cet",
     "catalog": "BrightStar",
     "name_en": "Diphda",
-    "name_kr": "드이프드아",
+    "name_kr": "Diphda",
     "aliases_en": [
       "Diphda"
     ],
     "aliases_kr": [
-      "드이프드아"
+      "Diphda"
     ],
     "bayerFlamsteed": "16Bet Cet",
     "ra": "00:43:35.40",
@@ -883,12 +883,12 @@
     "id": "43Bet And",
     "catalog": "BrightStar",
     "name_en": "MIRACH",
-    "name_kr": "므이르아치",
+    "name_kr": "MIRACH",
     "aliases_en": [
       "MIRACH"
     ],
     "aliases_kr": [
-      "므이르아치"
+      "MIRACH"
     ],
     "bayerFlamsteed": "43Bet And",
     "ra": "01:09:43.90",
@@ -901,12 +901,12 @@
     "id": "5The Cen",
     "catalog": "BrightStar",
     "name_en": "Menkent",
-    "name_kr": "므에느크에느트",
+    "name_kr": "Menkent",
     "aliases_en": [
       "Menkent"
     ],
     "aliases_kr": [
-      "므에느크에느트"
+      "Menkent"
     ],
     "bayerFlamsteed": "5The Cen",
     "ra": "14:06:41.00",
@@ -919,12 +919,12 @@
     "id": "53Kap Ori",
     "catalog": "BrightStar",
     "name_en": "Saiph",
-    "name_kr": "스아이프",
+    "name_kr": "Saiph",
     "aliases_en": [
       "Saiph"
     ],
     "aliases_kr": [
-      "스아이프"
+      "Saiph"
     ],
     "bayerFlamsteed": "53Kap Ori",
     "ra": "05:47:45.40",
@@ -937,14 +937,14 @@
     "id": "21Alp And",
     "catalog": "BrightStar",
     "name_en": "Sirrah",
-    "name_kr": "스이르르아흐",
+    "name_kr": "Sirrah",
     "aliases_en": [
       "Sirrah",
       "Alpheratz"
     ],
     "aliases_kr": [
-      "스이르르아흐",
-      "아르프에르아트즈"
+      "Sirrah",
+      "Alpheratz"
     ],
     "bayerFlamsteed": "21Alp And",
     "ra": "00:08:23.30",
@@ -957,12 +957,12 @@
     "id": "7Bet UMi",
     "catalog": "BrightStar",
     "name_en": "Kochab",
-    "name_kr": "크오치아브",
+    "name_kr": "Kochab",
     "aliases_en": [
       "Kochab"
     ],
     "aliases_kr": [
-      "크오치아브"
+      "Kochab"
     ],
     "bayerFlamsteed": "7Bet UMi",
     "ra": "14:50:42.30",
@@ -975,12 +975,12 @@
     "id": "55Alp Oph",
     "catalog": "BrightStar",
     "name_en": "Rasalhague",
-    "name_kr": "르아스아르흐아그우에",
+    "name_kr": "Rasalhague",
     "aliases_en": [
       "Rasalhague"
     ],
     "aliases_kr": [
-      "르아스아르흐아그우에"
+      "Rasalhague"
     ],
     "bayerFlamsteed": "55Alp Oph",
     "ra": "17:34:56.10",
@@ -993,12 +993,12 @@
     "id": "Bet Gru",
     "catalog": "BrightStar",
     "name_en": "Tiaki",
-    "name_kr": "트이아크이",
+    "name_kr": "Tiaki",
     "aliases_en": [
       "Tiaki"
     ],
     "aliases_kr": [
-      "트이아크이"
+      "Tiaki"
     ],
     "bayerFlamsteed": "Bet Gru",
     "ra": "22:42:40.10",
@@ -1011,7 +1011,7 @@
     "id": "26Bet Per",
     "catalog": "BrightStar",
     "name_en": "Algol",
-    "name_kr": "아르그오르",
+    "name_kr": "Algol",
     "aliases_en": [
       "Algol",
       "Algol B",
@@ -1019,10 +1019,10 @@
       "Algol A"
     ],
     "aliases_kr": [
-      "아르그오르",
-      "아르그오르브",
-      "아르그오르크",
-      "아르그오르아"
+      "Algol",
+      "Algol B",
+      "Algol C",
+      "Algol A"
     ],
     "bayerFlamsteed": "26Bet Per",
     "ra": "03:08:10.10",
@@ -1035,12 +1035,12 @@
     "id": "94Bet Leo",
     "catalog": "BrightStar",
     "name_en": "Denebola",
-    "name_kr": "드에느에브오르아",
+    "name_kr": "Denebola",
     "aliases_en": [
       "Denebola"
     ],
     "aliases_kr": [
-      "드에느에브오르아"
+      "Denebola"
     ],
     "bayerFlamsteed": "94Bet Leo",
     "ra": "11:49:03.60",
@@ -1053,12 +1053,12 @@
     "id": "37Gam Cyg",
     "catalog": "BrightStar",
     "name_en": "SADR",
-    "name_kr": "스아드르",
+    "name_kr": "SADR",
     "aliases_en": [
       "SADR"
     ],
     "aliases_kr": [
-      "스아드르"
+      "SADR"
     ],
     "bayerFlamsteed": "37Gam Cyg",
     "ra": "20:22:13.70",
@@ -1071,12 +1071,12 @@
     "id": "Lam Vel",
     "catalog": "BrightStar",
     "name_en": "Suhail",
-    "name_kr": "스우흐아이르",
+    "name_kr": "Suhail",
     "aliases_en": [
       "Suhail"
     ],
     "aliases_kr": [
-      "스우흐아이르"
+      "Suhail"
     ],
     "bayerFlamsteed": "Lam Vel",
     "ra": "09:07:59.80",
@@ -1089,12 +1089,12 @@
     "id": "5Alp CrB",
     "catalog": "BrightStar",
     "name_en": "Alphecca",
-    "name_kr": "아르프에크크아",
+    "name_kr": "Alphecca",
     "aliases_en": [
       "Alphecca"
     ],
     "aliases_kr": [
-      "아르프에크크아"
+      "Alphecca"
     ],
     "bayerFlamsteed": "5Alp CrB",
     "ra": "15:34:41.30",
@@ -1107,12 +1107,12 @@
     "id": "33Gam Dra",
     "catalog": "BrightStar",
     "name_en": "Eltanin",
-    "name_kr": "에르트아느이느",
+    "name_kr": "Eltanin",
     "aliases_en": [
       "Eltanin"
     ],
     "aliases_kr": [
-      "에르트아느이느"
+      "Eltanin"
     ],
     "bayerFlamsteed": "33Gam Dra",
     "ra": "17:56:36.40",
@@ -1125,12 +1125,12 @@
     "id": "34Del Ori",
     "catalog": "BrightStar",
     "name_en": "Mintaka",
-    "name_kr": "므이느트아크아",
+    "name_kr": "Mintaka",
     "aliases_en": [
       "Mintaka"
     ],
     "aliases_kr": [
-      "므이느트아크아"
+      "Mintaka"
     ],
     "bayerFlamsteed": "34Del Ori",
     "ra": "05:32:00.40",
@@ -1143,12 +1143,12 @@
     "id": "18Alp Cas",
     "catalog": "BrightStar",
     "name_en": "Schedar",
-    "name_kr": "스치에드아르",
+    "name_kr": "Schedar",
     "aliases_en": [
       "Schedar"
     ],
     "aliases_kr": [
-      "스치에드아르"
+      "Schedar"
     ],
     "bayerFlamsteed": "18Alp Cas",
     "ra": "00:40:30.50",
@@ -1161,12 +1161,12 @@
     "id": "Iot Car",
     "catalog": "BrightStar",
     "name_en": "Aspidiske",
-    "name_kr": "아스프이드이스크에",
+    "name_kr": "Aspidiske",
     "aliases_en": [
       "Aspidiske"
     ],
     "aliases_kr": [
-      "아스프이드이스크에"
+      "Aspidiske"
     ],
     "bayerFlamsteed": "Iot Car",
     "ra": "09:17:05.40",
@@ -1179,12 +1179,12 @@
     "id": "Zet Pup",
     "catalog": "BrightStar",
     "name_en": "Naos",
-    "name_kr": "느아오스",
+    "name_kr": "Naos",
     "aliases_en": [
       "Naos"
     ],
     "aliases_kr": [
-      "느아오스"
+      "Naos"
     ],
     "bayerFlamsteed": "Zet Pup",
     "ra": "08:03:35.10",
@@ -1197,12 +1197,12 @@
     "id": "57Gam1And",
     "catalog": "BrightStar",
     "name_en": "Almach",
-    "name_kr": "아르므아치",
+    "name_kr": "Almach",
     "aliases_en": [
       "Almach"
     ],
     "aliases_kr": [
-      "아르므아치"
+      "Almach"
     ],
     "bayerFlamsteed": "57Gam1And",
     "ra": "02:03:54.00",
@@ -1215,12 +1215,12 @@
     "id": "11Bet Cas",
     "catalog": "BrightStar",
     "name_en": "Caph",
-    "name_kr": "크아프",
+    "name_kr": "Caph",
     "aliases_en": [
       "Caph"
     ],
     "aliases_kr": [
-      "크아프"
+      "Caph"
     ],
     "bayerFlamsteed": "11Bet Cas",
     "ra": "00:09:10.70",
@@ -1233,12 +1233,12 @@
     "id": "79Zet UMa",
     "catalog": "BrightStar",
     "name_en": "Mizar A",
-    "name_kr": "므이즈아르아",
+    "name_kr": "Mizar A",
     "aliases_en": [
       "Mizar A"
     ],
     "aliases_kr": [
-      "므이즈아르아"
+      "Mizar A"
     ],
     "bayerFlamsteed": "79Zet UMa",
     "ra": "13:23:55.50",
@@ -1251,12 +1251,12 @@
     "id": "26Eps Sco",
     "catalog": "BrightStar",
     "name_en": "Larawag",
-    "name_kr": "르아르아우아그",
+    "name_kr": "Larawag",
     "aliases_en": [
       "Larawag"
     ],
     "aliases_kr": [
-      "르아르아우아그"
+      "Larawag"
     ],
     "bayerFlamsteed": "26Eps Sco",
     "ra": "16:50:09.80",
@@ -1269,12 +1269,12 @@
     "id": "7Del Sco",
     "catalog": "BrightStar",
     "name_en": "Dschubba",
-    "name_kr": "드스치우브브아",
+    "name_kr": "Dschubba",
     "aliases_en": [
       "Dschubba"
     ],
     "aliases_kr": [
-      "드스치우브브아"
+      "Dschubba"
     ],
     "bayerFlamsteed": "7Del Sco",
     "ra": "16:00:20.00",
@@ -1287,12 +1287,12 @@
     "id": "48Bet UMa",
     "catalog": "BrightStar",
     "name_en": "Merak",
-    "name_kr": "므에르아크",
+    "name_kr": "Merak",
     "aliases_en": [
       "Merak"
     ],
     "aliases_kr": [
-      "므에르아크"
+      "Merak"
     ],
     "bayerFlamsteed": "48Bet UMa",
     "ra": "11:01:50.50",
@@ -1305,12 +1305,12 @@
     "id": "Alp Phe",
     "catalog": "BrightStar",
     "name_en": "Ankaa",
-    "name_kr": "아느크아",
+    "name_kr": "Ankaa",
     "aliases_en": [
       "Ankaa"
     ],
     "aliases_kr": [
-      "아느크아"
+      "Ankaa"
     ],
     "bayerFlamsteed": "Alp Phe",
     "ra": "00:26:17.00",
@@ -1323,12 +1323,12 @@
     "id": "8Eps Peg",
     "catalog": "BrightStar",
     "name_en": "Enif",
-    "name_kr": "에느이프",
+    "name_kr": "Enif",
     "aliases_en": [
       "Enif"
     ],
     "aliases_kr": [
-      "에느이프"
+      "Enif"
     ],
     "bayerFlamsteed": "8Eps Peg",
     "ra": "21:44:11.20",
@@ -1341,12 +1341,12 @@
     "id": "53Bet Peg",
     "catalog": "BrightStar",
     "name_en": "Scheat",
-    "name_kr": "스치에아트",
+    "name_kr": "Scheat",
     "aliases_en": [
       "Scheat"
     ],
     "aliases_kr": [
-      "스치에아트"
+      "Scheat"
     ],
     "bayerFlamsteed": "53Bet Peg",
     "ra": "23:03:46.50",
@@ -1359,12 +1359,12 @@
     "id": "35Eta Oph",
     "catalog": "BrightStar",
     "name_en": "Sabik",
-    "name_kr": "스아브이크",
+    "name_kr": "Sabik",
     "aliases_en": [
       "Sabik"
     ],
     "aliases_kr": [
-      "스아브이크"
+      "Sabik"
     ],
     "bayerFlamsteed": "35Eta Oph",
     "ra": "17:10:22.70",
@@ -1377,12 +1377,12 @@
     "id": "5Alp Cep",
     "catalog": "BrightStar",
     "name_en": "Alderamin",
-    "name_kr": "아르드에르아므이느",
+    "name_kr": "Alderamin",
     "aliases_en": [
       "Alderamin"
     ],
     "aliases_kr": [
-      "아르드에르아므이느"
+      "Alderamin"
     ],
     "bayerFlamsteed": "5Alp Cep",
     "ra": "21:18:34.80",
@@ -1395,12 +1395,12 @@
     "id": "64Gam UMa",
     "catalog": "BrightStar",
     "name_en": "Phecda",
-    "name_kr": "프에크드아",
+    "name_kr": "Phecda",
     "aliases_en": [
       "Phecda"
     ],
     "aliases_kr": [
-      "프에크드아"
+      "Phecda"
     ],
     "bayerFlamsteed": "64Gam UMa",
     "ra": "11:53:49.80",
@@ -1413,12 +1413,12 @@
     "id": "31Eta CMa",
     "catalog": "BrightStar",
     "name_en": "Aludra",
-    "name_kr": "아르우드르아",
+    "name_kr": "Aludra",
     "aliases_en": [
       "Aludra"
     ],
     "aliases_kr": [
-      "아르우드르아"
+      "Aludra"
     ],
     "bayerFlamsteed": "31Eta CMa",
     "ra": "07:24:05.70",
@@ -1431,12 +1431,12 @@
     "id": "53Eps Cyg",
     "catalog": "BrightStar",
     "name_en": "Aljanah",
-    "name_kr": "아르지아느아흐",
+    "name_kr": "Aljanah",
     "aliases_en": [
       "Aljanah"
     ],
     "aliases_kr": [
-      "아르지아느아흐"
+      "Aljanah"
     ],
     "bayerFlamsteed": "53Eps Cyg",
     "ra": "20:46:12.70",
@@ -1449,12 +1449,12 @@
     "id": "54Alp Peg",
     "catalog": "BrightStar",
     "name_en": "Markab",
-    "name_kr": "므아르크아브",
+    "name_kr": "Markab",
     "aliases_en": [
       "Markab"
     ],
     "aliases_kr": [
-      "므아르크아브"
+      "Markab"
     ],
     "bayerFlamsteed": "54Alp Peg",
     "ra": "23:04:45.70",
@@ -1467,12 +1467,12 @@
     "id": "92Alp Cet",
     "catalog": "BrightStar",
     "name_en": "Menkar",
-    "name_kr": "므에느크아르",
+    "name_kr": "Menkar",
     "aliases_en": [
       "Menkar"
     ],
     "aliases_kr": [
-      "므에느크아르"
+      "Menkar"
     ],
     "bayerFlamsteed": "92Alp Cet",
     "ra": "03:02:16.80",
@@ -1485,12 +1485,12 @@
     "id": "68Del Leo",
     "catalog": "BrightStar",
     "name_en": "Zosma",
-    "name_kr": "즈오스므아",
+    "name_kr": "Zosma",
     "aliases_en": [
       "Zosma"
     ],
     "aliases_kr": [
-      "즈오스므아"
+      "Zosma"
     ],
     "bayerFlamsteed": "68Del Leo",
     "ra": "11:14:06.50",
@@ -1503,12 +1503,12 @@
     "id": "11Alp Lep",
     "catalog": "BrightStar",
     "name_en": "Arneb",
-    "name_kr": "아르느에브",
+    "name_kr": "Arneb",
     "aliases_en": [
       "Arneb"
     ],
     "aliases_kr": [
-      "아르느에브"
+      "Arneb"
     ],
     "bayerFlamsteed": "11Alp Lep",
     "ra": "05:32:43.80",
@@ -1521,12 +1521,12 @@
     "id": "4Gam Crv",
     "catalog": "BrightStar",
     "name_en": "Gienah",
-    "name_kr": "지에느아흐",
+    "name_kr": "Gienah",
     "aliases_en": [
       "Gienah"
     ],
     "aliases_kr": [
-      "지에느아흐"
+      "Gienah"
     ],
     "bayerFlamsteed": "4Gam Crv",
     "ra": "12:15:48.40",
@@ -1539,12 +1539,12 @@
     "id": "38Zet Sgr",
     "catalog": "BrightStar",
     "name_en": "Ascella",
-    "name_kr": "아스스르르아",
+    "name_kr": "Ascella",
     "aliases_en": [
       "Ascella"
     ],
     "aliases_kr": [
-      "아스스르르아"
+      "Ascella"
     ],
     "bayerFlamsteed": "38Zet Sgr",
     "ra": "19:02:36.70",
@@ -1557,12 +1557,12 @@
     "id": "27Bet Lib",
     "catalog": "BrightStar",
     "name_en": "Zubeneschamali",
-    "name_kr": "즈우브에느에스치아므아르이",
+    "name_kr": "Zubeneschamali",
     "aliases_en": [
       "Zubeneschamali"
     ],
     "aliases_kr": [
-      "즈우브에느에스치아므아르이"
+      "Zubeneschamali"
     ],
     "bayerFlamsteed": "27Bet Lib",
     "ra": "15:17:00.40",
@@ -1575,12 +1575,12 @@
     "id": "37The Aur",
     "catalog": "BrightStar",
     "name_en": "Mahasim",
-    "name_kr": "므아흐아스이므",
+    "name_kr": "Mahasim",
     "aliases_en": [
       "Mahasim"
     ],
     "aliases_kr": [
-      "므아흐아스이므"
+      "Mahasim"
     ],
     "bayerFlamsteed": "37The Aur",
     "ra": "05:59:43.30",
@@ -1593,12 +1593,12 @@
     "id": "Alp Col",
     "catalog": "BrightStar",
     "name_en": "Phact",
-    "name_kr": "프아크트",
+    "name_kr": "Phact",
     "aliases_en": [
       "Phact"
     ],
     "aliases_kr": [
-      "프아크트"
+      "Phact"
     ],
     "bayerFlamsteed": "Alp Col",
     "ra": "05:39:38.90",
@@ -1611,12 +1611,12 @@
     "id": "6Bet Ari",
     "catalog": "BrightStar",
     "name_en": "Sheratan",
-    "name_kr": "시에르아트아느",
+    "name_kr": "Sheratan",
     "aliases_en": [
       "Sheratan"
     ],
     "aliases_kr": [
-      "시에르아트아느"
+      "Sheratan"
     ],
     "bayerFlamsteed": "6Bet Ari",
     "ra": "01:54:38.40",
@@ -1629,12 +1629,12 @@
     "id": "9Bet Crv",
     "catalog": "BrightStar",
     "name_en": "Kraz",
-    "name_kr": "크르아즈",
+    "name_kr": "Kraz",
     "aliases_en": [
       "Kraz"
     ],
     "aliases_kr": [
-      "크르아즈"
+      "Kraz"
     ],
     "bayerFlamsteed": "9Bet Crv",
     "ra": "12:34:23.20",
@@ -1647,12 +1647,12 @@
     "id": "24Alp Ser",
     "catalog": "BrightStar",
     "name_en": "Unukalhai",
-    "name_kr": "우느우크아르흐아이",
+    "name_kr": "Unukalhai",
     "aliases_en": [
       "Unukalhai"
     ],
     "aliases_kr": [
-      "우느우크아르흐아이"
+      "Unukalhai"
     ],
     "bayerFlamsteed": "24Alp Ser",
     "ra": "15:44:16.10",
@@ -1665,12 +1665,12 @@
     "id": "8Eta Boo",
     "catalog": "BrightStar",
     "name_en": "Muphrid",
-    "name_kr": "므우프르이드",
+    "name_kr": "Muphrid",
     "aliases_en": [
       "Muphrid"
     ],
     "aliases_kr": [
-      "므우프르이드"
+      "Muphrid"
     ],
     "bayerFlamsteed": "8Eta Boo",
     "ra": "13:54:41.10",
@@ -1683,12 +1683,12 @@
     "id": "37Del Cas",
     "catalog": "BrightStar",
     "name_en": "Ruchbah",
-    "name_kr": "르우치브아흐",
+    "name_kr": "Ruchbah",
     "aliases_en": [
       "Ruchbah"
     ],
     "aliases_kr": [
-      "르우치브아흐"
+      "Ruchbah"
     ],
     "bayerFlamsteed": "37Del Cas",
     "ra": "01:25:49.00",
@@ -1701,12 +1701,12 @@
     "id": "3Iot Aur",
     "catalog": "BrightStar",
     "name_en": "Hassaleh",
-    "name_kr": "흐아스스아르에흐",
+    "name_kr": "Hassaleh",
     "aliases_en": [
       "Hassaleh"
     ],
     "aliases_kr": [
-      "흐아스스아르에흐"
+      "Hassaleh"
     ],
     "bayerFlamsteed": "3Iot Aur",
     "ra": "04:56:59.60",
@@ -1719,12 +1719,12 @@
     "id": "34Ups Sco",
     "catalog": "BrightStar",
     "name_en": "Lesath",
-    "name_kr": "르에스아스",
+    "name_kr": "Lesath",
     "aliases_en": [
       "Lesath"
     ],
     "aliases_kr": [
-      "르에스아스"
+      "Lesath"
     ],
     "bayerFlamsteed": "34Ups Sco",
     "ra": "17:30:45.80",
@@ -1737,12 +1737,12 @@
     "id": "Pi Pup",
     "catalog": "BrightStar",
     "name_en": "Ahadi",
-    "name_kr": "아흐아드이",
+    "name_kr": "Ahadi",
     "aliases_en": [
       "Ahadi"
     ],
     "aliases_kr": [
-      "아흐아드이"
+      "Ahadi"
     ],
     "bayerFlamsteed": "Pi Pup",
     "ra": "07:17:08.60",
@@ -1755,12 +1755,12 @@
     "id": "19Del Sgr",
     "catalog": "BrightStar",
     "name_en": "Kaus Media",
-    "name_kr": "크아우스므에드이아",
+    "name_kr": "Kaus Media",
     "aliases_en": [
       "Kaus Media"
     ],
     "aliases_kr": [
-      "크아우스므에드이아"
+      "Kaus Media"
     ],
     "bayerFlamsteed": "19Del Sgr",
     "ra": "18:20:59.70",
@@ -1773,12 +1773,12 @@
     "id": "50Gam Aql",
     "catalog": "BrightStar",
     "name_en": "Tarazed",
-    "name_kr": "트아르아즈에드",
+    "name_kr": "Tarazed",
     "aliases_en": [
       "Tarazed"
     ],
     "aliases_kr": [
-      "트아르아즈에드"
+      "Tarazed"
     ],
     "bayerFlamsteed": "50Gam Aql",
     "ra": "19:46:15.60",
@@ -1791,12 +1791,12 @@
     "id": "14Eta Dra",
     "catalog": "BrightStar",
     "name_en": "Athebyne",
-    "name_kr": "아스에브이느에",
+    "name_kr": "Athebyne",
     "aliases_en": [
       "Athebyne"
     ],
     "aliases_kr": [
-      "아스에브이느에"
+      "Athebyne"
     ],
     "bayerFlamsteed": "14Eta Dra",
     "ra": "16:23:59.50",
@@ -1809,12 +1809,12 @@
     "id": "1Del Oph",
     "catalog": "BrightStar",
     "name_en": "Yed Prior",
-    "name_kr": "이에드프르이오르",
+    "name_kr": "Yed Prior",
     "aliases_en": [
       "Yed Prior"
     ],
     "aliases_kr": [
-      "이에드프르이오르"
+      "Yed Prior"
     ],
     "bayerFlamsteed": "1Del Oph",
     "ra": "16:14:20.70",
@@ -1827,12 +1827,12 @@
     "id": "9Alp2Lib",
     "catalog": "BrightStar",
     "name_en": "Zubenelgenubi",
-    "name_kr": "즈우브에느에르지느우브이",
+    "name_kr": "Zubenelgenubi",
     "aliases_en": [
       "Zubenelgenubi"
     ],
     "aliases_kr": [
-      "즈우브에느에르지느우브이"
+      "Zubenelgenubi"
     ],
     "bayerFlamsteed": "9Alp2Lib",
     "ra": "14:50:52.70",
@@ -1845,12 +1845,12 @@
     "id": "60Bet Oph",
     "catalog": "BrightStar",
     "name_en": "Cebalrai",
-    "name_kr": "스브아르르아이",
+    "name_kr": "Cebalrai",
     "aliases_en": [
       "Cebalrai"
     ],
     "aliases_kr": [
-      "스브아르르아이"
+      "Cebalrai"
     ],
     "bayerFlamsteed": "60Bet Oph",
     "ra": "17:43:28.40",
@@ -1863,12 +1863,12 @@
     "id": "44Iot Ori",
     "catalog": "BrightStar",
     "name_en": "Hatysa",
-    "name_kr": "흐아트이스아",
+    "name_kr": "Hatysa",
     "aliases_en": [
       "Hatysa"
     ],
     "aliases_kr": [
-      "흐아트이스아"
+      "Hatysa"
     ],
     "bayerFlamsteed": "44Iot Ori",
     "ra": "05:35:26.00",
@@ -1881,12 +1881,12 @@
     "id": "27Bet Her",
     "catalog": "BrightStar",
     "name_en": "Kornephoros",
-    "name_kr": "크오르느에프오르오스",
+    "name_kr": "Kornephoros",
     "aliases_en": [
       "Kornephoros"
     ],
     "aliases_kr": [
-      "크오르느에프오르오스"
+      "Kornephoros"
     ],
     "bayerFlamsteed": "27Bet Her",
     "ra": "16:30:13.20",
@@ -1899,12 +1899,12 @@
     "id": "67Bet Eri",
     "catalog": "BrightStar",
     "name_en": "Cursa",
-    "name_kr": "크우르스아",
+    "name_kr": "Cursa",
     "aliases_en": [
       "Cursa"
     ],
     "aliases_kr": [
-      "크우르스아"
+      "Cursa"
     ],
     "bayerFlamsteed": "67Bet Eri",
     "ra": "05:07:51.00",
@@ -1917,12 +1917,12 @@
     "id": "23Bet Dra",
     "catalog": "BrightStar",
     "name_en": "Rastaban",
-    "name_kr": "르아스트아브아느",
+    "name_kr": "Rastaban",
     "aliases_en": [
       "Rastaban"
     ],
     "aliases_kr": [
-      "르아스트아브아느"
+      "Rastaban"
     ],
     "bayerFlamsteed": "23Bet Dra",
     "ra": "17:30:26.00",
@@ -1935,12 +1935,12 @@
     "id": "Del Cru",
     "catalog": "BrightStar",
     "name_en": "Imai",
-    "name_kr": "이므아이",
+    "name_kr": "Imai",
     "aliases_en": [
       "Imai"
     ],
     "aliases_kr": [
-      "이므아이"
+      "Imai"
     ],
     "bayerFlamsteed": "Del Cru",
     "ra": "12:15:08.70",
@@ -1953,12 +1953,12 @@
     "id": "22Lam Sgr",
     "catalog": "BrightStar",
     "name_en": "Kaus Borealis",
-    "name_kr": "크아우스브오르에아르이스",
+    "name_kr": "Kaus Borealis",
     "aliases_en": [
       "Kaus Borealis"
     ],
     "aliases_kr": [
-      "크아우스브오르에아르이스"
+      "Kaus Borealis"
     ],
     "bayerFlamsteed": "22Lam Sgr",
     "ra": "18:27:58.20",
@@ -1971,12 +1971,12 @@
     "id": "15Rho Pup",
     "catalog": "BrightStar",
     "name_en": "Tureis",
-    "name_kr": "트우르에이스",
+    "name_kr": "Tureis",
     "aliases_en": [
       "Tureis"
     ],
     "aliases_kr": [
-      "트우르에이스"
+      "Tureis"
     ],
     "bayerFlamsteed": "15Rho Pup",
     "ra": "08:07:32.60",
@@ -1989,12 +1989,12 @@
     "id": "23Tau Sco",
     "catalog": "BrightStar",
     "name_en": "Paikauhale",
-    "name_kr": "프아이크아우흐아르에",
+    "name_kr": "Paikauhale",
     "aliases_en": [
       "Paikauhale"
     ],
     "aliases_kr": [
-      "프아이크아우흐아르에"
+      "Paikauhale"
     ],
     "bayerFlamsteed": "23Tau Sco",
     "ra": "16:35:53.00",
@@ -2007,12 +2007,12 @@
     "id": "88Gam Peg",
     "catalog": "BrightStar",
     "name_en": "Algenib",
-    "name_kr": "아르지느이브",
+    "name_kr": "Algenib",
     "aliases_en": [
       "Algenib"
     ],
     "aliases_kr": [
-      "아르지느이브"
+      "Algenib"
     ],
     "bayerFlamsteed": "88Gam Peg",
     "ra": "00:13:14.20",
@@ -2025,12 +2025,12 @@
     "id": "47Eps Vir",
     "catalog": "BrightStar",
     "name_en": "Vindemiatrix",
-    "name_kr": "브이느드에므이아트르이크스",
+    "name_kr": "Vindemiatrix",
     "aliases_en": [
       "Vindemiatrix"
     ],
     "aliases_kr": [
-      "브이느드에므이아트르이크스"
+      "Vindemiatrix"
     ],
     "bayerFlamsteed": "47Eps Vir",
     "ra": "13:02:10.60",
@@ -2043,12 +2043,12 @@
     "id": "9Bet Lep",
     "catalog": "BrightStar",
     "name_en": "Nihal",
-    "name_kr": "느이흐아르",
+    "name_kr": "Nihal",
     "aliases_en": [
       "Nihal"
     ],
     "aliases_kr": [
-      "느이흐아르"
+      "Nihal"
     ],
     "bayerFlamsteed": "9Bet Lep",
     "ra": "05:28:14.70",
@@ -2061,12 +2061,12 @@
     "id": "25Eta Tau",
     "catalog": "BrightStar",
     "name_en": "Alcyone",
-    "name_kr": "아르크이오느에",
+    "name_kr": "Alcyone",
     "aliases_en": [
       "Alcyone"
     ],
     "aliases_kr": [
-      "아르크이오느에"
+      "Alcyone"
     ],
     "bayerFlamsteed": "25Eta Tau",
     "ra": "03:47:29.10",
@@ -2079,12 +2079,12 @@
     "id": "49Del Cap",
     "catalog": "BrightStar",
     "name_en": "Deneb Algedi",
-    "name_kr": "드에느에브아르지드이",
+    "name_kr": "Deneb Algedi",
     "aliases_en": [
       "Deneb Algedi"
     ],
     "aliases_kr": [
-      "드에느에브아르지드이"
+      "Deneb Algedi"
     ],
     "bayerFlamsteed": "49Del Cap",
     "ra": "21:47:02.40",
@@ -2097,12 +2097,12 @@
     "id": "18Del Cyg",
     "catalog": "BrightStar",
     "name_en": "Fawaris",
-    "name_kr": "프아우아르이스",
+    "name_kr": "Fawaris",
     "aliases_en": [
       "Fawaris"
     ],
     "aliases_kr": [
-      "프아우아르이스"
+      "Fawaris"
     ],
     "bayerFlamsteed": "18Del Cyg",
     "ra": "19:44:58.50",
@@ -2115,12 +2115,12 @@
     "id": "66Alp Gem",
     "catalog": "BrightStar",
     "name_en": "Castor B",
-    "name_kr": "크아스트오르브",
+    "name_kr": "Castor B",
     "aliases_en": [
       "Castor B"
     ],
     "aliases_kr": [
-      "크아스트오르브"
+      "Castor B"
     ],
     "bayerFlamsteed": "66Alp Gem",
     "ra": "07:34:36.00",
@@ -2133,12 +2133,12 @@
     "id": "13Mu Gem",
     "catalog": "BrightStar",
     "name_en": "Tejat",
-    "name_kr": "트에지아트",
+    "name_kr": "Tejat",
     "aliases_en": [
       "Tejat"
     ],
     "aliases_kr": [
-      "트에지아트"
+      "Tejat"
     ],
     "bayerFlamsteed": "13Mu Gem",
     "ra": "06:22:57.60",
@@ -2151,12 +2151,12 @@
     "id": "41Pi Sgr",
     "catalog": "BrightStar",
     "name_en": "Albaldah",
-    "name_kr": "아르브아르드아흐",
+    "name_kr": "Albaldah",
     "aliases_en": [
       "Albaldah"
     ],
     "aliases_kr": [
-      "아르브아르드아흐"
+      "Albaldah"
     ],
     "bayerFlamsteed": "41Pi Sgr",
     "ra": "19:09:45.80",
@@ -2169,12 +2169,12 @@
     "id": "20Sig Sco",
     "catalog": "BrightStar",
     "name_en": "Alniyat",
-    "name_kr": "아르느이이아트",
+    "name_kr": "Alniyat",
     "aliases_en": [
       "Alniyat"
     ],
     "aliases_kr": [
-      "아르느이이아트"
+      "Alniyat"
     ],
     "bayerFlamsteed": "20Sig Sco",
     "ra": "16:21:11.30",
@@ -2187,12 +2187,12 @@
     "id": "6Pi Sco",
     "catalog": "BrightStar",
     "name_en": "Fang",
-    "name_kr": "프아느그",
+    "name_kr": "Fang",
     "aliases_en": [
       "Fang"
     ],
     "aliases_kr": [
-      "프아느그"
+      "Fang"
     ],
     "bayerFlamsteed": "6Pi Sco",
     "ra": "15:58:51.10",
@@ -2205,12 +2205,12 @@
     "id": "12Alp2CVn",
     "catalog": "BrightStar",
     "name_en": "Cor Caroli",
-    "name_kr": "크오르크아르오르이",
+    "name_kr": "Cor Caroli",
     "aliases_en": [
       "Cor Caroli"
     ],
     "aliases_kr": [
-      "크오르크아르오르이"
+      "Cor Caroli"
     ],
     "bayerFlamsteed": "12Alp2CVn",
     "ra": "12:56:01.70",
@@ -2223,12 +2223,12 @@
     "id": "3Bet CMi",
     "catalog": "BrightStar",
     "name_en": "Gomeisa",
-    "name_kr": "그오므에이스아",
+    "name_kr": "Gomeisa",
     "aliases_en": [
       "Gomeisa"
     ],
     "aliases_kr": [
-      "그오므에이스아"
+      "Gomeisa"
     ],
     "bayerFlamsteed": "3Bet CMi",
     "ra": "07:27:09.00",
@@ -2241,12 +2241,12 @@
     "id": "22Bet Aqr",
     "catalog": "BrightStar",
     "name_en": "Sadalsuud",
-    "name_kr": "스아드아르스우우드",
+    "name_kr": "Sadalsuud",
     "aliases_en": [
       "Sadalsuud"
     ],
     "aliases_kr": [
-      "스아드아르스우우드"
+      "Sadalsuud"
     ],
     "bayerFlamsteed": "22Bet Aqr",
     "ra": "21:31:33.50",
@@ -2259,14 +2259,14 @@
     "id": "Tau Pup",
     "catalog": "BrightStar",
     "name_en": "Taleban",
-    "name_kr": "트아르에브아느",
+    "name_kr": "Taleban",
     "aliases_en": [
       "Taleban",
       "Altaleban"
     ],
     "aliases_kr": [
-      "트아르에브아느",
-      "아르트아르에브아느"
+      "Taleban",
+      "Altaleban"
     ],
     "bayerFlamsteed": "Tau Pup",
     "ra": "06:49:56.20",
@@ -2279,12 +2279,12 @@
     "id": "44Eta Peg",
     "catalog": "BrightStar",
     "name_en": "Matar",
-    "name_kr": "므아트아르",
+    "name_kr": "Matar",
     "aliases_en": [
       "Matar"
     ],
     "aliases_kr": [
-      "므아트아르"
+      "Matar"
     ],
     "bayerFlamsteed": "44Eta Peg",
     "ra": "22:43:00.10",
@@ -2297,12 +2297,12 @@
     "id": "7Del Crv",
     "catalog": "BrightStar",
     "name_en": "Algorab",
-    "name_kr": "아르그오르아브",
+    "name_kr": "Algorab",
     "aliases_en": [
       "Algorab"
     ],
     "aliases_kr": [
-      "아르그오르아브"
+      "Algorab"
     ],
     "bayerFlamsteed": "7Del Crv",
     "ra": "12:29:51.90",
@@ -2315,12 +2315,12 @@
     "id": "34Gam Eri",
     "catalog": "BrightStar",
     "name_en": "Zaurak",
-    "name_kr": "즈아우르아크",
+    "name_kr": "Zaurak",
     "aliases_en": [
       "Zaurak"
     ],
     "aliases_kr": [
-      "즈아우르아크"
+      "Zaurak"
     ],
     "bayerFlamsteed": "34Gam Eri",
     "ra": "03:58:01.80",
@@ -2333,12 +2333,12 @@
     "id": "34Alp Aqr",
     "catalog": "BrightStar",
     "name_en": "Sadalmelik",
-    "name_kr": "스아드아르므에르이크",
+    "name_kr": "Sadalmelik",
     "aliases_en": [
       "Sadalmelik"
     ],
     "aliases_kr": [
-      "스아드아르므에르이크"
+      "Sadalmelik"
     ],
     "bayerFlamsteed": "34Alp Aqr",
     "ra": "22:05:47.00",
@@ -2351,12 +2351,12 @@
     "id": "27Eps Gem",
     "catalog": "BrightStar",
     "name_en": "Mebsuta",
-    "name_kr": "므에브스우트아",
+    "name_kr": "Mebsuta",
     "aliases_en": [
       "Mebsuta"
     ],
     "aliases_kr": [
-      "므에브스우트아"
+      "Mebsuta"
     ],
     "bayerFlamsteed": "27Eps Gem",
     "ra": "06:43:55.90",
@@ -2369,12 +2369,12 @@
     "id": "7Eps Aur",
     "catalog": "BrightStar",
     "name_en": "Almaaz",
-    "name_kr": "아르므아즈",
+    "name_kr": "Almaaz",
     "aliases_en": [
       "Almaaz"
     ],
     "aliases_kr": [
-      "아르므아즈"
+      "Almaaz"
     ],
     "bayerFlamsteed": "7Eps Aur",
     "ra": "05:01:58.10",
@@ -2387,12 +2387,12 @@
     "id": "10Gam2Sgr",
     "catalog": "BrightStar",
     "name_en": "Alnasl",
-    "name_kr": "아르느아스르",
+    "name_kr": "Alnasl",
     "aliases_en": [
       "Alnasl"
     ],
     "aliases_kr": [
-      "아르느아스르"
+      "Alnasl"
     ],
     "bayerFlamsteed": "10Gam2Sgr",
     "ra": "18:05:48.50",
@@ -2405,12 +2405,12 @@
     "id": "17Zet Aql",
     "catalog": "BrightStar",
     "name_en": "Okab",
-    "name_kr": "오크아브",
+    "name_kr": "Okab",
     "aliases_en": [
       "Okab"
     ],
     "aliases_kr": [
-      "오크아브"
+      "Okab"
     ],
     "bayerFlamsteed": "17Zet Aql",
     "ra": "19:05:24.60",
@@ -2423,12 +2423,12 @@
     "id": "2Eps Crv",
     "catalog": "BrightStar",
     "name_en": "Minkar",
-    "name_kr": "므이느크아르",
+    "name_kr": "Minkar",
     "aliases_en": [
       "Minkar"
     ],
     "aliases_kr": [
-      "므이느크아르"
+      "Minkar"
     ],
     "bayerFlamsteed": "2Eps Crv",
     "ra": "12:10:07.50",
@@ -2441,12 +2441,12 @@
     "id": "123Zet Tau",
     "catalog": "BrightStar",
     "name_en": "Tianguan",
-    "name_kr": "트이아느그우아느",
+    "name_kr": "Tianguan",
     "aliases_en": [
       "Tianguan"
     ],
     "aliases_kr": [
-      "트이아느그우아느"
+      "Tianguan"
     ],
     "bayerFlamsteed": "123Zet Tau",
     "ra": "05:37:38.70",
@@ -2459,12 +2459,12 @@
     "id": "Gam Gru",
     "catalog": "BrightStar",
     "name_en": "Aldhanab",
-    "name_kr": "아르드흐아느아브",
+    "name_kr": "Aldhanab",
     "aliases_en": [
       "Aldhanab"
     ],
     "aliases_kr": [
-      "아르드흐아느아브"
+      "Aldhanab"
     ],
     "bayerFlamsteed": "Gam Gru",
     "ra": "21:53:55.70",
@@ -2477,12 +2477,12 @@
     "id": "1Zet CMa",
     "catalog": "BrightStar",
     "name_en": "Furud",
-    "name_kr": "프우르우드",
+    "name_kr": "Furud",
     "aliases_en": [
       "Furud"
     ],
     "aliases_kr": [
-      "프우르우드"
+      "Furud"
     ],
     "bayerFlamsteed": "1Zet CMa",
     "ra": "06:20:18.80",
@@ -2495,12 +2495,12 @@
     "id": "27Gam Boo",
     "catalog": "BrightStar",
     "name_en": "Seginus",
-    "name_kr": "스에지느우스",
+    "name_kr": "Seginus",
     "aliases_en": [
       "Seginus"
     ],
     "aliases_kr": [
-      "스에지느우스"
+      "Seginus"
     ],
     "bayerFlamsteed": "27Gam Boo",
     "ra": "14:32:04.70",
@@ -2513,14 +2513,14 @@
     "id": "68Omi Cet",
     "catalog": "BrightStar",
     "name_en": "Mira",
-    "name_kr": "므이르아",
+    "name_kr": "Mira",
     "aliases_en": [
       "Mira",
       "Mira A"
     ],
     "aliases_kr": [
-      "므이르아",
-      "므이르아아"
+      "Mira",
+      "Mira A"
     ],
     "bayerFlamsteed": "68Omi Cet",
     "ra": "02:19:20.70",
@@ -2533,12 +2533,12 @@
     "id": "13Gam UMi",
     "catalog": "BrightStar",
     "name_en": "Pherkad",
-    "name_kr": "프에르크아드",
+    "name_kr": "Pherkad",
     "aliases_en": [
       "Pherkad"
     ],
     "aliases_kr": [
-      "프에르크아드"
+      "Pherkad"
     ],
     "bayerFlamsteed": "13Gam UMi",
     "ra": "15:20:43.70",
@@ -2551,12 +2551,12 @@
     "id": "34Mu UMa",
     "catalog": "BrightStar",
     "name_en": "Tania Australis",
-    "name_kr": "트아느이아아우스트르아르이스",
+    "name_kr": "Tania Australis",
     "aliases_en": [
       "Tania Australis"
     ],
     "aliases_kr": [
-      "트아느이아아우스트르아르이스"
+      "Tania Australis"
     ],
     "bayerFlamsteed": "34Mu UMa",
     "ra": "10:22:19.70",
@@ -2569,12 +2569,12 @@
     "id": "57Del Dra",
     "catalog": "BrightStar",
     "name_en": "Altais",
-    "name_kr": "아르트아이스",
+    "name_kr": "Altais",
     "aliases_en": [
       "Altais"
     ],
     "aliases_kr": [
-      "아르트아이스"
+      "Altais"
     ],
     "bayerFlamsteed": "57Del Dra",
     "ra": "19:12:33.30",
@@ -2587,12 +2587,12 @@
     "id": "9Bet Cap",
     "catalog": "BrightStar",
     "name_en": "Dabih Major",
-    "name_kr": "드아브이흐므아지오르",
+    "name_kr": "Dabih Major",
     "aliases_en": [
       "Dabih Major"
     ],
     "aliases_kr": [
-      "드아브이흐므아지오르"
+      "Dabih Major"
     ],
     "bayerFlamsteed": "9Bet Cap",
     "ra": "20:21:00.70",
@@ -2605,12 +2605,12 @@
     "id": "Mu 1Sco",
     "catalog": "BrightStar",
     "name_en": "Xamidimura",
-    "name_kr": "크스아므이드이므우르아",
+    "name_kr": "Xamidimura",
     "aliases_en": [
       "Xamidimura"
     ],
     "aliases_kr": [
-      "크스아므이드이므우르아"
+      "Xamidimura"
     ],
     "bayerFlamsteed": "Mu 1Sco",
     "ra": "16:51:52.20",
@@ -2623,12 +2623,12 @@
     "id": "Bet Col",
     "catalog": "BrightStar",
     "name_en": "Wazn",
-    "name_kr": "우아즈느",
+    "name_kr": "Wazn",
     "aliases_en": [
       "Wazn"
     ],
     "aliases_kr": [
-      "우아즈느"
+      "Wazn"
     ],
     "bayerFlamsteed": "Bet Col",
     "ra": "05:50:57.60",
@@ -2641,12 +2641,12 @@
     "id": "65Del Her",
     "catalog": "BrightStar",
     "name_en": "Sarin",
-    "name_kr": "스아르이느",
+    "name_kr": "Sarin",
     "aliases_en": [
       "Sarin"
     ],
     "aliases_kr": [
-      "스아르이느"
+      "Sarin"
     ],
     "bayerFlamsteed": "65Del Her",
     "ra": "17:15:01.90",
@@ -2659,12 +2659,12 @@
     "id": "9Iot UMa",
     "catalog": "BrightStar",
     "name_en": "Talitha",
-    "name_kr": "트아르이스아",
+    "name_kr": "Talitha",
     "aliases_en": [
       "Talitha"
     ],
     "aliases_kr": [
-      "트아르이스아"
+      "Talitha"
     ],
     "bayerFlamsteed": "9Iot UMa",
     "ra": "08:59:12.40",
@@ -2677,12 +2677,12 @@
     "id": "22Zet Dra",
     "catalog": "BrightStar",
     "name_en": "Aldhibah",
-    "name_kr": "아르드흐이브아흐",
+    "name_kr": "Aldhibah",
     "aliases_en": [
       "Aldhibah"
     ],
     "aliases_kr": [
-      "아르드흐이브아흐"
+      "Aldhibah"
     ],
     "bayerFlamsteed": "22Zet Dra",
     "ra": "17:08:47.20",
@@ -2695,12 +2695,12 @@
     "id": "10Eta Aur",
     "catalog": "BrightStar",
     "name_en": "Haedus",
-    "name_kr": "흐아에드우스",
+    "name_kr": "Haedus",
     "aliases_en": [
       "Haedus"
     ],
     "aliases_kr": [
-      "흐아에드우스"
+      "Haedus"
     ],
     "bayerFlamsteed": "10Eta Aur",
     "ra": "05:06:30.90",
@@ -2713,12 +2713,12 @@
     "id": "1Pi 3Ori",
     "catalog": "BrightStar",
     "name_en": "Tabit",
-    "name_kr": "트아브이트",
+    "name_kr": "Tabit",
     "aliases_en": [
       "Tabit"
     ],
     "aliases_kr": [
-      "트아브이트"
+      "Tabit"
     ],
     "bayerFlamsteed": "1Pi 3Ori",
     "ra": "04:49:50.40",
@@ -2731,12 +2731,12 @@
     "id": "35Gam Cep",
     "catalog": "BrightStar",
     "name_en": "Errai",
-    "name_kr": "에르르아이",
+    "name_kr": "Errai",
     "aliases_en": [
       "Errai"
     ],
     "aliases_kr": [
-      "에르르아이"
+      "Errai"
     ],
     "bayerFlamsteed": "35Gam Cep",
     "ra": "23:39:20.80",
@@ -2749,12 +2749,12 @@
     "id": "HD 161892",
     "catalog": "BrightStar",
     "name_en": "Fuyue",
-    "name_kr": "프우이우에",
+    "name_kr": "Fuyue",
     "aliases_en": [
       "Fuyue"
     ],
     "aliases_kr": [
-      "프우이우에"
+      "Fuyue"
     ],
     "bayerFlamsteed": null,
     "ra": "17:49:51.50",
@@ -2767,12 +2767,12 @@
     "id": "8Bet Cep",
     "catalog": "BrightStar",
     "name_en": "Alfirk",
-    "name_kr": "아르프이르크",
+    "name_kr": "Alfirk",
     "aliases_en": [
       "Alfirk"
     ],
     "aliases_kr": [
-      "아르프이르크"
+      "Alfirk"
     ],
     "bayerFlamsteed": "8Bet Cep",
     "ra": "21:28:39.60",
@@ -2785,12 +2785,12 @@
     "id": "14Gam Lyr",
     "catalog": "BrightStar",
     "name_en": "Sulafat",
-    "name_kr": "스우르아프아트",
+    "name_kr": "Sulafat",
     "aliases_en": [
       "Sulafat"
     ],
     "aliases_kr": [
-      "스우르아프아트"
+      "Sulafat"
     ],
     "bayerFlamsteed": "14Gam Lyr",
     "ra": "18:58:56.60",
@@ -2803,12 +2803,12 @@
     "id": "2Eps Oph",
     "catalog": "BrightStar",
     "name_en": "Yed Posterior",
-    "name_kr": "이에드프오스트에르이오르",
+    "name_kr": "Yed Posterior",
     "aliases_en": [
       "Yed Posterior"
     ],
     "aliases_kr": [
-      "이에드프오스트에르이오르"
+      "Yed Posterior"
     ],
     "bayerFlamsteed": "2Eps Oph",
     "ra": "16:18:19.30",
@@ -2821,12 +2821,12 @@
     "id": "Sig Pup",
     "catalog": "BrightStar",
     "name_en": "Hadir",
-    "name_kr": "흐아드이르",
+    "name_kr": "Hadir",
     "aliases_en": [
       "Hadir"
     ],
     "aliases_kr": [
-      "흐아드이르"
+      "Hadir"
     ],
     "bayerFlamsteed": "Sig Pup",
     "ra": "07:29:13.80",
@@ -2839,12 +2839,12 @@
     "id": "76Del Aqr",
     "catalog": "BrightStar",
     "name_en": "Skat",
-    "name_kr": "스크아트",
+    "name_kr": "Skat",
     "aliases_en": [
       "Skat"
     ],
     "aliases_kr": [
-      "스크아트"
+      "Skat"
     ],
     "bayerFlamsteed": "76Del Aqr",
     "ra": "22:54:39.00",
@@ -2857,12 +2857,12 @@
     "id": "7Eta Gem",
     "catalog": "BrightStar",
     "name_en": "Propus",
-    "name_kr": "프르오프우스",
+    "name_kr": "Propus",
     "aliases_en": [
       "Propus"
     ],
     "aliases_kr": [
-      "프르오프우스"
+      "Propus"
     ],
     "bayerFlamsteed": "7Eta Gem",
     "ra": "06:14:52.60",
@@ -2875,12 +2875,12 @@
     "id": "20Sig Lib",
     "catalog": "BrightStar",
     "name_en": "Brachium",
-    "name_kr": "브르아치이우므",
+    "name_kr": "Brachium",
     "aliases_en": [
       "Brachium"
     ],
     "aliases_kr": [
-      "브르아치이우므"
+      "Brachium"
     ],
     "bayerFlamsteed": "20Sig Lib",
     "ra": "15:04:04.20",
@@ -2893,12 +2893,12 @@
     "id": "12Iot Dra",
     "catalog": "BrightStar",
     "name_en": "Edasich",
-    "name_kr": "에드아스이치",
+    "name_kr": "Edasich",
     "aliases_en": [
       "Edasich"
     ],
     "aliases_kr": [
-      "에드아스이치"
+      "Edasich"
     ],
     "bayerFlamsteed": "12Iot Dra",
     "ra": "15:24:55.80",
@@ -2911,12 +2911,12 @@
     "id": "69Del UMa",
     "catalog": "BrightStar",
     "name_en": "Megrez",
-    "name_kr": "므에그르에즈",
+    "name_kr": "Megrez",
     "aliases_en": [
       "Megrez"
     ],
     "aliases_kr": [
-      "므에그르에즈"
+      "Megrez"
     ],
     "bayerFlamsteed": "69Del UMa",
     "ra": "12:15:25.60",
@@ -2929,16 +2929,16 @@
     "id": "7Xi Pup",
     "catalog": "BrightStar",
     "name_en": "Azmidi",
-    "name_kr": "아즈므이드이",
+    "name_kr": "Azmidi",
     "aliases_en": [
       "Azmidi",
       "Asmidiske",
       "Azmidiske"
     ],
     "aliases_kr": [
-      "아즈므이드이",
-      "아스므이드이스크에",
-      "아즈므이드이스크에"
+      "Azmidi",
+      "Asmidiske",
+      "Azmidiske"
     ],
     "bayerFlamsteed": "7Xi Pup",
     "ra": "07:49:17.70",
@@ -2951,12 +2951,12 @@
     "id": "70The Leo",
     "catalog": "BrightStar",
     "name_en": "Chertan",
-    "name_kr": "치에르트아느",
+    "name_kr": "Chertan",
     "aliases_en": [
       "Chertan"
     ],
     "aliases_kr": [
-      "치에르트아느"
+      "Chertan"
     ],
     "bayerFlamsteed": "70The Leo",
     "ra": "11:14:14.40",
@@ -2969,12 +2969,12 @@
     "id": "31Xi Gem",
     "catalog": "BrightStar",
     "name_en": "Alzirr",
-    "name_kr": "아르즈이르르",
+    "name_kr": "Alzirr",
     "aliases_en": [
       "Alzirr"
     ],
     "aliases_kr": [
-      "아르즈이르르"
+      "Alzirr"
     ],
     "bayerFlamsteed": "31Xi Gem",
     "ra": "06:45:17.40",
@@ -2987,12 +2987,12 @@
     "id": "1Omi UMa",
     "catalog": "BrightStar",
     "name_en": "Muscida",
-    "name_kr": "므우스시드아",
+    "name_kr": "Muscida",
     "aliases_en": [
       "Muscida"
     ],
     "aliases_kr": [
-      "므우스시드아"
+      "Muscida"
     ],
     "bayerFlamsteed": "1Omi UMa",
     "ra": "08:30:15.90",
@@ -3005,12 +3005,12 @@
     "id": "79Zet Vir",
     "catalog": "BrightStar",
     "name_en": "Heze",
-    "name_kr": "흐에즈에",
+    "name_kr": "Heze",
     "aliases_en": [
       "Heze"
     ],
     "aliases_kr": [
-      "흐에즈에"
+      "Heze"
     ],
     "bayerFlamsteed": "79Zet Vir",
     "ra": "13:34:41.60",
@@ -3023,12 +3023,12 @@
     "id": "11Eps Hya",
     "catalog": "BrightStar",
     "name_en": "Ashlesha",
-    "name_kr": "아시르에시아",
+    "name_kr": "Ashlesha",
     "aliases_en": [
       "Ashlesha"
     ],
     "aliases_kr": [
-      "아시르에시아"
+      "Ashlesha"
     ],
     "bayerFlamsteed": "11Eps Hya",
     "ra": "08:46:46.60",
@@ -3041,12 +3041,12 @@
     "id": "43Del Vir",
     "catalog": "BrightStar",
     "name_en": "Minelauva",
-    "name_kr": "므이느에르아우브아",
+    "name_kr": "Minelauva",
     "aliases_en": [
       "Minelauva"
     ],
     "aliases_kr": [
-      "므이느에르아우브아"
+      "Minelauva"
     ],
     "bayerFlamsteed": "43Del Vir",
     "ra": "12:55:36.20",
@@ -3059,12 +3059,12 @@
     "id": "45Eps Cas",
     "catalog": "BrightStar",
     "name_en": "Segin",
-    "name_kr": "스에지느",
+    "name_kr": "Segin",
     "aliases_en": [
       "Segin"
     ],
     "aliases_kr": [
-      "스에지느"
+      "Segin"
     ],
     "bayerFlamsteed": "45Eps Cas",
     "ra": "01:54:23.70",
@@ -3077,12 +3077,12 @@
     "id": "25Rho Per",
     "catalog": "BrightStar",
     "name_en": "Gorgonea Tertia",
-    "name_kr": "그오르그오느에아트에르트이아",
+    "name_kr": "Gorgonea Tertia",
     "aliases_en": [
       "Gorgonea Tertia"
     ],
     "aliases_kr": [
-      "그오르그오느에아트에르트이아"
+      "Gorgonea Tertia"
     ],
     "bayerFlamsteed": "25Rho Per",
     "ra": "03:05:10.60",
@@ -3095,12 +3095,12 @@
     "id": "78The2Tau",
     "catalog": "BrightStar",
     "name_en": "Chamukuy",
-    "name_kr": "치아므우크우이",
+    "name_kr": "Chamukuy",
     "aliases_en": [
       "Chamukuy"
     ],
     "aliases_kr": [
-      "치아므우크우이"
+      "Chamukuy"
     ],
     "bayerFlamsteed": "78The2Tau",
     "ra": "04:28:39.70",
@@ -3113,12 +3113,12 @@
     "id": "42Zet Peg",
     "catalog": "BrightStar",
     "name_en": "Homam",
-    "name_kr": "흐오므아므",
+    "name_kr": "Homam",
     "aliases_en": [
       "Homam"
     ],
     "aliases_kr": [
-      "흐오므아므"
+      "Homam"
     ],
     "bayerFlamsteed": "42Zet Peg",
     "ra": "22:41:27.70",
@@ -3131,12 +3131,12 @@
     "id": "2Alp Tri",
     "catalog": "BrightStar",
     "name_en": "Mothallah",
-    "name_kr": "므오스아르르아흐",
+    "name_kr": "Mothallah",
     "aliases_en": [
       "Mothallah"
     ],
     "aliases_kr": [
-      "므오스아르르아흐"
+      "Mothallah"
     ],
     "bayerFlamsteed": "2Alp Tri",
     "ra": "01:53:04.90",
@@ -3149,12 +3149,12 @@
     "id": "24Eta Cas",
     "catalog": "BrightStar",
     "name_en": "Achird",
-    "name_kr": "아치이르드",
+    "name_kr": "Achird",
     "aliases_en": [
       "Achird"
     ],
     "aliases_kr": [
-      "아치이르드"
+      "Achird"
     ],
     "bayerFlamsteed": "24Eta Cas",
     "ra": "00:49:06.00",
@@ -3167,12 +3167,12 @@
     "id": "36Zet Leo",
     "catalog": "BrightStar",
     "name_en": "Adhafera",
-    "name_kr": "아드흐아프에르아",
+    "name_kr": "Adhafera",
     "aliases_en": [
       "Adhafera"
     ],
     "aliases_kr": [
-      "아드흐아프에르아"
+      "Adhafera"
     ],
     "bayerFlamsteed": "36Zet Leo",
     "ra": "10:16:41.40",
@@ -3185,12 +3185,12 @@
     "id": "10Bet Lyr",
     "catalog": "BrightStar",
     "name_en": "Sheliak",
-    "name_kr": "시에르이아크",
+    "name_kr": "Sheliak",
     "aliases_en": [
       "Sheliak"
     ],
     "aliases_kr": [
-      "시에르이아크"
+      "Sheliak"
     ],
     "bayerFlamsteed": "10Bet Lyr",
     "ra": "18:50:04.80",
@@ -3203,12 +3203,12 @@
     "id": "33Lam UMa",
     "catalog": "BrightStar",
     "name_en": "Tania Borealis",
-    "name_kr": "트아느이아브오르에아르이스",
+    "name_kr": "Tania Borealis",
     "aliases_en": [
       "Tania Borealis"
     ],
     "aliases_kr": [
-      "트아느이아브오르에아르이스"
+      "Tania Borealis"
     ],
     "bayerFlamsteed": "33Lam UMa",
     "ra": "10:17:05.80",
@@ -3221,12 +3221,12 @@
     "id": "86Gam Cet",
     "catalog": "BrightStar",
     "name_en": "Kaffaljidhma",
-    "name_kr": "크아프프아르지이드흐므아",
+    "name_kr": "Kaffaljidhma",
     "aliases_en": [
       "Kaffaljidhma"
     ],
     "aliases_kr": [
-      "크아프프아르지이드흐므아"
+      "Kaffaljidhma"
     ],
     "bayerFlamsteed": "86Gam Cet",
     "ra": "02:43:18.00",
@@ -3239,12 +3239,12 @@
     "id": "22Sig CMa",
     "catalog": "BrightStar",
     "name_en": "Unurgunite",
-    "name_kr": "우느우르그우느이트에",
+    "name_kr": "Unurgunite",
     "aliases_en": [
       "Unurgunite"
     ],
     "aliases_kr": [
-      "우느우르그우느이트에"
+      "Unurgunite"
     ],
     "bayerFlamsteed": "22Sig CMa",
     "ra": "07:01:43.10",
@@ -3257,12 +3257,12 @@
     "id": "54Nu UMa",
     "catalog": "BrightStar",
     "name_en": "Alula Borealis",
-    "name_kr": "아르우르아브오르에아르이스",
+    "name_kr": "Alula Borealis",
     "aliases_en": [
       "Alula Borealis"
     ],
     "aliases_kr": [
-      "아르우르아브오르에아르이스"
+      "Alula Borealis"
     ],
     "bayerFlamsteed": "54Nu UMa",
     "ra": "11:18:28.70",
@@ -3275,12 +3275,12 @@
     "id": "48Mu Peg",
     "catalog": "BrightStar",
     "name_en": "Sadalbari",
-    "name_kr": "스아드아르브아르이",
+    "name_kr": "Sadalbari",
     "aliases_en": [
       "Sadalbari"
     ],
     "aliases_kr": [
-      "스아드아르브아르이"
+      "Sadalbari"
     ],
     "bayerFlamsteed": "48Mu Peg",
     "ra": "22:50:00.20",
@@ -3293,12 +3293,12 @@
     "id": "42Bet Boo",
     "catalog": "BrightStar",
     "name_en": "Nekkar",
-    "name_kr": "느에크크아르",
+    "name_kr": "Nekkar",
     "aliases_en": [
       "Nekkar"
     ],
     "aliases_kr": [
-      "느에크크아르"
+      "Nekkar"
     ],
     "bayerFlamsteed": "42Bet Boo",
     "ra": "15:01:56.80",
@@ -3311,12 +3311,12 @@
     "id": "14Omi Leo",
     "catalog": "BrightStar",
     "name_en": "Subra",
-    "name_kr": "스우브르아",
+    "name_kr": "Subra",
     "aliases_en": [
       "Subra"
     ],
     "aliases_kr": [
-      "스우브르아"
+      "Subra"
     ],
     "bayerFlamsteed": "14Omi Leo",
     "ra": "09:41:09.00",
@@ -3329,14 +3329,14 @@
     "id": "17Bet Cnc",
     "catalog": "BrightStar",
     "name_en": "Tarf",
-    "name_kr": "트아르프",
+    "name_kr": "Tarf",
     "aliases_en": [
       "Tarf",
       "Altarf"
     ],
     "aliases_kr": [
-      "트아르프",
-      "아르트아르프"
+      "Tarf",
+      "Altarf"
     ],
     "bayerFlamsteed": "17Bet Cnc",
     "ra": "08:16:30.90",
@@ -3349,12 +3349,12 @@
     "id": "74Eps Tau",
     "catalog": "BrightStar",
     "name_en": "Ain",
-    "name_kr": "아이느",
+    "name_kr": "Ain",
     "aliases_en": [
       "Ain"
     ],
     "aliases_kr": [
-      "아이느"
+      "Ain"
     ],
     "bayerFlamsteed": "74Eps Tau",
     "ra": "04:28:37.00",
@@ -3367,12 +3367,12 @@
     "id": "26The Peg",
     "catalog": "BrightStar",
     "name_en": "Biham",
-    "name_kr": "브이흐아므",
+    "name_kr": "Biham",
     "aliases_en": [
       "Biham"
     ],
     "aliases_kr": [
-      "브이흐아므"
+      "Biham"
     ],
     "bayerFlamsteed": "26The Peg",
     "ra": "22:10:12.00",
@@ -3385,12 +3385,12 @@
     "id": "55Del Gem",
     "catalog": "BrightStar",
     "name_en": "Wasat",
-    "name_kr": "우아스아트",
+    "name_kr": "Wasat",
     "aliases_en": [
       "Wasat"
     ],
     "aliases_kr": [
-      "우아스아트"
+      "Wasat"
     ],
     "bayerFlamsteed": "55Del Gem",
     "ra": "07:20:07.40",
@@ -3403,12 +3403,12 @@
     "id": "23Del Eri",
     "catalog": "BrightStar",
     "name_en": "Rana",
-    "name_kr": "르아느아",
+    "name_kr": "Rana",
     "aliases_en": [
       "Rana"
     ],
     "aliases_kr": [
-      "르아느아"
+      "Rana"
     ],
     "bayerFlamsteed": "23Del Eri",
     "ra": "03:43:14.90",
@@ -3421,12 +3421,12 @@
     "id": "39Lam Ori",
     "catalog": "BrightStar",
     "name_en": "lambda Ori X-3",
-    "name_kr": "르아므브드아오르이크스3",
+    "name_kr": "lambda Ori X-3",
     "aliases_en": [
       "lambda Ori X-3"
     ],
     "aliases_kr": [
-      "르아므브드아오르이크스3"
+      "lambda Ori X-3"
     ],
     "bayerFlamsteed": "39Lam Ori",
     "ra": "05:35:08.30",
@@ -3439,14 +3439,14 @@
     "id": "6Alp2Cap",
     "catalog": "BrightStar",
     "name_en": "Giedi",
-    "name_kr": "지에드이",
+    "name_kr": "Giedi",
     "aliases_en": [
       "Giedi",
       "Algedi"
     ],
     "aliases_kr": [
-      "지에드이",
-      "아르지드이"
+      "Giedi",
+      "Algedi"
     ],
     "bayerFlamsteed": "6Alp2Cap",
     "ra": "20:18:03.30",
@@ -3459,12 +3459,12 @@
     "id": "51 And",
     "catalog": "BrightStar",
     "name_en": "Nembus",
-    "name_kr": "느에므브우스",
+    "name_kr": "Nembus",
     "aliases_en": [
       "Nembus"
     ],
     "aliases_kr": [
-      "느에므브우스"
+      "Nembus"
     ],
     "bayerFlamsteed": "51 And",
     "ra": "01:37:59.60",
@@ -3477,12 +3477,12 @@
     "id": "Mu 2Sco",
     "catalog": "BrightStar",
     "name_en": "Pipirima",
-    "name_kr": "프이프이르이므아",
+    "name_kr": "Pipirima",
     "aliases_en": [
       "Pipirima"
     ],
     "aliases_kr": [
-      "프이프이르이므아"
+      "Pipirima"
     ],
     "bayerFlamsteed": "Mu 2Sco",
     "ra": "16:52:20.10",
@@ -3495,12 +3495,12 @@
     "id": "Eps Cru",
     "catalog": "BrightStar",
     "name_en": "Ginan",
-    "name_kr": "지느아느",
+    "name_kr": "Ginan",
     "aliases_en": [
       "Ginan"
     ],
     "aliases_kr": [
-      "지느아느"
+      "Ginan"
     ],
     "bayerFlamsteed": "Eps Cru",
     "ra": "12:21:21.60",
@@ -3513,12 +3513,12 @@
     "id": "12Kap UMa",
     "catalog": "BrightStar",
     "name_en": "Alkaphrah",
-    "name_kr": "아르크아프르아흐",
+    "name_kr": "Alkaphrah",
     "aliases_en": [
       "Alkaphrah"
     ],
     "aliases_kr": [
-      "아르크아프르아흐"
+      "Alkaphrah"
     ],
     "bayerFlamsteed": "12Kap UMa",
     "ra": "09:03:37.50",
@@ -3531,12 +3531,12 @@
     "id": "5Bet Vir",
     "catalog": "BrightStar",
     "name_en": "Zavijava",
-    "name_kr": "즈아브이지아브아",
+    "name_kr": "Zavijava",
     "aliases_en": [
       "Zavijava"
     ],
     "aliases_kr": [
-      "즈아브이지아브아"
+      "Zavijava"
     ],
     "bayerFlamsteed": "5Bet Vir",
     "ra": "11:50:41.70",
@@ -3549,12 +3549,12 @@
     "id": "99Eta Psc",
     "catalog": "BrightStar",
     "name_en": "Alpherg",
-    "name_kr": "아르프에르그",
+    "name_kr": "Alpherg",
     "aliases_en": [
       "Alpherg"
     ],
     "aliases_kr": [
-      "아르프에르그"
+      "Alpherg"
     ],
     "bayerFlamsteed": "99Eta Psc",
     "ra": "01:31:29.00",
@@ -3567,12 +3567,12 @@
     "id": "27 Tau",
     "catalog": "BrightStar",
     "name_en": "Atlas",
-    "name_kr": "아트르아스",
+    "name_kr": "Atlas",
     "aliases_en": [
       "Atlas"
     ],
     "aliases_kr": [
-      "아트르아스"
+      "Atlas"
     ],
     "bayerFlamsteed": "27 Tau",
     "ra": "03:49:09.70",
@@ -3585,12 +3585,12 @@
     "id": "41 Ari",
     "catalog": "BrightStar",
     "name_en": "Bharani",
-    "name_kr": "브흐아르아느이",
+    "name_kr": "Bharani",
     "aliases_en": [
       "Bharani"
     ],
     "aliases_kr": [
-      "브흐아르아느이"
+      "Bharani"
     ],
     "bayerFlamsteed": "41 Ari",
     "ra": "02:49:59.00",
@@ -3603,12 +3603,12 @@
     "id": "6Bet Del",
     "catalog": "BrightStar",
     "name_en": "Rotanev",
-    "name_kr": "르오트아느에브",
+    "name_kr": "Rotanev",
     "aliases_en": [
       "Rotanev"
     ],
     "aliases_kr": [
-      "르오트아느에브"
+      "Rotanev"
     ],
     "bayerFlamsteed": "6Bet Del",
     "ra": "20:37:33.00",
@@ -3621,12 +3621,12 @@
     "id": "29Gam Vir",
     "catalog": "BrightStar",
     "name_en": "Porrima",
-    "name_kr": "프오르르이므아",
+    "name_kr": "Porrima",
     "aliases_en": [
       "Porrima"
     ],
     "aliases_kr": [
-      "프오르르이므아"
+      "Porrima"
     ],
     "bayerFlamsteed": "29Gam Vir",
     "ra": "12:41:39.60",
@@ -3639,12 +3639,12 @@
     "id": "54Gam Tau",
     "catalog": "BrightStar",
     "name_en": "Prima Hyadum",
-    "name_kr": "프르이므아흐이아드우므",
+    "name_kr": "Prima Hyadum",
     "aliases_en": [
       "Prima Hyadum"
     ],
     "aliases_kr": [
-      "프르이므아흐이아드우므"
+      "Prima Hyadum"
     ],
     "bayerFlamsteed": "54Gam Tau",
     "ra": "04:19:47.60",
@@ -3657,12 +3657,12 @@
     "id": "11Alp Dra",
     "catalog": "BrightStar",
     "name_en": "Thuban",
-    "name_kr": "스우브아느",
+    "name_kr": "Thuban",
     "aliases_en": [
       "Thuban"
     ],
     "aliases_kr": [
-      "스우브아느"
+      "Thuban"
     ],
     "bayerFlamsteed": "11Alp Dra",
     "ra": "14:04:23.30",
@@ -3675,12 +3675,12 @@
     "id": "17Zet Cas",
     "catalog": "BrightStar",
     "name_en": "Fulu",
-    "name_kr": "프우르우",
+    "name_kr": "Fulu",
     "aliases_en": [
       "Fulu"
     ],
     "aliases_kr": [
-      "프우르우"
+      "Fulu"
     ],
     "bayerFlamsteed": "17Zet Cas",
     "ra": "00:36:58.30",
@@ -3693,12 +3693,12 @@
     "id": "28Bet Ser",
     "catalog": "BrightStar",
     "name_en": "Chow",
-    "name_kr": "치오우",
+    "name_kr": "Chow",
     "aliases_en": [
       "Chow"
     ],
     "aliases_kr": [
-      "치오우"
+      "Chow"
     ],
     "bayerFlamsteed": "28Bet Ser",
     "ra": "15:46:11.30",
@@ -3711,12 +3711,12 @@
     "id": "40Gam Cap",
     "catalog": "BrightStar",
     "name_en": "Nashira",
-    "name_kr": "느아시이르아",
+    "name_kr": "Nashira",
     "aliases_en": [
       "Nashira"
     ],
     "aliases_kr": [
-      "느아시이르아"
+      "Nashira"
     ],
     "bayerFlamsteed": "40Gam Cap",
     "ra": "21:40:05.50",
@@ -3729,12 +3729,12 @@
     "id": "3Bet CrB",
     "catalog": "BrightStar",
     "name_en": "Nusakan",
-    "name_kr": "느우스아크아느",
+    "name_kr": "Nusakan",
     "aliases_en": [
       "Nusakan"
     ],
     "aliases_kr": [
-      "느우스아크아느"
+      "Nusakan"
     ],
     "bayerFlamsteed": "3Bet CrB",
     "ra": "15:27:49.70",
@@ -3747,12 +3747,12 @@
     "id": "17 Tau",
     "catalog": "BrightStar",
     "name_en": "Electra",
-    "name_kr": "에르에크트르아",
+    "name_kr": "Electra",
     "aliases_en": [
       "Electra"
     ],
     "aliases_kr": [
-      "에르에크트르아"
+      "Electra"
     ],
     "bayerFlamsteed": "17 Tau",
     "ra": "03:44:52.50",
@@ -3765,14 +3765,14 @@
     "id": "63Chi UMa",
     "catalog": "BrightStar",
     "name_en": "Alkafzah",
-    "name_kr": "아르크아프즈아흐",
+    "name_kr": "Alkafzah",
     "aliases_en": [
       "Alkafzah",
       "Taiyangshou"
     ],
     "aliases_kr": [
-      "아르크아프즈아흐",
-      "트아이이아느그시오우"
+      "Alkafzah",
+      "Taiyangshou"
     ],
     "bayerFlamsteed": "63Chi UMa",
     "ra": "11:46:03.00",
@@ -3785,12 +3785,12 @@
     "id": "60Bet Aql",
     "catalog": "BrightStar",
     "name_en": "Alshain",
-    "name_kr": "아르시아이느",
+    "name_kr": "Alshain",
     "aliases_en": [
       "Alshain"
     ],
     "aliases_kr": [
-      "아르시아이느"
+      "Alshain"
     ],
     "bayerFlamsteed": "60Bet Aql",
     "ra": "19:55:18.80",
@@ -3803,12 +3803,12 @@
     "id": "55Zet Cet",
     "catalog": "BrightStar",
     "name_en": "Baten Kaitos",
-    "name_kr": "브아트에느크아이트오스",
+    "name_kr": "Baten Kaitos",
     "aliases_en": [
       "Baten Kaitos"
     ],
     "aliases_kr": [
-      "브아트에느크아이트오스"
+      "Baten Kaitos"
     ],
     "bayerFlamsteed": "55Zet Cet",
     "ra": "01:51:27.60",
@@ -3821,12 +3821,12 @@
     "id": "18Eps Eri",
     "catalog": "BrightStar",
     "name_en": "Ran",
-    "name_kr": "르아느",
+    "name_kr": "Ran",
     "aliases_en": [
       "Ran"
     ],
     "aliases_kr": [
-      "르아느"
+      "Ran"
     ],
     "bayerFlamsteed": "18Eps Eri",
     "ra": "03:32:55.80",
@@ -3839,12 +3839,12 @@
     "id": "32Xi Dra",
     "catalog": "BrightStar",
     "name_en": "Grumium",
-    "name_kr": "그르우므이우므",
+    "name_kr": "Grumium",
     "aliases_en": [
       "Grumium"
     ],
     "aliases_kr": [
-      "그르우므이우므"
+      "Grumium"
     ],
     "bayerFlamsteed": "32Xi Dra",
     "ra": "17:53:31.70",
@@ -3857,12 +3857,12 @@
     "id": "8Zet Aur",
     "catalog": "BrightStar",
     "name_en": "Saclateni",
-    "name_kr": "스아크르아트에느이",
+    "name_kr": "Saclateni",
     "aliases_en": [
       "Saclateni"
     ],
     "aliases_kr": [
-      "스아크르아트에느이"
+      "Saclateni"
     ],
     "bayerFlamsteed": "8Zet Aur",
     "ra": "05:02:28.70",
@@ -3875,12 +3875,12 @@
     "id": "15Eta Per",
     "catalog": "BrightStar",
     "name_en": "Miram",
-    "name_kr": "므이르아므",
+    "name_kr": "Miram",
     "aliases_en": [
       "Miram"
     ],
     "aliases_kr": [
-      "므이르아므"
+      "Miram"
     ],
     "bayerFlamsteed": "15Eta Per",
     "ra": "02:50:41.80",
@@ -3893,12 +3893,12 @@
     "id": "61Del1Tau",
     "catalog": "BrightStar",
     "name_en": "Secunda Hyadum",
-    "name_kr": "스에크우느드아흐이아드우므",
+    "name_kr": "Secunda Hyadum",
     "aliases_en": [
       "Secunda Hyadum"
     ],
     "aliases_kr": [
-      "스에크우느드아흐이아드우므"
+      "Secunda Hyadum"
     ],
     "bayerFlamsteed": "61Del1Tau",
     "ra": "04:22:56.10",
@@ -3911,12 +3911,12 @@
     "id": "2Eps Aqr",
     "catalog": "BrightStar",
     "name_en": "Albali",
-    "name_kr": "아르브아르이",
+    "name_kr": "Albali",
     "aliases_en": [
       "Albali"
     ],
     "aliases_kr": [
-      "아르브아르이"
+      "Albali"
     ],
     "bayerFlamsteed": "2Eps Aqr",
     "ra": "20:47:40.60",
@@ -3929,14 +3929,14 @@
     "id": "9Alp Del",
     "catalog": "BrightStar",
     "name_en": "Sualocin",
-    "name_kr": "스우아르오시느",
+    "name_kr": "Sualocin",
     "aliases_en": [
       "Sualocin",
       "Svalocin"
     ],
     "aliases_kr": [
-      "스우아르오시느",
-      "스브아르오시느"
+      "Sualocin",
+      "Svalocin"
     ],
     "bayerFlamsteed": "9Alp Del",
     "ra": "20:39:38.30",
@@ -3949,12 +3949,12 @@
     "id": "43Zet Gem",
     "catalog": "BrightStar",
     "name_en": "Mekbuda",
-    "name_kr": "므에크브우드아",
+    "name_kr": "Mekbuda",
     "aliases_en": [
       "Mekbuda"
     ],
     "aliases_kr": [
-      "므에크브우드아"
+      "Mekbuda"
     ],
     "bayerFlamsteed": "43Zet Gem",
     "ra": "07:04:06.50",
@@ -3967,12 +3967,12 @@
     "id": "27Kap Per",
     "catalog": "BrightStar",
     "name_en": "Misam",
-    "name_kr": "므이스아므",
+    "name_kr": "Misam",
     "aliases_en": [
       "Misam"
     ],
     "aliases_kr": [
-      "므이스아므"
+      "Misam"
     ],
     "bayerFlamsteed": "27Kap Per",
     "ra": "03:09:29.80",
@@ -3985,12 +3985,12 @@
     "id": "10Lam Oph",
     "catalog": "BrightStar",
     "name_en": "Marfik",
-    "name_kr": "므아르프이크",
+    "name_kr": "Marfik",
     "aliases_en": [
       "Marfik"
     ],
     "aliases_kr": [
-      "므아르프이크"
+      "Marfik"
     ],
     "bayerFlamsteed": "10Lam Oph",
     "ra": "16:30:54.80",
@@ -4003,12 +4003,12 @@
     "id": "52Ups2Eri",
     "catalog": "BrightStar",
     "name_en": "Theemin",
-    "name_kr": "스이므이느",
+    "name_kr": "Theemin",
     "aliases_en": [
       "Theemin"
     ],
     "aliases_kr": [
-      "스이므이느"
+      "Theemin"
     ],
     "bayerFlamsteed": "52Ups2Eri",
     "ra": "04:35:33.00",
@@ -4021,12 +4021,12 @@
     "id": "38Omi Per",
     "catalog": "BrightStar",
     "name_en": "Atik",
-    "name_kr": "아트이크",
+    "name_kr": "Atik",
     "aliases_en": [
       "Atik"
     ],
     "aliases_kr": [
-      "아트이크"
+      "Atik"
     ],
     "bayerFlamsteed": "38Omi Per",
     "ra": "03:44:19.10",
@@ -4039,12 +4039,12 @@
     "id": "46 LMi",
     "catalog": "BrightStar",
     "name_en": "Praecipua",
-    "name_kr": "프르아에시프우아",
+    "name_kr": "Praecipua",
     "aliases_en": [
       "Praecipua"
     ],
     "aliases_kr": [
-      "프르아에시프우아"
+      "Praecipua"
     ],
     "bayerFlamsteed": "46 LMi",
     "ra": "10:53:18.70",
@@ -4057,12 +4057,12 @@
     "id": "63Eps Dra",
     "catalog": "BrightStar",
     "name_en": "Tyl",
-    "name_kr": "트이르",
+    "name_kr": "Tyl",
     "aliases_en": [
       "Tyl"
     ],
     "aliases_kr": [
-      "트이르"
+      "Tyl"
     ],
     "bayerFlamsteed": "63Eps Dra",
     "ra": "19:48:10.40",
@@ -4075,12 +4075,12 @@
     "id": "1Lam Dra",
     "catalog": "BrightStar",
     "name_en": "Giausar",
-    "name_kr": "지아우스아르",
+    "name_kr": "Giausar",
     "aliases_en": [
       "Giausar"
     ],
     "aliases_kr": [
-      "지아우스아르"
+      "Giausar"
     ],
     "bayerFlamsteed": "1Lam Dra",
     "ra": "11:31:24.20",
@@ -4093,12 +4093,12 @@
     "id": "48Gam Aqr",
     "catalog": "BrightStar",
     "name_en": "Sadachbia",
-    "name_kr": "스아드아치브이아",
+    "name_kr": "Sadachbia",
     "aliases_en": [
       "Sadachbia"
     ],
     "aliases_kr": [
-      "스아드아치브이아"
+      "Sadachbia"
     ],
     "bayerFlamsteed": "48Gam Aqr",
     "ra": "22:21:39.40",
@@ -4111,12 +4111,12 @@
     "id": "13Mu Sgr",
     "catalog": "BrightStar",
     "name_en": "Polis",
-    "name_kr": "프오르이스",
+    "name_kr": "Polis",
     "aliases_en": [
       "Polis"
     ],
     "aliases_kr": [
-      "프오르이스"
+      "Polis"
     ],
     "bayerFlamsteed": "13Mu Sgr",
     "ra": "18:13:45.80",
@@ -4129,12 +4129,12 @@
     "id": "Alp For",
     "catalog": "BrightStar",
     "name_en": "Dalim",
-    "name_kr": "드아르이므",
+    "name_kr": "Dalim",
     "aliases_en": [
       "Dalim"
     ],
     "aliases_kr": [
-      "드아르이므"
+      "Dalim"
     ],
     "bayerFlamsteed": "Alp For",
     "ra": "03:12:04.30",
@@ -4147,12 +4147,12 @@
     "id": "20 Tau",
     "catalog": "BrightStar",
     "name_en": "Maia",
-    "name_kr": "므아이아",
+    "name_kr": "Maia",
     "aliases_en": [
       "Maia"
     ],
     "aliases_kr": [
-      "므아이아"
+      "Maia"
     ],
     "bayerFlamsteed": "20 Tau",
     "ra": "03:45:49.60",
@@ -4165,12 +4165,12 @@
     "id": "53 Eri",
     "catalog": "BrightStar",
     "name_en": "Sceptrum",
-    "name_kr": "스스프트르우므",
+    "name_kr": "Sceptrum",
     "aliases_en": [
       "Sceptrum"
     ],
     "aliases_kr": [
-      "스스프트르우므"
+      "Sceptrum"
     ],
     "bayerFlamsteed": "53 Eri",
     "ra": "04:38:10.80",
@@ -4183,12 +4183,12 @@
     "id": "5Rho Sco",
     "catalog": "BrightStar",
     "name_en": "Iklil",
-    "name_kr": "이크르이르",
+    "name_kr": "Iklil",
     "aliases_en": [
       "Iklil"
     ],
     "aliases_kr": [
-      "이크르이르"
+      "Iklil"
     ],
     "bayerFlamsteed": "5Rho Sco",
     "ra": "15:56:53.10",
@@ -4201,12 +4201,12 @@
     "id": "24Mu Leo",
     "catalog": "BrightStar",
     "name_en": "Rasalas",
-    "name_kr": "르아스아르아스",
+    "name_kr": "Rasalas",
     "aliases_en": [
       "Rasalas"
     ],
     "aliases_kr": [
-      "르아스아르아스"
+      "Rasalas"
     ],
     "bayerFlamsteed": "24Mu Leo",
     "ra": "09:52:45.80",
@@ -4219,12 +4219,12 @@
     "id": "3Eta Eri",
     "catalog": "BrightStar",
     "name_en": "Azha",
-    "name_kr": "아즈흐아",
+    "name_kr": "Azha",
     "aliases_en": [
       "Azha"
     ],
     "aliases_kr": [
-      "아즈흐아"
+      "Azha"
     ],
     "bayerFlamsteed": "3Eta Eri",
     "ra": "02:56:25.70",
@@ -4237,12 +4237,12 @@
     "id": "15Eta Vir",
     "catalog": "BrightStar",
     "name_en": "Zaniah",
-    "name_kr": "즈아느이아흐",
+    "name_kr": "Zaniah",
     "aliases_en": [
       "Zaniah"
     ],
     "aliases_kr": [
-      "즈아느이아흐"
+      "Zaniah"
     ],
     "bayerFlamsteed": "15Eta Vir",
     "ra": "12:19:54.40",
@@ -4255,12 +4255,12 @@
     "id": "35Iot Hya",
     "catalog": "BrightStar",
     "name_en": "Ukdah",
-    "name_kr": "우크드아흐",
+    "name_kr": "Ukdah",
     "aliases_en": [
       "Ukdah"
     ],
     "aliases_kr": [
-      "우크드아흐"
+      "Ukdah"
     ],
     "bayerFlamsteed": "35Iot Hya",
     "ra": "09:39:51.40",
@@ -4273,12 +4273,12 @@
     "id": "38Gam Lib",
     "catalog": "BrightStar",
     "name_en": "Zubenelhakrabi",
-    "name_kr": "즈우브에느에르흐아크르아브이",
+    "name_kr": "Zubenelhakrabi",
     "aliases_en": [
       "Zubenelhakrabi"
     ],
     "aliases_kr": [
-      "즈우브에느에르흐아크르아브이"
+      "Zubenelhakrabi"
     ],
     "bayerFlamsteed": "38Gam Lib",
     "ra": "15:35:31.60",
@@ -4291,12 +4291,12 @@
     "id": "8Alp Equ",
     "catalog": "BrightStar",
     "name_en": "Kitalpha",
-    "name_kr": "크이트아르프아",
+    "name_kr": "Kitalpha",
     "aliases_en": [
       "Kitalpha"
     ],
     "aliases_kr": [
-      "크이트아르프아"
+      "Kitalpha"
     ],
     "bayerFlamsteed": "8Alp Equ",
     "ra": "21:15:49.40",
@@ -4309,12 +4309,12 @@
     "id": "Zet Phe",
     "catalog": "BrightStar",
     "name_en": "Wurren",
-    "name_kr": "우우르르에느",
+    "name_kr": "Wurren",
     "aliases_en": [
       "Wurren"
     ],
     "aliases_kr": [
-      "우우르르에느"
+      "Wurren"
     ],
     "bayerFlamsteed": "Zet Phe",
     "ra": "01:08:23.10",
@@ -4327,12 +4327,12 @@
     "id": "47Del Cnc",
     "catalog": "BrightStar",
     "name_en": "Asellus Australis",
-    "name_kr": "아스에르르우스아우스트르아르이스",
+    "name_kr": "Asellus Australis",
     "aliases_en": [
       "Asellus Australis"
     ],
     "aliases_kr": [
-      "아스에르르우스아우스트르아르이스"
+      "Asellus Australis"
     ],
     "bayerFlamsteed": "47Del Cnc",
     "ra": "08:44:41.10",
@@ -4345,12 +4345,12 @@
     "id": "43 Eri",
     "catalog": "BrightStar",
     "name_en": "Beemim",
-    "name_kr": "브이므이므",
+    "name_kr": "Beemim",
     "aliases_en": [
       "Beemim"
     ],
     "aliases_kr": [
-      "브이므이므"
+      "Beemim"
     ],
     "bayerFlamsteed": "43 Eri",
     "ra": "04:24:02.20",
@@ -4363,12 +4363,12 @@
     "id": "Alp Sgr",
     "catalog": "BrightStar",
     "name_en": "Rukbat",
-    "name_kr": "르우크브아트",
+    "name_kr": "Rukbat",
     "aliases_en": [
       "Rukbat"
     ],
     "aliases_kr": [
-      "르우크브아트"
+      "Rukbat"
     ],
     "bayerFlamsteed": "Alp Sgr",
     "ra": "19:23:53.20",
@@ -4381,12 +4381,12 @@
     "id": "80 UMa",
     "catalog": "BrightStar",
     "name_en": "Alcor",
-    "name_kr": "아르크오르",
+    "name_kr": "Alcor",
     "aliases_en": [
       "Alcor"
     ],
     "aliases_kr": [
-      "아르크오르"
+      "Alcor"
     ],
     "bayerFlamsteed": "80 UMa",
     "ra": "13:25:13.50",
@@ -4399,12 +4399,12 @@
     "id": "Bet1Sgr",
     "catalog": "BrightStar",
     "name_en": "Arkab Prior",
-    "name_kr": "아르크아브프르이오르",
+    "name_kr": "Arkab Prior",
     "aliases_en": [
       "Arkab Prior"
     ],
     "aliases_kr": [
-      "아르크아브프르이오르"
+      "Arkab Prior"
     ],
     "bayerFlamsteed": "Bet1Sgr",
     "ra": "19:22:38.30",
@@ -4417,12 +4417,12 @@
     "id": "14Nu Sco",
     "catalog": "BrightStar",
     "name_en": "Jabbah",
-    "name_kr": "지아브브아흐",
+    "name_kr": "Jabbah",
     "aliases_en": [
       "Jabbah"
     ],
     "aliases_kr": [
-      "지아브브아흐"
+      "Jabbah"
     ],
     "bayerFlamsteed": "14Nu Sco",
     "ra": "16:11:59.70",
@@ -4435,12 +4435,12 @@
     "id": "1Alp Crv",
     "catalog": "BrightStar",
     "name_en": "Alchiba",
-    "name_kr": "아르치이브아",
+    "name_kr": "Alchiba",
     "aliases_en": [
       "Alchiba"
     ],
     "aliases_kr": [
-      "아르치이브아"
+      "Alchiba"
     ],
     "bayerFlamsteed": "1Alp Crv",
     "ra": "12:08:24.80",
@@ -4453,12 +4453,12 @@
     "id": "2Eps Del",
     "catalog": "BrightStar",
     "name_en": "Aldulfin",
-    "name_kr": "아르드우르프이느",
+    "name_kr": "Aldulfin",
     "aliases_en": [
       "Aldulfin"
     ],
     "aliases_kr": [
-      "아르드우르프이느"
+      "Aldulfin"
     ],
     "bayerFlamsteed": "2Eps Del",
     "ra": "20:33:12.80",
@@ -4471,12 +4471,12 @@
     "id": "38Omi1Eri",
     "catalog": "BrightStar",
     "name_en": "Beid",
-    "name_kr": "브에이드",
+    "name_kr": "Beid",
     "aliases_en": [
       "Beid"
     ],
     "aliases_kr": [
-      "브에이드"
+      "Beid"
     ],
     "bayerFlamsteed": "38Omi1Eri",
     "ra": "04:11:51.90",
@@ -4489,14 +4489,14 @@
     "id": "46Xi Per",
     "catalog": "BrightStar",
     "name_en": "Menkib",
-    "name_kr": "므에느크이브",
+    "name_kr": "Menkib",
     "aliases_en": [
       "Menkib",
       "Menkhib"
     ],
     "aliases_kr": [
-      "므에느크이브",
-      "므에느크흐이브"
+      "Menkib",
+      "Menkhib"
     ],
     "bayerFlamsteed": "46Xi Per",
     "ra": "03:58:57.90",
@@ -4509,12 +4509,12 @@
     "id": "7Alp Crt",
     "catalog": "BrightStar",
     "name_en": "Alkes",
-    "name_kr": "아르크에스",
+    "name_kr": "Alkes",
     "aliases_en": [
       "Alkes"
     ],
     "aliases_kr": [
-      "아르크에스"
+      "Alkes"
     ],
     "bayerFlamsteed": "7Alp Crt",
     "ra": "10:59:46.50",
@@ -4527,14 +4527,14 @@
     "id": "Mu Cep",
     "catalog": "BrightStar",
     "name_en": "Erakis",
-    "name_kr": "에르아크이스",
+    "name_kr": "Erakis",
     "aliases_en": [
       "Erakis",
       "Herschel's Garnet Star"
     ],
     "aliases_kr": [
-      "에르아크이스",
-      "흐에르스치에르스그아르느에트스트아르"
+      "Erakis",
+      "Herschel's Garnet Star"
     ],
     "bayerFlamsteed": "Mu Cep",
     "ra": "21:43:30.40",
@@ -4547,12 +4547,12 @@
     "id": "99Iot Vir",
     "catalog": "BrightStar",
     "name_en": "Syrma",
-    "name_kr": "스이르므아",
+    "name_kr": "Syrma",
     "aliases_en": [
       "Syrma"
     ],
     "aliases_kr": [
-      "스이르므아"
+      "Syrma"
     ],
     "bayerFlamsteed": "99Iot Vir",
     "ra": "14:16:00.90",
@@ -4565,12 +4565,12 @@
     "id": "35Kap Ser",
     "catalog": "BrightStar",
     "name_en": "Gudja",
-    "name_kr": "그우드지아",
+    "name_kr": "Gudja",
     "aliases_en": [
       "Gudja"
     ],
     "aliases_kr": [
-      "그우드지아"
+      "Gudja"
     ],
     "bayerFlamsteed": "35Kap Ser",
     "ra": "15:48:44.40",
@@ -4583,12 +4583,12 @@
     "id": "50Ups And",
     "catalog": "BrightStar",
     "name_en": "Titawin",
-    "name_kr": "트이트아우이느",
+    "name_kr": "Titawin",
     "aliases_en": [
       "Titawin"
     ],
     "aliases_kr": [
-      "트이트아우이느"
+      "Titawin"
     ],
     "bayerFlamsteed": "50Ups And",
     "ra": "01:36:47.80",
@@ -4601,12 +4601,12 @@
     "id": "Alp CrA",
     "catalog": "BrightStar",
     "name_en": "Meridiana",
-    "name_kr": "므에르이드이아느아",
+    "name_kr": "Meridiana",
     "aliases_en": [
       "Meridiana"
     ],
     "aliases_kr": [
-      "므에르이드이아느아"
+      "Meridiana"
     ],
     "bayerFlamsteed": "Alp CrA",
     "ra": "19:09:28.30",
@@ -4619,12 +4619,12 @@
     "id": "23Gam CMa",
     "catalog": "BrightStar",
     "name_en": "Muliphein",
-    "name_kr": "므우르이프에이느",
+    "name_kr": "Muliphein",
     "aliases_en": [
       "Muliphein"
     ],
     "aliases_kr": [
-      "므우르이프에이느"
+      "Muliphein"
     ],
     "bayerFlamsteed": "23Gam CMa",
     "ra": "07:03:45.50",
@@ -4637,12 +4637,12 @@
     "id": "39Ups1Hya",
     "catalog": "BrightStar",
     "name_en": "Zhang",
-    "name_kr": "즈흐아느그",
+    "name_kr": "Zhang",
     "aliases_en": [
       "Zhang"
     ],
     "aliases_kr": [
-      "즈흐아느그"
+      "Zhang"
     ],
     "bayerFlamsteed": "39Ups1Hya",
     "ra": "09:51:28.70",
@@ -4655,12 +4655,12 @@
     "id": "43The Aqr",
     "catalog": "BrightStar",
     "name_en": "Ancha",
-    "name_kr": "아느치아",
+    "name_kr": "Ancha",
     "aliases_en": [
       "Ancha"
     ],
     "aliases_kr": [
-      "아느치아"
+      "Ancha"
     ],
     "bayerFlamsteed": "43The Aqr",
     "ra": "22:16:50.00",
@@ -4673,12 +4673,12 @@
     "id": "23 Tau",
     "catalog": "BrightStar",
     "name_en": "Merope",
-    "name_kr": "므에르오프에",
+    "name_kr": "Merope",
     "aliases_en": [
       "Merope"
     ],
     "aliases_kr": [
-      "므에르오프에"
+      "Merope"
     ],
     "bayerFlamsteed": "23 Tau",
     "ra": "03:46:19.60",
@@ -4691,12 +4691,12 @@
     "id": "19Lam Boo",
     "catalog": "BrightStar",
     "name_en": "Xuange",
-    "name_kr": "크스우아느지",
+    "name_kr": "Xuange",
     "aliases_en": [
       "Xuange"
     ],
     "aliases_kr": [
-      "크스우아느지"
+      "Xuange"
     ],
     "bayerFlamsteed": "19Lam Boo",
     "ra": "14:16:23.00",
@@ -4709,12 +4709,12 @@
     "id": "98Kap Vir",
     "catalog": "BrightStar",
     "name_en": "Kang",
-    "name_kr": "크아느그",
+    "name_kr": "Kang",
     "aliases_en": [
       "Kang"
     ],
     "aliases_kr": [
-      "크아느그"
+      "Kang"
     ],
     "bayerFlamsteed": "98Kap Vir",
     "ra": "14:12:53.80",
@@ -4727,12 +4727,12 @@
     "id": "5Alp1Cap",
     "catalog": "BrightStar",
     "name_en": "Prima Giedi",
-    "name_kr": "프르이므아지에드이",
+    "name_kr": "Prima Giedi",
     "aliases_en": [
       "Prima Giedi"
     ],
     "aliases_kr": [
-      "프르이므아지에드이"
+      "Prima Giedi"
     ],
     "bayerFlamsteed": "5Alp1Cap",
     "ra": "20:17:38.90",
@@ -4745,12 +4745,12 @@
     "id": "65Alp Cnc",
     "catalog": "BrightStar",
     "name_en": "Acubens",
-    "name_kr": "아크우브에느스",
+    "name_kr": "Acubens",
     "aliases_en": [
       "Acubens"
     ],
     "aliases_kr": [
-      "아크우브에느스"
+      "Acubens"
     ],
     "bayerFlamsteed": "65Alp Cnc",
     "ra": "08:58:29.20",
@@ -4763,12 +4763,12 @@
     "id": "31 Lyn",
     "catalog": "BrightStar",
     "name_en": "Alsciaukat",
-    "name_kr": "아르스시아우크아트",
+    "name_kr": "Alsciaukat",
     "aliases_en": [
       "Alsciaukat"
     ],
     "aliases_kr": [
-      "아르스시아우크아트"
+      "Alsciaukat"
     ],
     "bayerFlamsteed": "31 Lyn",
     "ra": "08:22:50.10",
@@ -4781,12 +4781,12 @@
     "id": "8Bet CVn",
     "catalog": "BrightStar",
     "name_en": "Chara",
-    "name_kr": "치아르아",
+    "name_kr": "Chara",
     "aliases_en": [
       "Chara"
     ],
     "aliases_kr": [
-      "치아르아"
+      "Chara"
     ],
     "bayerFlamsteed": "8Bet CVn",
     "ra": "12:33:44.50",
@@ -4799,12 +4799,12 @@
     "id": "110Omi Psc",
     "catalog": "BrightStar",
     "name_en": "Torcular",
-    "name_kr": "트오르크우르아르",
+    "name_kr": "Torcular",
     "aliases_en": [
       "Torcular"
     ],
     "aliases_kr": [
-      "트오르크우르아르"
+      "Torcular"
     ],
     "bayerFlamsteed": "110Omi Psc",
     "ra": "01:45:23.60",
@@ -4817,12 +4817,12 @@
     "id": "Bet2Sgr",
     "catalog": "BrightStar",
     "name_en": "Arkab Posterior",
-    "name_kr": "아르크아브프오스트에르이오르",
+    "name_kr": "Arkab Posterior",
     "aliases_en": [
       "Arkab Posterior"
     ],
     "aliases_kr": [
-      "아르크아브프오스트에르이오르"
+      "Arkab Posterior"
     ],
     "bayerFlamsteed": "Bet2Sgr",
     "ra": "19:23:13.20",
@@ -4835,14 +4835,14 @@
     "id": "19 Tau",
     "catalog": "BrightStar",
     "name_en": "Taygeta",
-    "name_kr": "트아이지트아",
+    "name_kr": "Taygeta",
     "aliases_en": [
       "Taygeta",
       "Taygete"
     ],
     "aliases_kr": [
-      "트아이지트아",
-      "트아이지트에"
+      "Taygeta",
+      "Taygete"
     ],
     "bayerFlamsteed": "19 Tau",
     "ra": "03:45:12.50",
@@ -4855,12 +4855,12 @@
     "id": "51Mu 1Boo",
     "catalog": "BrightStar",
     "name_en": "Alkalurops",
-    "name_kr": "아르크아르우르오프스",
+    "name_kr": "Alkalurops",
     "aliases_en": [
       "Alkalurops"
     ],
     "aliases_kr": [
-      "아르크아르우르오프스"
+      "Alkalurops"
     ],
     "bayerFlamsteed": "51Mu 1Boo",
     "ra": "15:24:29.40",
@@ -4873,12 +4873,12 @@
     "id": "4Lam Leo",
     "catalog": "BrightStar",
     "name_en": "Alterf",
-    "name_kr": "아르트에르프",
+    "name_kr": "Alterf",
     "aliases_en": [
       "Alterf"
     ],
     "aliases_kr": [
-      "아르트에르프"
+      "Alterf"
     ],
     "bayerFlamsteed": "4Lam Leo",
     "ra": "09:31:43.20",
@@ -4891,12 +4891,12 @@
     "id": "57Del Ari",
     "catalog": "BrightStar",
     "name_en": "Botein",
-    "name_kr": "브오트에이느",
+    "name_kr": "Botein",
     "aliases_en": [
       "Botein"
     ],
     "aliases_kr": [
-      "브오트에이느"
+      "Botein"
     ],
     "bayerFlamsteed": "57Del Ari",
     "ra": "03:11:37.80",
@@ -4909,12 +4909,12 @@
     "id": "23Del UMi",
     "catalog": "BrightStar",
     "name_en": "Yildun",
-    "name_kr": "이이르드우느",
+    "name_kr": "Yildun",
     "aliases_en": [
       "Yildun"
     ],
     "aliases_kr": [
-      "이이르드우느"
+      "Yildun"
     ],
     "bayerFlamsteed": "23Del UMi",
     "ra": "17:32:12.90",
@@ -4927,12 +4927,12 @@
     "id": "5Alp Sge",
     "catalog": "BrightStar",
     "name_en": "Sham",
-    "name_kr": "시아므",
+    "name_kr": "Sham",
     "aliases_en": [
       "Sham"
     ],
     "aliases_kr": [
-      "시아므"
+      "Sham"
     ],
     "bayerFlamsteed": "5Alp Sge",
     "ra": "19:40:05.80",
@@ -4945,12 +4945,12 @@
     "id": "20Eta Lyr",
     "catalog": "BrightStar",
     "name_en": "Aladfar",
-    "name_kr": "아르아드프아르",
+    "name_kr": "Aladfar",
     "aliases_en": [
       "Aladfar"
     ],
     "aliases_kr": [
-      "아르아드프아르"
+      "Aladfar"
     ],
     "bayerFlamsteed": "20Eta Lyr",
     "ra": "19:13:45.50",
@@ -4963,12 +4963,12 @@
     "id": "68Ups Peg",
     "catalog": "BrightStar",
     "name_en": "Alkarab",
-    "name_kr": "아르크아르아브",
+    "name_kr": "Alkarab",
     "aliases_en": [
       "Alkarab"
     ],
     "aliases_kr": [
-      "아르크아르아브"
+      "Alkarab"
     ],
     "bayerFlamsteed": "68Ups Peg",
     "ra": "23:25:22.80",
@@ -4981,12 +4981,12 @@
     "id": "76Lam Her",
     "catalog": "BrightStar",
     "name_en": "Maasym",
-    "name_kr": "므아스이므",
+    "name_kr": "Maasym",
     "aliases_en": [
       "Maasym"
     ],
     "aliases_kr": [
-      "므아스이므"
+      "Maasym"
     ],
     "bayerFlamsteed": "76Lam Her",
     "ra": "17:30:44.30",
@@ -4999,12 +4999,12 @@
     "id": "37Phi1Ori",
     "catalog": "BrightStar",
     "name_en": "lambda Ori X-5",
-    "name_kr": "르아므브드아오르이크스5",
+    "name_kr": "lambda Ori X-5",
     "aliases_en": [
       "lambda Ori X-5"
     ],
     "aliases_kr": [
-      "르아므브드아오르이크스5"
+      "lambda Ori X-5"
     ],
     "bayerFlamsteed": "37Phi1Ori",
     "ra": "05:34:49.20",
@@ -5017,12 +5017,12 @@
     "id": "40Omi2Eri",
     "catalog": "BrightStar",
     "name_en": "Keid",
-    "name_kr": "크에이드",
+    "name_kr": "Keid",
     "aliases_en": [
       "Keid"
     ],
     "aliases_kr": [
-      "크에이드"
+      "Keid"
     ],
     "bayerFlamsteed": "40Omi2Eri",
     "ra": "04:15:16.30",
@@ -5035,12 +5035,12 @@
     "id": "6Alp Vul",
     "catalog": "BrightStar",
     "name_en": "Anser",
-    "name_kr": "아느스에르",
+    "name_kr": "Anser",
     "aliases_en": [
       "Anser"
     ],
     "aliases_kr": [
-      "아느스에르"
+      "Anser"
     ],
     "bayerFlamsteed": "6Alp Vul",
     "ra": "19:28:42.30",
@@ -5053,12 +5053,12 @@
     "id": "5Sig Hya",
     "catalog": "BrightStar",
     "name_en": "Minchir",
-    "name_kr": "므이느치이르",
+    "name_kr": "Minchir",
     "aliases_en": [
       "Minchir"
     ],
     "aliases_kr": [
-      "므이느치이르"
+      "Minchir"
     ],
     "bayerFlamsteed": "5Sig Hya",
     "ra": "08:38:45.40",
@@ -5071,12 +5071,12 @@
     "id": "39 Ari",
     "catalog": "BrightStar",
     "name_en": "Lilii Borea",
-    "name_kr": "르이르이이브오르에아",
+    "name_kr": "Lilii Borea",
     "aliases_en": [
       "Lilii Borea"
     ],
     "aliases_kr": [
-      "르이르이이브오르에아"
+      "Lilii Borea"
     ],
     "bayerFlamsteed": "39 Ari",
     "ra": "02:47:54.50",
@@ -5089,12 +5089,12 @@
     "id": "100Lam Vir",
     "catalog": "BrightStar",
     "name_en": "Khambalia",
-    "name_kr": "크흐아므브아르이아",
+    "name_kr": "Khambalia",
     "aliases_en": [
       "Khambalia"
     ],
     "aliases_kr": [
-      "크흐아므브아르이아"
+      "Khambalia"
     ],
     "bayerFlamsteed": "100Lam Vir",
     "ra": "14:19:06.60",
@@ -5107,12 +5107,12 @@
     "id": "Iot Cas",
     "catalog": "BrightStar",
     "name_en": "iot Cas AB",
-    "name_kr": "이오트크아스아브",
+    "name_kr": "iot Cas AB",
     "aliases_en": [
       "iot Cas AB"
     ],
     "aliases_kr": [
-      "이오트크아스아브"
+      "iot Cas AB"
     ],
     "bayerFlamsteed": "Iot Cas",
     "ra": "02:29:04.00",
@@ -5125,12 +5125,12 @@
     "id": "4Bet Psc",
     "catalog": "BrightStar",
     "name_en": "Fumalsamakah",
-    "name_kr": "프우므아르스아므아크아흐",
+    "name_kr": "Fumalsamakah",
     "aliases_en": [
       "Fumalsamakah"
     ],
     "aliases_kr": [
-      "프우므아르스아므아크아흐"
+      "Fumalsamakah"
     ],
     "bayerFlamsteed": "4Bet Psc",
     "ra": "23:03:52.60",
@@ -5143,12 +5143,12 @@
     "id": "24Ome Her",
     "catalog": "BrightStar",
     "name_en": "Cujam",
-    "name_kr": "크우지아므",
+    "name_kr": "Cujam",
     "aliases_en": [
       "Cujam"
     ],
     "aliases_kr": [
-      "크우지아므"
+      "Cujam"
     ],
     "bayerFlamsteed": "24Ome Her",
     "ra": "16:25:25.00",
@@ -5161,12 +5161,12 @@
     "id": "31Psi1Dra",
     "catalog": "BrightStar",
     "name_en": "Dziban",
-    "name_kr": "드즈이브아느",
+    "name_kr": "Dziban",
     "aliases_en": [
       "Dziban"
     ],
     "aliases_kr": [
-      "드즈이브아느"
+      "Dziban"
     ],
     "bayerFlamsteed": "31Psi1Dra",
     "ra": "17:41:56.30",
@@ -5179,12 +5179,12 @@
     "id": "62Tau Peg",
     "catalog": "BrightStar",
     "name_en": "Salm",
-    "name_kr": "스아르므",
+    "name_kr": "Salm",
     "aliases_en": [
       "Salm"
     ],
     "aliases_kr": [
-      "스아르므"
+      "Salm"
     ],
     "bayerFlamsteed": "62Tau Peg",
     "ra": "23:20:38.20",
@@ -5197,12 +5197,12 @@
     "id": "28Ups2Cas",
     "catalog": "BrightStar",
     "name_en": "Castula",
-    "name_kr": "크아스트우르아",
+    "name_kr": "Castula",
     "aliases_en": [
       "Castula"
     ],
     "aliases_kr": [
-      "크아스트우르아"
+      "Castula"
     ],
     "bayerFlamsteed": "28Ups2Cas",
     "ra": "00:56:39.80",
@@ -5215,12 +5215,12 @@
     "id": "28Ome Per",
     "catalog": "BrightStar",
     "name_en": "Gorgonea Quarta",
-    "name_kr": "그오르그오느에아쿠아르트아",
+    "name_kr": "Gorgonea Quarta",
     "aliases_en": [
       "Gorgonea Quarta"
     ],
     "aliases_kr": [
-      "그오르그오느에아쿠아르트아"
+      "Gorgonea Quarta"
     ],
     "bayerFlamsteed": "28Ome Per",
     "ra": "03:11:17.40",
@@ -5233,12 +5233,12 @@
     "id": "43Gam Cnc",
     "catalog": "BrightStar",
     "name_en": "Asellus Borealis",
-    "name_kr": "아스에르르우스브오르에아르이스",
+    "name_kr": "Asellus Borealis",
     "aliases_en": [
       "Asellus Borealis"
     ],
     "aliases_kr": [
-      "아스에르르우스브오르에아르이스"
+      "Asellus Borealis"
     ],
     "bayerFlamsteed": "43Gam Cnc",
     "ra": "08:43:17.10",
@@ -5251,12 +5251,12 @@
     "id": "80Pi 1Cyg",
     "catalog": "BrightStar",
     "name_en": "Azelfafage",
-    "name_kr": "아즈에르프아프아지",
+    "name_kr": "Azelfafage",
     "aliases_en": [
       "Azelfafage"
     ],
     "aliases_kr": [
-      "아즈에르프아프아지"
+      "Azelfafage"
     ],
     "bayerFlamsteed": "80Pi 1Cyg",
     "ra": "21:42:05.70",
@@ -5269,12 +5269,12 @@
     "id": "61Sig Dra",
     "catalog": "BrightStar",
     "name_en": "Alsafi",
-    "name_kr": "아르스아프이",
+    "name_kr": "Alsafi",
     "aliases_en": [
       "Alsafi"
     ],
     "aliases_kr": [
-      "아르스아프이"
+      "Alsafi"
     ],
     "bayerFlamsteed": "61Sig Dra",
     "ra": "19:32:21.60",
@@ -5287,12 +5287,12 @@
     "id": "23Xi Aqr",
     "catalog": "BrightStar",
     "name_en": "Bunda",
-    "name_kr": "브우느드아",
+    "name_kr": "Bunda",
     "aliases_en": [
       "Bunda"
     ],
     "aliases_kr": [
-      "브우느드아"
+      "Bunda"
     ],
     "bayerFlamsteed": "23Xi Aqr",
     "ra": "21:37:45.10",
@@ -5305,12 +5305,12 @@
     "id": "22Pi Per",
     "catalog": "BrightStar",
     "name_en": "Gorgonea Secunda",
-    "name_kr": "그오르그오느에아스에크우느드아",
+    "name_kr": "Gorgonea Secunda",
     "aliases_en": [
       "Gorgonea Secunda"
     ],
     "aliases_kr": [
-      "그오르그오느에아스에크우느드아"
+      "Gorgonea Secunda"
     ],
     "bayerFlamsteed": "22Pi Per",
     "ra": "02:58:45.70",
@@ -5323,12 +5323,12 @@
     "id": "58Ome Sgr",
     "catalog": "BrightStar",
     "name_en": "Terebellum",
-    "name_kr": "트에르에브에르르우므",
+    "name_kr": "Terebellum",
     "aliases_en": [
       "Terebellum"
     ],
     "aliases_kr": [
-      "트에르에브에르르우므"
+      "Terebellum"
     ],
     "bayerFlamsteed": "58Ome Sgr",
     "ra": "19:55:50.40",
@@ -5341,12 +5341,12 @@
     "id": "59Xi Aql",
     "catalog": "BrightStar",
     "name_en": "Libertas",
-    "name_kr": "르이브에르트아스",
+    "name_kr": "Libertas",
     "aliases_en": [
       "Libertas"
     ],
     "aliases_kr": [
-      "르이브에르트아스"
+      "Libertas"
     ],
     "bayerFlamsteed": "59Xi Aql",
     "ra": "19:54:14.90",
@@ -5359,12 +5359,12 @@
     "id": "2Tau2Eri",
     "catalog": "BrightStar",
     "name_en": "Angetenar",
-    "name_kr": "아느지트에느아르",
+    "name_kr": "Angetenar",
     "aliases_en": [
       "Angetenar"
     ],
     "aliases_kr": [
-      "아느지트에느아르"
+      "Angetenar"
     ],
     "bayerFlamsteed": "2Tau2Eri",
     "ra": "02:51:02.30",
@@ -5377,12 +5377,12 @@
     "id": "8Nu Cap",
     "catalog": "BrightStar",
     "name_en": "Alshat",
-    "name_kr": "아르시아트",
+    "name_kr": "Alshat",
     "aliases_en": [
       "Alshat"
     ],
     "aliases_kr": [
-      "아르시아트"
+      "Alshat"
     ],
     "bayerFlamsteed": "8Nu Cap",
     "ra": "20:20:39.80",
@@ -5395,12 +5395,12 @@
     "id": "44 Boo",
     "catalog": "BrightStar",
     "name_en": "I Boo*",
-    "name_kr": "이브우",
+    "name_kr": "I Boo*",
     "aliases_en": [
       "I Boo*"
     ],
     "aliases_kr": [
-      "이브우"
+      "I Boo*"
     ],
     "bayerFlamsteed": "44 Boo",
     "ra": "15:03:47.40",
@@ -5413,12 +5413,12 @@
     "id": "13Zet Eri",
     "catalog": "BrightStar",
     "name_en": "Zibal",
-    "name_kr": "즈이브아르",
+    "name_kr": "Zibal",
     "aliases_en": [
       "Zibal"
     ],
     "aliases_kr": [
-      "즈이브아르"
+      "Zibal"
     ],
     "bayerFlamsteed": "13Zet Eri",
     "ra": "03:15:50.00",
@@ -5431,12 +5431,12 @@
     "id": "105Phi Vir",
     "catalog": "BrightStar",
     "name_en": "Elgafar",
-    "name_kr": "에르그아프아르",
+    "name_kr": "Elgafar",
     "aliases_en": [
       "Elgafar"
     ],
     "aliases_kr": [
-      "에르그아프아르"
+      "Elgafar"
     ],
     "bayerFlamsteed": "105Phi Vir",
     "ra": "14:28:12.10",
@@ -5449,12 +5449,12 @@
     "id": "42 Dra",
     "catalog": "BrightStar",
     "name_en": "Fafnir",
-    "name_kr": "프아프느이르",
+    "name_kr": "Fafnir",
     "aliases_en": [
       "Fafnir"
     ],
     "aliases_kr": [
-      "프아프느이르"
+      "Fafnir"
     ],
     "bayerFlamsteed": "42 Dra",
     "ra": "18:25:59.10",
@@ -5467,12 +5467,12 @@
     "id": "32Nu 1Sgr",
     "catalog": "BrightStar",
     "name_en": "Ainalrami",
-    "name_kr": "아이느아르르아므이",
+    "name_kr": "Ainalrami",
     "aliases_en": [
       "Ainalrami"
     ],
     "aliases_kr": [
-      "아이느아르르아므이"
+      "Ainalrami"
     ],
     "bayerFlamsteed": "32Nu 1Sgr",
     "ra": "18:54:10.20",
@@ -5485,12 +5485,12 @@
     "id": "46Xi And",
     "catalog": "BrightStar",
     "name_en": "Adhil",
-    "name_kr": "아드흐이르",
+    "name_kr": "Adhil",
     "aliases_en": [
       "Adhil"
     ],
     "aliases_kr": [
-      "아드흐이르"
+      "Adhil"
     ],
     "bayerFlamsteed": "46Xi And",
     "ra": "01:22:20.40",
@@ -5503,12 +5503,12 @@
     "id": "71Omi Gem",
     "catalog": "BrightStar",
     "name_en": "Jishui",
-    "name_kr": "지이시우이",
+    "name_kr": "Jishui",
     "aliases_en": [
       "Jishui"
     ],
     "aliases_kr": [
-      "지이시우이"
+      "Jishui"
     ],
     "bayerFlamsteed": "71Omi Gem",
     "ra": "07:39:09.90",
@@ -5521,12 +5521,12 @@
     "id": "HD 85951",
     "catalog": "BrightStar",
     "name_en": "Felis",
-    "name_kr": "프에르이스",
+    "name_kr": "Felis",
     "aliases_en": [
       "Felis"
     ],
     "aliases_kr": [
-      "프에르이스"
+      "Felis"
     ],
     "bayerFlamsteed": null,
     "ra": "09:54:52.20",
@@ -5539,12 +5539,12 @@
     "id": "HD 110914",
     "catalog": "BrightStar",
     "name_en": "La Superba",
-    "name_kr": "르아스우프에르브아",
+    "name_kr": "La Superba",
     "aliases_en": [
       "La Superba"
     ],
     "aliases_kr": [
-      "르아스우프에르브아"
+      "La Superba"
     ],
     "bayerFlamsteed": null,
     "ra": "12:45:07.80",
@@ -5557,12 +5557,12 @@
     "id": "The Col",
     "catalog": "BrightStar",
     "name_en": "Elkurud",
-    "name_kr": "에르크우르우드",
+    "name_kr": "Elkurud",
     "aliases_en": [
       "Elkurud"
     ],
     "aliases_kr": [
-      "에르크우르우드"
+      "Elkurud"
     ],
     "bayerFlamsteed": "The Col",
     "ra": "06:07:31.60",
@@ -5575,12 +5575,12 @@
     "id": "11 UMi",
     "catalog": "BrightStar",
     "name_en": "Pherkad Minor",
-    "name_kr": "프에르크아드므이느오르",
+    "name_kr": "Pherkad Minor",
     "aliases_en": [
       "Pherkad Minor"
     ],
     "aliases_kr": [
-      "프에르크아드므이느오르"
+      "Pherkad Minor"
     ],
     "bayerFlamsteed": "11 UMi",
     "ra": "15:17:05.90",
@@ -5593,12 +5593,12 @@
     "id": "63Kap Aqr",
     "catalog": "BrightStar",
     "name_en": "Situla",
-    "name_kr": "스이트우르아",
+    "name_kr": "Situla",
     "aliases_en": [
       "Situla"
     ],
     "aliases_kr": [
-      "스이트우르아"
+      "Situla"
     ],
     "bayerFlamsteed": "63Kap Aqr",
     "ra": "22:37:45.40",
@@ -5611,12 +5611,12 @@
     "id": "47 UMa",
     "catalog": "BrightStar",
     "name_en": "Chalawan",
-    "name_kr": "치아르아우아느",
+    "name_kr": "Chalawan",
     "aliases_en": [
       "Chalawan"
     ],
     "aliases_kr": [
-      "치아르아우아느"
+      "Chalawan"
     ],
     "bayerFlamsteed": "47 UMa",
     "ra": "10:59:28.00",
@@ -5629,12 +5629,12 @@
     "id": "HD 51802",
     "catalog": "BrightStar",
     "name_en": "51 H. Cep",
-    "name_kr": "51흐스프",
+    "name_kr": "51 H. Cep",
     "aliases_en": [
       "51 H. Cep"
     ],
     "aliases_kr": [
-      "51흐스프"
+      "51 H. Cep"
     ],
     "bayerFlamsteed": null,
     "ra": "07:40:30.50",
@@ -5647,12 +5647,12 @@
     "id": "28 Tau",
     "catalog": "BrightStar",
     "name_en": "Pleione",
-    "name_kr": "프르에이오느에",
+    "name_kr": "Pleione",
     "aliases_en": [
       "Pleione"
     ],
     "aliases_kr": [
-      "프르에이오느에"
+      "Pleione"
     ],
     "bayerFlamsteed": "28 Tau",
     "ra": "03:49:11.20",
@@ -5665,12 +5665,12 @@
     "id": "2Mu Lyr",
     "catalog": "BrightStar",
     "name_en": "Alathfar",
-    "name_kr": "아르아스프아르",
+    "name_kr": "Alathfar",
     "aliases_en": [
       "Alathfar"
     ],
     "aliases_kr": [
-      "아르아스프아르"
+      "Alathfar"
     ],
     "bayerFlamsteed": "2Mu Lyr",
     "ra": "18:24:13.80",
@@ -5683,12 +5683,12 @@
     "id": "77Xi Cnc",
     "catalog": "BrightStar",
     "name_en": "Nahn",
-    "name_kr": "느아흐느",
+    "name_kr": "Nahn",
     "aliases_en": [
       "Nahn"
     ],
     "aliases_kr": [
-      "느아흐느"
+      "Nahn"
     ],
     "bayerFlamsteed": "77Xi Cnc",
     "ra": "09:09:21.50",
@@ -5701,12 +5701,12 @@
     "id": "Mu Ara",
     "catalog": "BrightStar",
     "name_en": "Cervantes",
-    "name_kr": "스르브아느트에스",
+    "name_kr": "Cervantes",
     "aliases_en": [
       "Cervantes"
     ],
     "aliases_kr": [
-      "스르브아느트에스"
+      "Cervantes"
     ],
     "bayerFlamsteed": "Mu Ara",
     "ra": "17:44:08.70",
@@ -5719,12 +5719,12 @@
     "id": "49Sig Peg",
     "catalog": "BrightStar",
     "name_en": "sig Peg A",
-    "name_kr": "스이그프에그아",
+    "name_kr": "sig Peg A",
     "aliases_en": [
       "sig Peg A"
     ],
     "aliases_kr": [
-      "스이그프에그아"
+      "sig Peg A"
     ],
     "bayerFlamsteed": "49Sig Peg",
     "ra": "22:52:24.10",
@@ -5737,12 +5737,12 @@
     "id": "14 And",
     "catalog": "BrightStar",
     "name_en": "Veritate",
-    "name_kr": "브에르이트아트에",
+    "name_kr": "Veritate",
     "aliases_en": [
       "Veritate"
     ],
     "aliases_kr": [
-      "브에르이트아트에"
+      "Veritate"
     ],
     "bayerFlamsteed": "14 And",
     "ra": "23:31:17.40",
@@ -5755,12 +5755,12 @@
     "id": "86Zet Psc",
     "catalog": "BrightStar",
     "name_en": "Revati",
-    "name_kr": "르에브아트이",
+    "name_kr": "Revati",
     "aliases_en": [
       "Revati"
     ],
     "aliases_kr": [
-      "르에브아트이"
+      "Revati"
     ],
     "bayerFlamsteed": "86Zet Psc",
     "ra": "01:13:43.90",
@@ -5773,12 +5773,12 @@
     "id": "8 Dra",
     "catalog": "BrightStar",
     "name_en": "Taiyi",
-    "name_kr": "트아이이이",
+    "name_kr": "Taiyi",
     "aliases_en": [
       "Taiyi"
     ],
     "aliases_kr": [
-      "트아이이이"
+      "Taiyi"
     ],
     "bayerFlamsteed": "8 Dra",
     "ra": "12:55:28.50",
@@ -5791,12 +5791,12 @@
     "id": "17 Com",
     "catalog": "BrightStar",
     "name_en": "** STFA 21",
-    "name_kr": "스트프아21",
+    "name_kr": "** STFA 21",
     "aliases_en": [
       "** STFA 21"
     ],
     "aliases_kr": [
-      "스트프아21"
+      "** STFA 21"
     ],
     "bayerFlamsteed": "17 Com",
     "ra": "12:28:54.70",
@@ -5809,12 +5809,12 @@
     "id": "HD 80951",
     "catalog": "BrightStar",
     "name_en": "HD 80951AB",
-    "name_kr": "흐드80951아브",
+    "name_kr": "HD 80951AB",
     "aliases_en": [
       "HD 80951AB"
     ],
     "aliases_kr": [
-      "흐드80951아브"
+      "HD 80951AB"
     ],
     "bayerFlamsteed": null,
     "ra": "09:17:25.40",
@@ -5827,12 +5827,12 @@
     "id": "HD 39816",
     "catalog": "BrightStar",
     "name_en": "Gore's Nova",
-    "name_kr": "그오르에스느오브아",
+    "name_kr": "Gore's Nova",
     "aliases_en": [
       "Gore's Nova"
     ],
     "aliases_kr": [
-      "그오르에스느오브아"
+      "Gore's Nova"
     ],
     "bayerFlamsteed": null,
     "ra": "05:55:49.30",
@@ -5845,12 +5845,12 @@
     "id": "HD 81688",
     "catalog": "BrightStar",
     "name_en": "Intercrus",
-    "name_kr": "이느트에르크르우스",
+    "name_kr": "Intercrus",
     "aliases_en": [
       "Intercrus"
     ],
     "aliases_kr": [
-      "이느트에르크르우스"
+      "Intercrus"
     ],
     "bayerFlamsteed": null,
     "ra": "09:28:40.00",
@@ -5863,12 +5863,12 @@
     "id": "7 Dra",
     "catalog": "BrightStar",
     "name_en": "Tianyi",
-    "name_kr": "트이아느이이",
+    "name_kr": "Tianyi",
     "aliases_en": [
       "Tianyi"
     ],
     "aliases_kr": [
-      "트이아느이이"
+      "Tianyi"
     ],
     "bayerFlamsteed": "7 Dra",
     "ra": "12:47:34.40",
@@ -5881,12 +5881,12 @@
     "id": "HD 46588",
     "catalog": "BrightStar",
     "name_en": "23 H. Cam",
-    "name_kr": "23흐크아므",
+    "name_kr": "23 H. Cam",
     "aliases_en": [
       "23 H. Cam"
     ],
     "aliases_kr": [
-      "23흐크아므"
+      "23 H. Cam"
     ],
     "bayerFlamsteed": null,
     "ra": "06:46:14.10",
@@ -5899,14 +5899,14 @@
     "id": "16 Tau",
     "catalog": "BrightStar",
     "name_en": "Celeno",
-    "name_kr": "스르에느오",
+    "name_kr": "Celeno",
     "aliases_en": [
       "Celeno",
       "Celaeno"
     ],
     "aliases_kr": [
-      "스르에느오",
-      "스르아에느오"
+      "Celeno",
+      "Celaeno"
     ],
     "bayerFlamsteed": "16 Tau",
     "ra": "03:44:48.20",
@@ -5919,12 +5919,12 @@
     "id": "Sig Oct",
     "catalog": "BrightStar",
     "name_en": "Polaris Australis",
-    "name_kr": "프오르아르이스아우스트르아르이스",
+    "name_kr": "Polaris Australis",
     "aliases_en": [
       "Polaris Australis"
     ],
     "aliases_kr": [
-      "프오르아르이스아우스트르아르이스"
+      "Polaris Australis"
     ],
     "bayerFlamsteed": "Sig Oct",
     "ra": "21:08:46.20",
@@ -5937,12 +5937,12 @@
     "id": "18 Del",
     "catalog": "BrightStar",
     "name_en": "Musica",
-    "name_kr": "므우스이크아",
+    "name_kr": "Musica",
     "aliases_en": [
       "Musica"
     ],
     "aliases_kr": [
-      "므우스이크아"
+      "Musica"
     ],
     "bayerFlamsteed": "18 Del",
     "ra": "20:58:25.90",
@@ -5955,12 +5955,12 @@
     "id": "51 Peg",
     "catalog": "BrightStar",
     "name_en": "Helvetios",
-    "name_kr": "흐에르브에트이오스",
+    "name_kr": "Helvetios",
     "aliases_en": [
       "Helvetios"
     ],
     "aliases_kr": [
-      "흐에르브에트이오스"
+      "Helvetios"
     ],
     "bayerFlamsteed": "51 Peg",
     "ra": "22:57:27.90",
@@ -5973,12 +5973,12 @@
     "id": "HD 202214",
     "catalog": "BrightStar",
     "name_en": "PN Ou 4",
-    "name_kr": "프느오우4",
+    "name_kr": "PN Ou 4",
     "aliases_en": [
       "PN Ou 4"
     ],
     "aliases_kr": [
-      "프느오우4"
+      "PN Ou 4"
     ],
     "bayerFlamsteed": null,
     "ra": "21:11:48.20",
@@ -5991,12 +5991,12 @@
     "id": "38 Boo",
     "catalog": "BrightStar",
     "name_en": "Merga",
-    "name_kr": "므에르그아",
+    "name_kr": "Merga",
     "aliases_en": [
       "Merga"
     ],
     "aliases_kr": [
-      "므에르그아"
+      "Merga"
     ],
     "bayerFlamsteed": "38 Boo",
     "ra": "14:49:18.70",
@@ -6009,12 +6009,12 @@
     "id": "HD 161693",
     "catalog": "BrightStar",
     "name_en": "Alruba",
-    "name_kr": "아르르우브아",
+    "name_kr": "Alruba",
     "aliases_en": [
       "Alruba"
     ],
     "aliases_kr": [
-      "아르르우브아"
+      "Alruba"
     ],
     "bayerFlamsteed": null,
     "ra": "17:43:59.30",
@@ -6027,12 +6027,12 @@
     "id": "21 Tau",
     "catalog": "BrightStar",
     "name_en": "Asterope",
-    "name_kr": "아스트에르오프에",
+    "name_kr": "Asterope",
     "aliases_en": [
       "Asterope"
     ],
     "aliases_kr": [
-      "아스트에르오프에"
+      "Asterope"
     ],
     "bayerFlamsteed": "21 Tau",
     "ra": "03:45:54.40",
@@ -6045,12 +6045,12 @@
     "id": "HD 104985",
     "catalog": "BrightStar",
     "name_en": "Tonatiuh",
-    "name_kr": "트오느아트이우흐",
+    "name_kr": "Tonatiuh",
     "aliases_en": [
       "Tonatiuh"
     ],
     "aliases_kr": [
-      "트오느아트이우흐"
+      "Tonatiuh"
     ],
     "bayerFlamsteed": null,
     "ra": "12:05:15.10",
@@ -6063,12 +6063,12 @@
     "id": "HD 23523",
     "catalog": "BrightStar",
     "name_en": "MOAI 1",
-    "name_kr": "므오아이1",
+    "name_kr": "MOAI 1",
     "aliases_en": [
       "MOAI 1"
     ],
     "aliases_kr": [
-      "므오아이1"
+      "MOAI 1"
     ],
     "bayerFlamsteed": null,
     "ra": "03:49:36.70",
@@ -6081,12 +6081,12 @@
     "id": "55Rho1Cnc",
     "catalog": "BrightStar",
     "name_en": "Copernicus",
-    "name_kr": "크오프에르느이크우스",
+    "name_kr": "Copernicus",
     "aliases_en": [
       "Copernicus"
     ],
     "aliases_kr": [
-      "크오프에르느이크우스"
+      "Copernicus"
     ],
     "bayerFlamsteed": "55Rho1Cnc",
     "ra": "08:52:35.80",
@@ -6099,12 +6099,12 @@
     "id": "HD 155826",
     "catalog": "BrightStar",
     "name_en": "LSF 1",
-    "name_kr": "르스프1",
+    "name_kr": "LSF 1",
     "aliases_en": [
       "LSF 1"
     ],
     "aliases_kr": [
-      "르스프1"
+      "LSF 1"
     ],
     "bayerFlamsteed": null,
     "ra": "17:15:35.90",
@@ -6117,12 +6117,12 @@
     "id": "HD 119361",
     "catalog": "BrightStar",
     "name_en": "HD 119361AB",
-    "name_kr": "흐드119361아브",
+    "name_kr": "HD 119361AB",
     "aliases_en": [
       "HD 119361AB"
     ],
     "aliases_kr": [
-      "흐드119361아브"
+      "HD 119361AB"
     ],
     "bayerFlamsteed": null,
     "ra": "13:43:40.00",
@@ -6135,12 +6135,12 @@
     "id": "19Lam Cnc",
     "catalog": "BrightStar",
     "name_en": "Piautos",
-    "name_kr": "프이아우트오스",
+    "name_kr": "Piautos",
     "aliases_en": [
       "Piautos"
     ],
     "aliases_kr": [
-      "프이아우트오스"
+      "Piautos"
     ],
     "bayerFlamsteed": "19Lam Cnc",
     "ra": "08:20:32.10",
@@ -6153,12 +6153,12 @@
     "id": "HD 173416",
     "catalog": "BrightStar",
     "name_en": "Xihe",
-    "name_kr": "크스이흐에",
+    "name_kr": "Xihe",
     "aliases_en": [
       "Xihe"
     ],
     "aliases_kr": [
-      "크스이흐에"
+      "Xihe"
     ],
     "bayerFlamsteed": null,
     "ra": "18:43:36.10",
@@ -6171,14 +6171,14 @@
     "id": "HD 47129",
     "catalog": "BrightStar",
     "name_en": "Plaskett star",
-    "name_kr": "프르아스크에트트스트아르",
+    "name_kr": "Plaskett star",
     "aliases_en": [
       "Plaskett star",
       "Plaskett's star"
     ],
     "aliases_kr": [
-      "프르아스크에트트스트아르",
-      "프르아스크에트트스스트아르"
+      "Plaskett star",
+      "Plaskett's star"
     ],
     "bayerFlamsteed": null,
     "ra": "06:37:24.10",
@@ -6191,12 +6191,12 @@
     "id": "HD 193452",
     "catalog": "BrightStar",
     "name_en": "Dabih Minor",
-    "name_kr": "드아브이흐므이느오르",
+    "name_kr": "Dabih Minor",
     "aliases_en": [
       "Dabih Minor"
     ],
     "aliases_kr": [
-      "드아브이흐므이느오르"
+      "Dabih Minor"
     ],
     "bayerFlamsteed": null,
     "ra": "20:20:46.60",
@@ -6209,12 +6209,12 @@
     "id": "HD 152667",
     "catalog": "BrightStar",
     "name_en": "OAO 1653-40",
-    "name_kr": "오아오165340",
+    "name_kr": "OAO 1653-40",
     "aliases_en": [
       "OAO 1653-40"
     ],
     "aliases_kr": [
-      "오아오165340"
+      "OAO 1653-40"
     ],
     "bayerFlamsteed": null,
     "ra": "16:56:36.00",
@@ -6227,12 +6227,12 @@
     "id": "HD 179949",
     "catalog": "BrightStar",
     "name_en": "Gumala",
-    "name_kr": "그우므아르아",
+    "name_kr": "Gumala",
     "aliases_en": [
       "Gumala"
     ],
     "aliases_kr": [
-      "그우므아르아"
+      "Gumala"
     ],
     "bayerFlamsteed": null,
     "ra": "19:15:33.20",
@@ -6245,12 +6245,12 @@
     "id": "HD 52265",
     "catalog": "BrightStar",
     "name_en": "Citala",
-    "name_kr": "시트아르아",
+    "name_kr": "Citala",
     "aliases_en": [
       "Citala"
     ],
     "aliases_kr": [
-      "시트아르아"
+      "Citala"
     ],
     "bayerFlamsteed": null,
     "ra": "07:00:18.00",
@@ -6263,12 +6263,12 @@
     "id": "41Eps Cnc",
     "catalog": "BrightStar",
     "name_en": "Meleph",
-    "name_kr": "므에르에프",
+    "name_kr": "Meleph",
     "aliases_en": [
       "Meleph"
     ],
     "aliases_kr": [
-      "므에르에프"
+      "Meleph"
     ],
     "bayerFlamsteed": "41Eps Cnc",
     "ra": "08:40:27.00",
@@ -6281,12 +6281,12 @@
     "id": "HD 32518",
     "catalog": "BrightStar",
     "name_en": "Mago",
-    "name_kr": "므아그오",
+    "name_kr": "Mago",
     "aliases_en": [
       "Mago"
     ],
     "aliases_kr": [
-      "므아그오"
+      "Mago"
     ],
     "bayerFlamsteed": null,
     "ra": "05:09:36.70",
@@ -6299,12 +6299,12 @@
     "id": "HD 100655",
     "catalog": "BrightStar",
     "name_en": "Formosa",
-    "name_kr": "프오르므오스아",
+    "name_kr": "Formosa",
     "aliases_en": [
       "Formosa"
     ],
     "aliases_kr": [
-      "프오르므오스아"
+      "Formosa"
     ],
     "bayerFlamsteed": null,
     "ra": "11:35:03.80",
@@ -6317,12 +6317,12 @@
     "id": "HD 216803",
     "catalog": "BrightStar",
     "name_en": "Fomalhaut B",
-    "name_kr": "프오므아르흐아우트브",
+    "name_kr": "Fomalhaut B",
     "aliases_en": [
       "Fomalhaut B"
     ],
     "aliases_kr": [
-      "프오므아르흐아우트브"
+      "Fomalhaut B"
     ],
     "bayerFlamsteed": null,
     "ra": "22:56:24.00",
@@ -6335,12 +6335,12 @@
     "id": "47 Tuc",
     "catalog": "BrightStar",
     "name_en": "47 Tuc Cluster",
-    "name_kr": "47트우크크르우스트에르",
+    "name_kr": "47 Tuc Cluster",
     "aliases_en": [
       "47 Tuc Cluster"
     ],
     "aliases_kr": [
-      "47트우크크르우스트에르"
+      "47 Tuc Cluster"
     ],
     "bayerFlamsteed": "47 Tuc",
     "ra": null,
@@ -6362,9 +6362,9 @@
     ],
     "aliases_kr": [
       "안드로메다 은하",
-      "아느드르오므에드아",
-      "아느드느에브우르아",
-      "아느드르오므에드아느에브우르아"
+      "Andromeda",
+      "And Nebula",
+      "Andromeda Nebula"
     ],
     "bayerFlamsteed": "M 31 And",
     "ra": null,
@@ -6377,7 +6377,7 @@
     "id": "NOVA 1572",
     "catalog": "BrightStar",
     "name_en": "Cas B",
-    "name_kr": "크아스브",
+    "name_kr": "Cas B",
     "aliases_en": [
       "Cas B",
       "Tycho SN",
@@ -6385,10 +6385,10 @@
       "Tycho's SN"
     ],
     "aliases_kr": [
-      "크아스브",
-      "트이치오스느",
-      "트이치오스느르",
-      "트이치오스스느"
+      "Cas B",
+      "Tycho SN",
+      "Tycho SNR",
+      "Tycho's SN"
     ],
     "bayerFlamsteed": "NOVA 1572",
     "ra": null,
@@ -6401,16 +6401,16 @@
     "id": "NOVA 1604",
     "catalog": "BrightStar",
     "name_en": "Kepler SN",
-    "name_kr": "크에프르에르스느",
+    "name_kr": "Kepler SN",
     "aliases_en": [
       "Kepler SN",
       "Kepler's SN",
       "Kepler SNR"
     ],
     "aliases_kr": [
-      "크에프르에르스느",
-      "크에프르에르스스느",
-      "크에프르에르스느르"
+      "Kepler SN",
+      "Kepler's SN",
+      "Kepler SNR"
     ],
     "bayerFlamsteed": "NOVA 1604",
     "ra": null,
@@ -6434,7 +6434,7 @@
     "id": "M41",
     "catalog": "Messier",
     "name_en": "M41",
-    "name_kr": null,
+    "name_kr": "M41",
     "ra": "03:47:00.00",
     "dec": "+24:07:00.00",
     "magnitude": 1.6,
@@ -6500,7 +6500,7 @@
     "id": "M24",
     "catalog": "Messier",
     "name_en": "M24",
-    "name_kr": null,
+    "name_kr": "M24",
     "ra": "18:16:54.00",
     "dec": "-18:29:00.00",
     "magnitude": 4.6,
@@ -6511,7 +6511,7 @@
     "id": "M39",
     "catalog": "Messier",
     "name_en": "M39",
-    "name_kr": null,
+    "name_kr": "M39",
     "ra": "21:32:12.00",
     "dec": "+48:26:00.00",
     "magnitude": 4.6,
@@ -6533,7 +6533,7 @@
     "id": "M47",
     "catalog": "Messier",
     "name_en": "M47",
-    "name_kr": null,
+    "name_kr": "M47",
     "ra": "07:36:36.00",
     "dec": "-14:30:00.00",
     "magnitude": 5.2,
@@ -6544,7 +6544,7 @@
     "id": "M35",
     "catalog": "Messier",
     "name_en": "M35",
-    "name_kr": null,
+    "name_kr": "M35",
     "ra": "06:08:54.00",
     "dec": "+24:20:00.00",
     "magnitude": 5.3,
@@ -6555,7 +6555,7 @@
     "id": "M5",
     "catalog": "Messier",
     "name_en": "M5",
-    "name_kr": null,
+    "name_kr": "M5",
     "ra": "15:18:36.00",
     "dec": "+02:05:00.00",
     "magnitude": 5.3,
@@ -6577,7 +6577,7 @@
     "id": "M34",
     "catalog": "Messier",
     "name_en": "M34",
-    "name_kr": null,
+    "name_kr": "M34",
     "ra": "02:42:00.00",
     "dec": "+42:47:00.00",
     "magnitude": 5.5,
@@ -6588,7 +6588,7 @@
     "id": "M48",
     "catalog": "Messier",
     "name_en": "M48",
-    "name_kr": null,
+    "name_kr": "M48",
     "ra": "08:13:48.00",
     "dec": "-05:48:00.00",
     "magnitude": 5.5,
@@ -6599,7 +6599,7 @@
     "id": "M4",
     "catalog": "Messier",
     "name_en": "M4",
-    "name_kr": null,
+    "name_kr": "M4",
     "ra": "16:23:36.00",
     "dec": "-26:32:00.00",
     "magnitude": 5.6,
@@ -6632,7 +6632,7 @@
     "id": "M46",
     "catalog": "Messier",
     "name_en": "M46",
-    "name_kr": null,
+    "name_kr": "M46",
     "ra": "07:41:48.00",
     "dec": "-14:49:00.00",
     "magnitude": 6.0,
@@ -6643,7 +6643,7 @@
     "id": "M93",
     "catalog": "Messier",
     "name_en": "M93",
-    "name_kr": null,
+    "name_kr": "M93",
     "ra": null,
     "dec": null,
     "magnitude": 6.0,
@@ -6676,7 +6676,7 @@
     "id": "M15",
     "catalog": "Messier",
     "name_en": "M15",
-    "name_kr": null,
+    "name_kr": "M15",
     "ra": "21:30:00.00",
     "dec": "+12:10:00.00",
     "magnitude": 6.2,
@@ -6687,7 +6687,7 @@
     "id": "M3",
     "catalog": "Messier",
     "name_en": "M3",
-    "name_kr": null,
+    "name_kr": "M3",
     "ra": "13:42:12.00",
     "dec": "+28:23:00.00",
     "magnitude": 6.2,
@@ -6709,7 +6709,7 @@
     "id": "M50",
     "catalog": "Messier",
     "name_en": "M50",
-    "name_kr": null,
+    "name_kr": "M50",
     "ra": "07:03:12.00",
     "dec": "-08:20:00.00",
     "magnitude": 6.3,
@@ -6720,7 +6720,7 @@
     "id": "M55",
     "catalog": "Messier",
     "name_en": "M55",
-    "name_kr": null,
+    "name_kr": "M55",
     "ra": "19:40:00.00",
     "dec": "-30:58:00.00",
     "magnitude": 6.3,
@@ -6753,7 +6753,7 @@
     "id": "M92",
     "catalog": "Messier",
     "name_en": "M92",
-    "name_kr": null,
+    "name_kr": "M92",
     "ra": "17:17:06.00",
     "dec": "+43:08:00.00",
     "magnitude": 6.4,
@@ -6764,7 +6764,7 @@
     "id": "M2",
     "catalog": "Messier",
     "name_en": "M2",
-    "name_kr": null,
+    "name_kr": "M2",
     "ra": "21:33:30.00",
     "dec": "-00:49:00.00",
     "magnitude": 6.5,
@@ -6775,7 +6775,7 @@
     "id": "M21",
     "catalog": "Messier",
     "name_en": "M21",
-    "name_kr": null,
+    "name_kr": "M21",
     "ra": "18:04:36.00",
     "dec": "-22:30:00.00",
     "magnitude": 6.5,
@@ -6786,7 +6786,7 @@
     "id": "M25",
     "catalog": "Messier",
     "name_en": "M25",
-    "name_kr": null,
+    "name_kr": "M25",
     "ra": "18:31:36.00",
     "dec": "-19:15:00.00",
     "magnitude": 6.5,
@@ -6797,7 +6797,7 @@
     "id": "M62",
     "catalog": "Messier",
     "name_en": "M62",
-    "name_kr": null,
+    "name_kr": "M62",
     "ra": "17:01:12.00",
     "dec": "-30:07:00.00",
     "magnitude": 6.5,
@@ -6808,7 +6808,7 @@
     "id": "M10",
     "catalog": "Messier",
     "name_en": "M10",
-    "name_kr": null,
+    "name_kr": "M10",
     "ra": "16:57:06.00",
     "dec": "-04:06:00.00",
     "magnitude": 6.6,
@@ -6819,7 +6819,7 @@
     "id": "M12",
     "catalog": "Messier",
     "name_en": "M12",
-    "name_kr": null,
+    "name_kr": "M12",
     "ra": "16:47:12.00",
     "dec": "-01:57:00.00",
     "magnitude": 6.7,
@@ -6830,7 +6830,7 @@
     "id": "M19",
     "catalog": "Messier",
     "name_en": "M19",
-    "name_kr": null,
+    "name_kr": "M19",
     "ra": "17:02:36.00",
     "dec": "-26:16:00.00",
     "magnitude": 6.8,
@@ -6841,7 +6841,7 @@
     "id": "M28",
     "catalog": "Messier",
     "name_en": "M28",
-    "name_kr": null,
+    "name_kr": "M28",
     "ra": "18:24:30.00",
     "dec": "-24:52:00.00",
     "magnitude": 6.8,
@@ -6852,7 +6852,7 @@
     "id": "M23",
     "catalog": "Messier",
     "name_en": "M23",
-    "name_kr": null,
+    "name_kr": "M23",
     "ra": "17:56:48.00",
     "dec": "-19:01:00.00",
     "magnitude": 6.9,
@@ -6863,7 +6863,7 @@
     "id": "M79",
     "catalog": "Messier",
     "name_en": "M79",
-    "name_kr": null,
+    "name_kr": "M79",
     "ra": "09:55:36.00",
     "dec": "+69:04:00.00",
     "magnitude": 6.9,
@@ -6874,7 +6874,7 @@
     "id": "M80",
     "catalog": "Messier",
     "name_en": "M80",
-    "name_kr": null,
+    "name_kr": "M80",
     "ra": "09:55:36.00",
     "dec": "+69:04:00.00",
     "magnitude": 6.9,
@@ -6907,7 +6907,7 @@
     "id": "M29",
     "catalog": "Messier",
     "name_en": "M29",
-    "name_kr": null,
+    "name_kr": "M29",
     "ra": "20:23:54.00",
     "dec": "+38:32:00.00",
     "magnitude": 7.1,
@@ -6918,7 +6918,7 @@
     "id": "M30",
     "catalog": "Messier",
     "name_en": "M30",
-    "name_kr": null,
+    "name_kr": "M30",
     "ra": "21:40:24.00",
     "dec": "-23:11:00.00",
     "magnitude": 7.2,
@@ -6929,7 +6929,7 @@
     "id": "M38",
     "catalog": "Messier",
     "name_en": "M38",
-    "name_kr": null,
+    "name_kr": "M38",
     "ra": "05:28:24.00",
     "dec": "+35:50:00.00",
     "magnitude": 7.4,
@@ -6940,7 +6940,7 @@
     "id": "M103",
     "catalog": "Messier",
     "name_en": "Open Cluster in Cassiopeia",
-    "name_kr": null,
+    "name_kr": "Open Cluster in Cassiopeia",
     "ra": "01:33:12.00",
     "dec": "+60:42:00.00",
     "magnitude": 7.4,
@@ -6962,7 +6962,7 @@
     "id": "M18",
     "catalog": "Messier",
     "name_en": "M18",
-    "name_kr": null,
+    "name_kr": "M18",
     "ra": "18:19:54.00",
     "dec": "-17:08:00.00",
     "magnitude": 7.5,
@@ -6973,7 +6973,7 @@
     "id": "M53",
     "catalog": "Messier",
     "name_en": "Globular Cluster",
-    "name_kr": null,
+    "name_kr": "Globular Cluster",
     "ra": "13:12:54.00",
     "dec": "+18:10:00.00",
     "magnitude": 7.6,
@@ -6984,7 +6984,7 @@
     "id": "M14",
     "catalog": "Messier",
     "name_en": "M14",
-    "name_kr": null,
+    "name_kr": "M14",
     "ra": "17:37:36.00",
     "dec": "-03:15:00.00",
     "magnitude": 7.6,
@@ -6995,7 +6995,7 @@
     "id": "M52",
     "catalog": "Messier",
     "name_en": "M52",
-    "name_kr": null,
+    "name_kr": "M52",
     "ra": "13:12:54.00",
     "dec": "+18:10:00.00",
     "magnitude": 7.6,
@@ -7006,7 +7006,7 @@
     "id": "M54",
     "catalog": "Messier",
     "name_en": "M54",
-    "name_kr": null,
+    "name_kr": "M54",
     "ra": "18:55:06.00",
     "dec": "-30:29:00.00",
     "magnitude": 7.6,
@@ -7017,7 +7017,7 @@
     "id": "M69",
     "catalog": "Messier",
     "name_en": "M69",
-    "name_kr": null,
+    "name_kr": "M69",
     "ra": "18:31:24.00",
     "dec": "-32:21:00.00",
     "magnitude": 7.6,
@@ -7039,7 +7039,7 @@
     "id": "M9",
     "catalog": "Messier",
     "name_en": "M9",
-    "name_kr": null,
+    "name_kr": "M9",
     "ra": "17:19:12.00",
     "dec": "-18:31:00.00",
     "magnitude": 7.7,
@@ -7050,7 +7050,7 @@
     "id": "M68",
     "catalog": "Messier",
     "name_en": "M68",
-    "name_kr": null,
+    "name_kr": "M68",
     "ra": "12:39:30.00",
     "dec": "-26:45:00.00",
     "magnitude": 7.8,
@@ -7061,7 +7061,7 @@
     "id": "M107",
     "catalog": "Messier",
     "name_en": "M107",
-    "name_kr": null,
+    "name_kr": "M107",
     "ra": "16:32:30.00",
     "dec": "-13:03:00.00",
     "magnitude": 7.9,
@@ -7072,7 +7072,7 @@
     "id": "M70",
     "catalog": "Messier",
     "name_en": "M70",
-    "name_kr": null,
+    "name_kr": "M70",
     "ra": "18:43:12.00",
     "dec": "-32:18:00.00",
     "magnitude": 7.9,
@@ -7094,7 +7094,7 @@
     "id": "M26",
     "catalog": "Messier",
     "name_en": "M26",
-    "name_kr": null,
+    "name_kr": "M26",
     "ra": "18:45:12.00",
     "dec": "-09:24:00.00",
     "magnitude": 8.0,
@@ -7127,7 +7127,7 @@
     "id": "M71",
     "catalog": "Messier",
     "name_en": "Globular Cluster in Sagitta",
-    "name_kr": null,
+    "name_kr": "Globular Cluster in Sagitta",
     "ra": "19:53:48.00",
     "dec": "+18:47:00.00",
     "magnitude": 8.2,
@@ -7149,7 +7149,7 @@
     "id": "M56",
     "catalog": "Messier",
     "name_en": "M56",
-    "name_kr": null,
+    "name_kr": "M56",
     "ra": "19:16:36.00",
     "dec": "+30:11:00.00",
     "magnitude": 8.3,
@@ -7160,7 +7160,7 @@
     "id": "M78",
     "catalog": "Messier",
     "name_en": "M78",
-    "name_kr": null,
+    "name_kr": "M78",
     "ra": "05:46:42.00",
     "dec": "+00:03:00.00",
     "magnitude": 8.3,
@@ -7182,7 +7182,7 @@
     "id": "M106",
     "catalog": "Messier",
     "name_en": "M106",
-    "name_kr": null,
+    "name_kr": "M106",
     "ra": "12:19:00.00",
     "dec": "+47:18:00.00",
     "magnitude": 8.4,
@@ -7193,7 +7193,7 @@
     "id": "M40",
     "catalog": "Messier",
     "name_en": "M40",
-    "name_kr": null,
+    "name_kr": "M40",
     "ra": "12:22:24.00",
     "dec": "+58:05:00.00",
     "magnitude": 8.4,
@@ -7204,7 +7204,7 @@
     "id": "M49",
     "catalog": "Messier",
     "name_en": "M49",
-    "name_kr": null,
+    "name_kr": "M49",
     "ra": "12:29:48.00",
     "dec": "+08:00:00.00",
     "magnitude": 8.4,
@@ -7259,7 +7259,7 @@
     "id": "M75",
     "catalog": "Messier",
     "name_en": "M75",
-    "name_kr": null,
+    "name_kr": "M75",
     "ra": "20:06:06.00",
     "dec": "-21:55:00.00",
     "magnitude": 8.5,
@@ -7292,7 +7292,7 @@
     "id": "M60",
     "catalog": "Messier",
     "name_en": "M60",
-    "name_kr": null,
+    "name_kr": "M60",
     "ra": "12:43:42.00",
     "dec": "+11:33:00.00",
     "magnitude": 8.8,
@@ -7314,7 +7314,7 @@
     "id": "M66",
     "catalog": "Messier",
     "name_en": "M66",
-    "name_kr": null,
+    "name_kr": "M66",
     "ra": "11:20:12.00",
     "dec": "+12:59:00.00",
     "magnitude": 8.9,
@@ -7336,7 +7336,7 @@
     "id": "M73",
     "catalog": "Messier",
     "name_en": "M73",
-    "name_kr": null,
+    "name_kr": "M73",
     "ra": null,
     "dec": null,
     "magnitude": 9.0,
@@ -7358,7 +7358,7 @@
     "id": "M84",
     "catalog": "Messier",
     "name_en": "M84",
-    "name_kr": null,
+    "name_kr": "M84",
     "ra": "12:25:06.00",
     "dec": "-12:53:00.00",
     "magnitude": 9.1,
@@ -7369,7 +7369,7 @@
     "id": "M85",
     "catalog": "Messier",
     "name_en": "M85",
-    "name_kr": null,
+    "name_kr": "M85",
     "ra": "12:25:24.00",
     "dec": "+18:11:00.00",
     "magnitude": 9.1,
@@ -7380,7 +7380,7 @@
     "id": "M96",
     "catalog": "Messier",
     "name_en": "M96",
-    "name_kr": null,
+    "name_kr": "M96",
     "ra": "10:46:48.00",
     "dec": "+11:49:00.00",
     "magnitude": 9.2,
@@ -7391,7 +7391,7 @@
     "id": "M100",
     "catalog": "Messier",
     "name_en": "M100",
-    "name_kr": null,
+    "name_kr": "M100",
     "ra": "12:22:54.00",
     "dec": "+15:49:00.00",
     "magnitude": 9.3,
@@ -7402,7 +7402,7 @@
     "id": "M105",
     "catalog": "Messier",
     "name_en": "M105",
-    "name_kr": null,
+    "name_kr": "M105",
     "ra": "10:47:48.00",
     "dec": "+12:35:00.00",
     "magnitude": 9.3,
@@ -7413,7 +7413,7 @@
     "id": "M65",
     "catalog": "Messier",
     "name_en": "M65",
-    "name_kr": null,
+    "name_kr": "M65",
     "ra": "11:18:54.00",
     "dec": "+13:05:00.00",
     "magnitude": 9.3,
@@ -7424,7 +7424,7 @@
     "id": "M72",
     "catalog": "Messier",
     "name_en": "M72",
-    "name_kr": null,
+    "name_kr": "M72",
     "ra": "20:53:30.00",
     "dec": "-12:32:00.00",
     "magnitude": 9.3,
@@ -7435,7 +7435,7 @@
     "id": "M74",
     "catalog": "Messier",
     "name_en": "M74",
-    "name_kr": null,
+    "name_kr": "M74",
     "ra": "01:36:42.00",
     "dec": "+15:47:00.00",
     "magnitude": 9.4,
@@ -7446,7 +7446,7 @@
     "id": "M90",
     "catalog": "Messier",
     "name_en": "M90",
-    "name_kr": null,
+    "name_kr": "M90",
     "ra": "12:36:48.00",
     "dec": "+13:10:00.00",
     "magnitude": 9.5,
@@ -7457,7 +7457,7 @@
     "id": "M59",
     "catalog": "Messier",
     "name_en": "M59",
-    "name_kr": null,
+    "name_kr": "M59",
     "ra": "12:42:00.00",
     "dec": "+11:39:00.00",
     "magnitude": 9.6,
@@ -7468,7 +7468,7 @@
     "id": "M88",
     "catalog": "Messier",
     "name_en": "M88",
-    "name_kr": null,
+    "name_kr": "M88",
     "ra": "12:32:00.00",
     "dec": "+14:25:00.00",
     "magnitude": 9.6,
@@ -7479,7 +7479,7 @@
     "id": "M58",
     "catalog": "Messier",
     "name_en": "M58",
-    "name_kr": null,
+    "name_kr": "M58",
     "ra": "12:37:42.00",
     "dec": "+11:49:00.00",
     "magnitude": 9.7,
@@ -7490,7 +7490,7 @@
     "id": "M61",
     "catalog": "Messier",
     "name_en": "M61",
-    "name_kr": null,
+    "name_kr": "M61",
     "ra": "12:21:54.00",
     "dec": "+04:28:00.00",
     "magnitude": 9.7,
@@ -7501,7 +7501,7 @@
     "id": "M95",
     "catalog": "Messier",
     "name_en": "M95",
-    "name_kr": null,
+    "name_kr": "M95",
     "ra": "10:44:00.00",
     "dec": "+11:42:00.00",
     "magnitude": 9.7,
@@ -7512,7 +7512,7 @@
     "id": "M109",
     "catalog": "Messier",
     "name_en": "Barred Spiral Galaxy",
-    "name_kr": null,
+    "name_kr": "Barred Spiral Galaxy",
     "ra": "11:57:36.00",
     "dec": "+53:23:00.00",
     "magnitude": 9.8,
@@ -7523,7 +7523,7 @@
     "id": "M89",
     "catalog": "Messier",
     "name_en": "M89",
-    "name_kr": null,
+    "name_kr": "M89",
     "ra": "12:35:42.00",
     "dec": "+12:33:00.00",
     "magnitude": 9.8,
@@ -7534,7 +7534,7 @@
     "id": "M102",
     "catalog": "Messier",
     "name_en": "M102",
-    "name_kr": null,
+    "name_kr": "M102",
     "ra": "15:06:30.00",
     "dec": "+55:46:00.00",
     "magnitude": 9.9,
@@ -7567,7 +7567,7 @@
     "id": "M108",
     "catalog": "Messier",
     "name_en": "M108",
-    "name_kr": null,
+    "name_kr": "M108",
     "ra": "11:11:30.00",
     "dec": "+55:40:00.00",
     "magnitude": 10.0,
@@ -7589,7 +7589,7 @@
     "id": "M98",
     "catalog": "Messier",
     "name_en": "M98",
-    "name_kr": null,
+    "name_kr": "M98",
     "ra": "12:13:48.00",
     "dec": "+14:54:00.00",
     "magnitude": 10.1,
@@ -7600,7 +7600,7 @@
     "id": "M91",
     "catalog": "Messier",
     "name_en": "M91",
-    "name_kr": null,
+    "name_kr": "M91",
     "ra": "12:35:24.00",
     "dec": "+14:30:00.00",
     "magnitude": 10.2,
